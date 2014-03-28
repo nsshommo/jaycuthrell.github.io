@@ -1,4 +1,0 @@
-qthrul
-======
-
-jaycuthrell.com
