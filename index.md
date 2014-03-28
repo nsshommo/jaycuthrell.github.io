@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 The following content on this page is meant to provide a current and consistent collection of information about me for event and conference planners, press, analysts, friends, family, and anyone feeling lucky with a [Google search for Jay Cuthrell](http://bit.ly/qthrul).
 
 ### Contact Information
