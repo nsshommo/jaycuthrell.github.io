@@ -310,6 +310,12 @@ a.github {
 a.twitter {
 	background: url(../images/twitter.png) no-repeat 1px;
 }
+a.google {
+	background: url(../images/google.png) no-repeat 1px;
+}
+a.linkedin {
+	background: url(../images/linkedin.png) no-repeat 1px;
+}
 
 a.buttons:hover {
 	color: #fff;
