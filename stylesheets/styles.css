@@ -319,6 +319,9 @@ a.google {
 a.linkedin {
 	background: url(../images/linkedin.png) no-repeat 1px;
 }
+a.crunchbase {
+	background: url(../images/crunchbase.png) no-repeat 1px;
+}
 
 a.buttons:hover {
 	color: #fff;
