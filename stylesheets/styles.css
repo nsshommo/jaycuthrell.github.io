@@ -368,7 +368,7 @@ footer {
 	}
 
   header {
-    padding-right:320px;
+    padding-right:300px;
   }
 
   section {
@@ -382,7 +382,7 @@ footer {
 
   header ul {
     position:absolute;
-    right:130px;
+    right:110px;
     top:84px;
   }
 }
