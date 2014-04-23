@@ -304,6 +304,9 @@ a.buttons {
 	height: 30px;
 }
 
+a.fudge {
+	background: url(../images/fudge.png) no-repeat 1px;
+}
 a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
