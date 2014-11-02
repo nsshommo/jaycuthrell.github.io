@@ -49,6 +49,7 @@ Honorarium: An honorarium in the form of an anonymous charitable donation to a b
 
 <div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U "></iframe></div>
 
+(Partial List)
 
 ###Speaking and Industry Event Experience
 
