@@ -8,7 +8,7 @@ The following content on this page is meant to provide a current and consistent 
 
 ###Speaker Bio and Headshot
 
-<a href="http://www.flickr.com/photos/jcuthrell/5928931045/"><img src="http://farm7.staticflickr.com/6140/5928931045_164915639f_q.jpg" alt="headshot-speaker-bio" /></a>
+<a href="http://www.flickr.com/photos/jcuthrell/5928931045/"><img src="http://farm7.staticflickr.com/6140/5928931045_164915639f_q.jpg" alt="headshot-speaker-bio" width="300" /></a>
 
 - Name: William J. Cuthrell (Jay)
 - Preferred Name: Jay Cuthrell
@@ -23,7 +23,7 @@ Honorarium: An honorarium in the form of an anonymous charitable donation to a b
 - Business Card License: <a href="http://creativecommons.org/licenses/by-sa/2.0/">Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)</a>
 
 
-<a href="https://www.flickr.com/photos/jcuthrell/8659223487" title="Jay Cuthrell - Office of the CTO - VCE by Jay Cuthrell, on Flickr"><img src="https://farm9.staticflickr.com/8109/8659223487_9270927dbe.jpg" width="500" height="374" alt="Jay Cuthrell - Office of the CTO - VCE"></a>
+<a href="https://www.flickr.com/photos/jcuthrell/8659223487" title="Jay Cuthrell - Office of the CTO - VCE by Jay Cuthrell, on Flickr"><img src="https://farm9.staticflickr.com/8109/8659223487_9270927dbe.jpg" width="300" alt="Jay Cuthrell - Office of the CTO - VCE"></a>
 
 ###Video Interviews
 
