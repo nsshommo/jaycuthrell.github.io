@@ -29,25 +29,25 @@ Honorarium: An honorarium in the form of an anonymous charitable donation to a b
 
 (Partial List)
 
-<div class="embed-video-container"><iframe width="300" height="168" src="//www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4 "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA"></iframe>
 
-<div class="embed-video-container"><iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U "></iframe></div>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U"></iframe>
 
 (Partial List)
 
