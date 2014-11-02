@@ -8,7 +8,7 @@ The following content on this page is meant to provide a current and consistent 
 
 ###Speaker Bio and Headshot
 
-<a href="http://www.flickr.com/photos/jcuthrell/5928931045/"><img src="http://farm7.staticflickr.com/6140/5928931045_164915639f_q.jpg" alt="headshot-speaker-bio" width="300" /></a>
+<a href="http://www.flickr.com/photos/jcuthrell/5928931045/"><img src="http://farm7.staticflickr.com/6140/5928931045_164915639f_q.jpg" alt="headshot-speaker-bio"</a>
 
 - Name: William J. Cuthrell (Jay)
 - Preferred Name: Jay Cuthrell
@@ -29,25 +29,25 @@ Honorarium: An honorarium in the form of an anonymous charitable donation to a b
 
 (Partial List)
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U"></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
 (Partial List)
 
