@@ -26,31 +26,6 @@ Bio: Jay Cuthrell is a managing principal consultant within the Office of the Ch
 
 <a href="https://www.flickr.com/photos/jcuthrell/8659223487" title="Jay Cuthrell - Office of the CTO - VCE by Jay Cuthrell, on Flickr"><img src="https://farm9.staticflickr.com/8109/8659223487_9270927dbe.jpg" width="300" alt="Jay Cuthrell - Office of the CTO - VCE"></a>
 
-###Video Interviews
-
-(Partial List)
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
-
-(Partial List)
 
 ###Speaking and Industry Event Experience
 
@@ -92,6 +67,32 @@ Bio: Jay Cuthrell is a managing principal consultant within the Office of the Ch
 - <a href="http://blog.vce.com/author/jay.cuthrell/">VCE Blog</a>
 - <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
 - <a href="http://fudge.org">fudge.org</a>
-- <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
+- <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a> 
+
+###Video Interviews
+
+(Partial List)
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
+
+(Partial List)
 
 Please read my <a href="http://fudge.org/disclosure">disclosure</a>.
