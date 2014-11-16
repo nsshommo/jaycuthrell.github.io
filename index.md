@@ -62,6 +62,8 @@ Bio: Jay Cuthrell is a managing principal consultant within the Office of the Ch
 
 ###Blogging and Writing Contributions
 
+(Partial List)
+
 - <a href="http://readwrite.com/author/jay-cuthrell">ReadWrite</a>
 - <a href="http://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
 - <a href="http://blog.vce.com/author/jay.cuthrell/">VCE Blog</a>
@@ -95,6 +97,6 @@ Bio: Jay Cuthrell is a managing principal consultant within the Office of the Ch
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
-(Partial List)
+###Disclosure
 
 Please read my <a href="http://fudge.org/disclosure">disclosure</a>.
