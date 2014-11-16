@@ -97,6 +97,7 @@ Bio: Jay Cuthrell is a managing principal consultant within the Office of the Ch
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
+
 ###Disclosure
 
 Please read my <a href="http://fudge.org/disclosure">disclosure</a>.
