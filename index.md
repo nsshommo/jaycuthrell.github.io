@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "Jay Cuthrell"
-date: "2014"
+date: "2014-11-19"
 ---
 
 The following content on this page is meant to provide a current and consistent collection of information about me for event and conference planners, press, analysts, friends, family, and anyone feeling lucky with a Google search for Jay Cuthrell.
