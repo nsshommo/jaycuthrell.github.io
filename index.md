@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "Jay Cuthrell's Home Page"
+title: "Jay Cuthrell"
 date: "2014"
 ---
 
