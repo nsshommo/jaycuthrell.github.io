@@ -18,6 +18,39 @@ date: "2014-11-19"
 - <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
 - <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
 
+###Speaking and Industry Event Experience
+
+(Partial List)
+
+- VMworld US 2014
+- Montana Government IT Conference 2013
+- Montana Telecom Conference 2013
+- CG ITG Tech Expo 2013
+- Cloud Connect OpenStack 2013
+- Bay Area Large Installation System Administrators (BayLISA) 2013
+- Gartner Symposium / ITxpo EMEA 2012
+- IDC EMEA 2012
+- IDC Americas 2012
+- EMC Forum Saudi Arabia 2012
+- VMworld US Service Provider Cloud Panel 2012
+- NTCA 2012, 2005, 2004, 2003
+- Cloud Services Summit 2011, 2012
+- CIO Latin America Summit Brazil 2012
+- SxSW Interactive 2011, 2010, 2009
+- Ignite Raleigh 2010
+- OPASTCO 2010
+- IP Possibilities 2010, 2009, 2008, 2007
+- NCTIA and TCI 2009, 2004
+- NeoNova Summit 2009, 2007, 2005, 2004, 2002
+- TANE 2009
+- TelcoTV 2009
+- Atlanta Telecom Professionals 2009
+- NTCA Wireless Symposium 2009
+- Wireless Technology Forum (WTF SIGUC) 2008
+- EC-EXPO 2006
+- Siemens/Myrio Conference 2005
+- Nortel Affiliate User Group 1998, 1997
+
 ###Video Interviews
 
 ####EMCTV
