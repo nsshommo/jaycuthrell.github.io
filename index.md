@@ -16,9 +16,9 @@ Official Title: Managing Principal Consultant, Office of the Chief Technology Of
 
 Company: [VCE](http://www.vce.com)
 
-Headshot: <a href="http://www.flickr.com/photos/jcuthrell/5928931045/"><img src="http://farm7.staticflickr.com/6140/5928931045_164915639f_q.jpg" alt="headshot-speaker-bio"</a>
+Headshot: <a href="http://www.flickr.com/photos/jcuthrell/5928931045/"><img src="http://farm7.staticflickr.com/6140/5928931045_164915639f_q.jpg" alt="headshot-speaker-bio" ></a>
 
-Headshot License:  <a href="http://creativecommons.org/licenses/by-sa/2.0/">Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)</a>
+Headshot License:  <a href="http://creativecommons.org/licenses/by-sa/2.0/" >Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)</a>
 
 Honorarium: An honorarium in the form of an anonymous charitable donation to a bona fide charitable group is encouraged but not required (quid pro quo).
 
