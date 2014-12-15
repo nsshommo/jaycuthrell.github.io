@@ -1,7 +1,6 @@
 ---
 layout: index
 title: "Jay Cuthrell's Media"
-date: "2014-11-19"
 ---
 
 ###Audio Interviews

@@ -1,7 +1,5 @@
 ---
-date: 2013-12-03 11:05:03
 layout: index
-slug: music
 title: Jay Cuthrell's Music 
 ---
 
