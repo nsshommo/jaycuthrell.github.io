@@ -1,7 +1,6 @@
 ---
 layout: index
 title: "Jay Cuthrell"
-date: "2014-11-19"
 ---
 ###Speaker Bio 
 
