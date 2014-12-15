@@ -60,17 +60,6 @@ Bio: Jay Cuthrell is a managing principal consultant within the Office of the Ch
 - Siemens/Myrio Conference 2005
 - Nortel Affiliate User Group 1998, 1997
 
-###Blogging and Writing Contributions
-
-(Partial List)
-
-- <a href="http://readwrite.com/author/jay-cuthrell">ReadWrite</a>
-- <a href="http://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
-- <a href="http://blog.vce.com/author/jay.cuthrell/">VCE Blog</a>
-- <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
-- <a href="http://fudge.org">fudge.org</a>
-- <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a> 
-
 ###Disclosure
 
 Please read my <a href="http://fudge.org/disclosure">disclosure</a>.
