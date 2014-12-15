@@ -50,7 +50,7 @@
           <a target=_blank href="https://twitter.com/JayCuthrell">Twitter</a> 
         <hr>
 <h1><a href="">{{ page.title }}</a></h1>
-<p>Date: {{ page.date }}</p>
+<p>{% if page.date != null %} Date: {{ page.date }} {% endif %}</p>
 {{ content }}
 
       </section>
