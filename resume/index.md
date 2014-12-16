@@ -125,8 +125,10 @@ North Carolina State University
 
 ###Digitel, Hosted Network, NeoNova
 - Founders Club, Digitel Corporation, 2008
-- Founders Club, Digitel Corporation, 2007 Excellence Award, Hosted Network, 2007 
-- Founders Club, Digitel Corporation, 2006 Excellence Award, NeoNova, 2006
+- Founders Club, Digitel Corporation, 2007 
+- Excellence Award, Hosted Network, 2007 
+- Founders Club, Digitel Corporation, 2006 
+- Excellence Award, NeoNova, 2006
 
 ###Scient, iXL
 - Golden Boot Award, Scient , 2002 
