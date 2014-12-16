@@ -34,7 +34,7 @@ October 2006 – October 2009
 
 ##Experience
 
-###Office of the CTO
+###Office of the Chief Technology Officer
 VCE
 
 May 2012 - Present
@@ -169,18 +169,23 @@ North Carolina State University
 - Master Engineer, VCE, 2013 
 - vExpert, VMware, 2013 
 - Boldness Award, VCE, 2012
+
 ###Digitel, Hosted Network, NeoNova
 - Founders Club, Digitel Corporation, 2008
 - Founders Club, Digitel Corporation, 2007 Excellence Award, Hosted Network, 2007 
 - Founders Club, Digitel Corporation, 2006 Excellence Award, NeoNova, 2006
+
 ###Scient, iXL
 - Golden Boot Award, Scient , 2002 
 - Passion Award, iXL, May 2000
+
 ###Nortel
 - Session Administrator, Internet World, 1997
+
 ###IBM
 - IBM Co-op Y.E.A. (Your Effort is Appreciated) Award, IBM, 1995
-###School
+
+###Scholastic
 - US Department of Energy - High School Internship Program, Argonne National Laboratory, 1990 
 - NASA Challenger Commander Michael J. Smith Scholarship, 1990
 - Teaching Fellows Scholarship, 1990
@@ -194,7 +199,7 @@ Nortel
 ###Weblogic Server Administration
 BEA
 ###NSA INFOSEC Assessment Methodology (IAM)
-ISATRP, [Certified](http://www.isatrp.org/certified_list.php?w=IAM#C)
+ISATRP
 ###Secure Membership
 InfraGard
 ###Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP
