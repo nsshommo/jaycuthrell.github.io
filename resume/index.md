@@ -163,3 +163,5 @@ Taqua
 VocalData
 ###Canopy Wireless Broadband Technical Training
 Motorola
+###Converged Infrastructure Associate (VCE-CIA)
+VCE
