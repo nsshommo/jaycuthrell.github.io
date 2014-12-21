@@ -87,4 +87,13 @@ title: "Jay Cuthrell's Media"
 ####SXSW 2010
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
+### Viral Videos
 
+####EMC Style 2013
+<iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
+
+####Cloud Shop
+<iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
+
+####\#HardwareForWhat
+<iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
