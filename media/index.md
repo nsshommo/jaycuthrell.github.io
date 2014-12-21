@@ -6,8 +6,8 @@ title: "Jay Cuthrell's Media"
 ###Audio Interviews
 
 - [Geek Whisperers: Episode 27 – The Balkanization of Tech Conferences and the Long Tail of SWAG](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
-- [NPR Marketplace: Facebook fatigue may be setting in ](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting)
-- [NPR Marketplace: Having missed the mobile boat, Microsoft name losing luster](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster)
+- [NPR American Public Media's Marketplace: Facebook fatie may be setting in ](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting)  <iframe src="http://www.thisismarketplace.org/node/43912/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
+- [NPR American Public Media's Marketplace: Having missed the mobile boat, Microsoft name losing luster](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster) <iframe src="http://www.thisismarketplace.org/node/38002/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
 
 ###Writing and Blogging
 
