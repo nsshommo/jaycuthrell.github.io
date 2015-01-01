@@ -3,7 +3,7 @@ layout: index
 title: "Jay Cuthrell's Resum&eacute;"
 ---
 
-<a href="mailto:jay@cuthrell.com?SUBJECT=cv">Please send email for detailed versions of this document.</a>
+<a href="mailto:jay@cuthrell.com?SUBJECT=cv+2015">Please send email for detailed versions of this document.</a>
 
 ##Summary
 

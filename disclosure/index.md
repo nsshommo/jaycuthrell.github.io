@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Disclosure
-date: 2014-11-01
+date: 2015-01-01
 ---
 
 Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhausive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits.
@@ -23,6 +23,8 @@ I’ve been a guest contributor at Telecompetitor and a writer for ReadWrite.
 My updated bio is kept relatively current on my about me page
 
 As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently part of the Office of the CTO at VCE that provides me with access to place referral links to job openings that may result in referral bonus payments to me as part of company wide hiring and recruiting incentives.
+
+As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware.
 
 I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well.
 

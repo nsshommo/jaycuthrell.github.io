@@ -14,6 +14,6 @@ Summary: Jay Cuthrell is a managing principal consultant within the Office of th
 
 ###Disclosure
 
-Honorarium: An honorarium in the form of an anonymous charitable donation to a bona fide charitable group is encouraged but not required (quid pro quo).
-
 Please read my <a href="http://fudge.org/disclosure">disclosure</a>.
+
+Honorarium: An honorarium in the form of an anonymous charitable donation to a bona fide charitable group is encouraged but not required (quid pro quo).
