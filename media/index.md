@@ -35,7 +35,7 @@ title: "Jay Cuthrell's Media"
 - EMC Forum Saudi Arabia 2012
 - VMworld US Service Provider Cloud Panel 2012
 - NTCA 2012, 2005, 2004, 2003
-- Cloud Services Summit 2011, 2012
+- Cloud Services Summit 2012, 2011
 - CIO Latin America Summit Brazil 2012
 - SxSW Interactive 2011, 2010, 2009
 - Ignite Raleigh 2010
