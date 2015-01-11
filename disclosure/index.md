@@ -1,8 +1,13 @@
 ---
 layout: index
 title: Disclosure
-date: 2015-01-01
+date: 2015-01-11
 ---
+
+As of this update there are approximately 26,400 results on Google when you search for the phrase "Declaration of conflicting interest".
+
+<blockquote class="twitter-tweet" lang="en"><p>Watch this space... <a href="http://t.co/rdwnPXEda5">pic.twitter.com/rdwnPXEda5</a></p>&mdash; Jay Cuthrell (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/554411597511135234">January 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhausive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits.
 
