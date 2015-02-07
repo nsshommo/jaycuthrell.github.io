@@ -3,7 +3,7 @@ layout: index
 title: "Jay Cuthrell's Resum&eacute;"
 ---
 
-<a href="http://eepurl.com/bdG70r">Please subscribe for detailed versions of this document.</a>
+<a href="http://eepurl.com/bdG70r">UPDATE: Please subscribe for detailed versions of this document.</a>
 
 ##Summary
 
