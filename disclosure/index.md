@@ -47,7 +47,7 @@ With all startups I advise, the equity I have is commensurate with my involvemen
 
 ###Positions
 
-I do not actively trade stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
+I do not actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
 
 I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront.
 
