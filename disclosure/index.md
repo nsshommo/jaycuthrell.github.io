@@ -1,15 +1,15 @@
 ---
 layout: index
 title: Disclosure
-date: 2015-01-11
+date: 2015-02-28
 ---
 
-As of this update there are approximately 26,400 results on Google when you search for the phrase "Declaration of conflicting interest".
+As of this update there are approximately 25,900 results on Google when you search for the phrase "Declaration of conflicting interest".
 
 <blockquote class="twitter-tweet" lang="en"><p>Watch this space... <a href="http://t.co/rdwnPXEda5">pic.twitter.com/rdwnPXEda5</a></p>&mdash; Jay Cuthrell (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/554411597511135234">January 11, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhausive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits.
+Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhausive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits or I will state that the opinions shared on those third party services are solely mine.
 
 In general, the words, images, or what can be summed up as a variety of purposeful output found at this website and elsewhere on the Internets are my opinions. These momentary captures of the vortex of consciousness and mutable communications reflect my opinions and not those of anything or anyone else. That’s what many folks like to call a disclaimer. This disclaimer is mine. It’s pretty fancy if I do say so myself. Which I just did.
 
@@ -17,7 +17,7 @@ In general, the words, images, or what can be summed up as a variety of purposef
 
 There is a link to this disclaimer and my disclosure(s) within the footer of each page here unless rendering that disclaimer is impacted by noodling with my content management system du jour. Read it. Know it. Love it.
 
-I reserve the right to change my mind and edit content at any time. If you are seeking wiki level changelogs to be published — you came to the wrong place. A self hosted blog/CMS != Wiki.  Head over to Wikipedia and knock yourself out if you must i.e. qthrul on Wikipedia.
+I reserve the right to change my mind and edit content at any time. If you are seeking wiki level changelogs to be published — you came to the wrong place. A self hosted blog/CMS != Wiki. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by GitHub Pages.
 
 I’m a prolific comment maker across the Interwebs — yes, even Twitter. If there is any ambiguity around me making the comment or not, please consider the rather loose concepts around comment vetting and non-repudiation before you assume a comment is truly mine. Just ask me. Never assume.
 
@@ -25,13 +25,13 @@ I’ve been a guest contributor at Telecompetitor and a writer for ReadWrite.
 
 ###My Employers, Clients, and Customers
 
-My updated bio is kept relatively current on my about me page
+My updated bio is kept relatively current on the home page of this website and other variations elsewhere on the Internet are considered deprecated.
 
 As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently part of the Office of the CTO at VCE that provides me with access to place referral links to job openings that may result in referral bonus payments to me as part of company wide hiring and recruiting incentives.
 
-As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware.
+As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware. 
 
-I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well.
+I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. My abreviated CV is also availabe on this website and other variations elsewhere on the Internet are considered deprecated.
 
 ###Startups
 
@@ -47,9 +47,9 @@ With all startups I advise, the equity I have is commensurate with my involvemen
 
 ###Positions
 
-I have less than 10,000 shares in each of the following: CYNI, T, V, ALTV, CCOI, SPLK, EBAY, CSC, NSR, CMCSA, TWC, CBB, FTR, WWVY, EGHT, LLNW, AKAM, VRSN, NTT, EQIX, INAP, TWTC, CTL, LVLT, RAX, S, ATT, VZ, SFTBY, EMC, CSCO, VMW
+I do not actively trade stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
 
-I also invest in mutual funds that are primarily non-tech focused.
+I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront.
 
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
 
@@ -61,6 +61,6 @@ I’m often presented with various bags of random items and the occasional high 
 
 I’m often doing the meals and entertainment thing with clients and customers. Sometimes I get invited to VIP events that are extremely valuable in terms of the ticket price. I make it widely known that someone paid my way. Typically, I’m back the next year on my own dime if it is a solid event. Also, if I am dining with industry contacts, it’s a good bet I’m the one footing the bill. Yes, that gets expensive sometimes.
 
-I’m always experimenting with ways to monetize web content. I’ve used Google Adsense, Text Link Ads, Adbrite, Amazon Affiliates, etc… but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there.
+I’m always experimenting with ways to monetize web content. I’ve used Google Adsense, Text Link Ads, Adbrite, Amazon Affiliates, etc… but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there. Currently, I am testing Amazon Affiliates for use with 404 responses on this website and other deprecated web properties that I own.
 
 While I don’t maintain a detailed spreadsheet or general ledger as such, I’ve had plenty of drinks and dinners where the check may have been picked up by a third party or sponsor.  Conspicuous examples would include SxSW social events, pizza nights with local user groups, etc… but there’s also a solid possibility I’ve also been a sponsor and/or paid some form of fee or incurred expenses to be in attendance.
