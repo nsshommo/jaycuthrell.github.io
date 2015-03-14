@@ -45,7 +45,7 @@ I’ve been an advisor to amazing startups that did not survive and experienced 
 
 With all startups I advise, the equity I have is commensurate with my involvement level.
 
-I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](/blog/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
+I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](http://jaycuthrell.com/blog/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
 
 ###Positions
 
