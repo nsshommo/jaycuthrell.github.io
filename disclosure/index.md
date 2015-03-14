@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Disclosure
-date: 2015-02-28
+date: 2015-03-14
 ---
 
 As of this update there are approximately 25,900 results on Google when you search for the phrase "Declaration of conflicting interest".
@@ -43,7 +43,9 @@ I’m an advisor to amazing startups that are pre-funding. Feel free to ask me a
 
 I’ve been an advisor to amazing startups that did not survive and experienced the learning curve of failure. Feel free to ask me about them, the mistakes made, the lessons learned, and how to reach out to the leadership teams that are stronger as a result of failure.
 
-With all startups I advise, the equity I have is commensurate with my involvement level. I’ll link to a blog post at some point that outlines how I work with startups and my full thoughts.
+With all startups I advise, the equity I have is commensurate with my involvement level.
+
+I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](jaycuthrell.com/blog/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
 
 ###Positions
 
