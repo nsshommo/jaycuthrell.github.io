@@ -29,10 +29,15 @@ October 2006 – October 2009
 
 ##Experience
 
+###Global Office of the Chief Technology Officer
+VCE
+
+April 2015 - Present
+
 ###Office of the Chief Technology Officer
 VCE
 
-May 2012 - Present
+May 2012 - March 2015
 
 ###Global Partners and Alliances
 VCE
