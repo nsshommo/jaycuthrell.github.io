@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Disclosure
-date: 2015-03-14
+date: 2015-07-09
 ---
 
 As of this update there are approximately 25,900 results on Google when you search for the phrase "Declaration of conflicting interest".
