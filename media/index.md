@@ -99,3 +99,7 @@ title: "Jay Cuthrell's Media"
 
 ####\#HardwareForWhat
 <iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
+
+###Music
+
+Please listen to my [musical recordings](http://jaycuthrell.com/music/).
