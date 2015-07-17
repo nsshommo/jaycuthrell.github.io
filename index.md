@@ -12,5 +12,8 @@ An honorarium in the form of an anonymous charitable donation to a bona fide cha
 
 ###Disclosure
 
-Please read my <a href="http://jaycuthrell.com/disclosure/">disclosure</a>.
+Please read my [disclosure](http://jaycuthrell.com/disclosure/).
 
+###Resum&eacute;
+
+Please read my [professional summary](http://jaycuthrell.com/resume/).
