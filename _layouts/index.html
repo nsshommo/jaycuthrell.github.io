@@ -48,7 +48,7 @@
           <a target=_blank rel="me" href="https://twitter.com/JayCuthrell">Twitter</a> 
         <hr>
 <h1><a href="">{{ page.title }}</a></h1>
-<p>{% if page.date != null %} Date: {{ page.date }} {% endif %}</p>
+<p>{% if page.date != null %} Last Updated: {{ page.date  | date: "%B %-d %Y" }} {% endif %}</p>
 {{ content }}
 
       </section>
