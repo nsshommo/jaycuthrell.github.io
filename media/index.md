@@ -5,6 +5,8 @@ title: "Jay Cuthrell's Media"
 
 ###Audio Interviews
 
+(Partial List)
+
 - [Geek Whisperers: Episode 27 – The Balkanization of Tech Conferences and the Long Tail of SWAG](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
 - [NPR American Public Media's Marketplace](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting)  <iframe src="http://www.thisismarketplace.org/node/43912/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
 - [NPR American Public Media's Marketplace](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster) <iframe src="http://www.thisismarketplace.org/node/38002/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
@@ -23,9 +25,9 @@ title: "Jay Cuthrell's Media"
 
 (Partial List)
 
+- VMworld US 2015, 2014
 - EMC World 2015
 - InNEVation CommunityCation 2015
-- VMworld US 2014
 - Montana Government IT Conference 2013
 - Montana Telecom Conference 2013
 - CG ITG Tech Expo 2013
@@ -54,7 +56,9 @@ title: "Jay Cuthrell's Media"
 - Siemens/Myrio Conference 2005
 - Nortel Affiliate User Group 1998, 1997
 
-###Video Interviews
+###Video Interviews 
+
+(Partial List)
 
 ####EMCTV
 <object id="flashObj" width="300" height="168" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" base="http://admin.brightcove.com" name="flashObj" width="300" height="168" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
@@ -90,6 +94,8 @@ title: "Jay Cuthrell's Media"
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
 ### Viral Videos
+
+(Partial List)
 
 ####EMC Style 2013
 <iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
