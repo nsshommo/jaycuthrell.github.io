@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Disclosure
-date: 2015-07-09
+date: 2015-10-15
 ---
 
 As of this update there are approximately 25,900 results on Google when you search for the phrase "Declaration of conflicting interest".
@@ -30,6 +30,8 @@ My updated bio is kept relatively current on the home page of this website and o
 As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently a Director within the Global Office of the CTO at VCE that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
 
 As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware. 
+
+As of October 2015, [Dell and EMC signed a definitive agreement to combine](http://www.emc.com/futureready).
 
 I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. My abreviated CV is also availabe on this website and other variations elsewhere on the Internet are considered deprecated.
 
