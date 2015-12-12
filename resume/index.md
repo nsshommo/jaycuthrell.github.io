@@ -7,7 +7,7 @@ title: "Jay Cuthrell's Resum&eacute;"
 
 ##Summary
 
-In a nutshell, I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with senior roles at companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed rockstar teams of software, systems, and sales engineers along the way.
+As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with senior roles at companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed rockstar teams of software, systems, and sales engineers along the way.
 
 Most recently, I formed my own consulting practice, cuthrell.com, before joining VCE. My practice delivered trusted advisory support to service providers, investment groups, and startup companies.
 
