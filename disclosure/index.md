@@ -33,7 +33,9 @@ As of January 2015, VCE is an EMC Federation Company with investments from Cisco
 
 As of October 2015, [Dell and EMC signed a definitive agreement to combine](http://www.emc.com/futureready). (Please see the addendum at the bottom of this page.)
 
-I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. My abreviated CV is also availabe on this website and other variations elsewhere on the Internet are considered deprecated.
+As of December 2015, The “go shop” period has expired and ["EMC will continue to work with Michael Dell, MSD Partners and Silver Lake to pursue the combination of Dell and EMC"](http://www.emc.com/about/news/press/2015/20151212-01.htm) (Please see the addendum at the bottom of this page.)
+
+I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](/resume/) is exclusively availabe on this website and other variations elsewhere on the Internet are considered deprecated.
 
 ###Startups
 
