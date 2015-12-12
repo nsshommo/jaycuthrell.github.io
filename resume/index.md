@@ -112,6 +112,7 @@ VCE
 - Boldness Award, VCE, 2012
 
 Digitel, Hosted Network, NeoNova
+
 - Founders Club, Digitel Corporation, 2008
 - Founders Club, Digitel Corporation, 2007 
 - Excellence Award, Hosted Network, 2007 
@@ -123,24 +124,28 @@ Scient, iXL
 - Passion Award, iXL, May 2000
 
 Nortel
+
 - Session Administrator, Internet World, 1997
 
 IBM
+
 - IBM Co-op Y.E.A. (Your Effort is Appreciated) Award, IBM, 1995
 
 Scholastic
+
 - US Department of Energy - High School Internship Program, Argonne National Laboratory, 1990 
 - NASA Challenger Commander Michael J. Smith Scholarship, 1990
 - Teaching Fellows Scholarship, 1990
 - NROTC Scholarship, 1990
 
 ##Certifications and Training
--Project Management Methods Nortel
--Management Influence Nortel
--Weblogic Server Administration BEA
--NSA INFOSEC Assessment Methodology (IAM) ISATRP
--Secure Membership InfraGard
--Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP Taqua
--Carrollton 5.0 VOISS, VOISS IP Centrex VoIP, Bedford 4.5 VOISS VocalData
--Canopy Wireless Broadband Technical Training Motorola
--Converged Infrastructure Associate (VCE-CIA) VCE
+
+- Project Management Methods Nortel
+- Management Influence Nortel
+- Weblogic Server Administration BEA
+- NSA INFOSEC Assessment Methodology (IAM) ISATRP
+- Secure Membership InfraGard
+- Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP Taqua
+- Carrollton 5.0 VOISS, VOISS IP Centrex VoIP, Bedford 4.5 VOISS VocalData
+- Canopy Wireless Broadband Technical Training Motorola
+- Converged Infrastructure Associate (VCE-CIA) VCE
