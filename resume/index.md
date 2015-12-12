@@ -31,87 +31,70 @@ October 2006 – October 2009
 
 Global Office of the Chief Technology Officer
 VCE
-
 April 2015 - Present
 
 Office of the Chief Technology Officer
 VCE
-
 May 2012 - March 2015
 
 Global Partners and Alliances
 VCE
-
 November 2011 - May 2012
 
 Lead Principal vArchitect
 VCE
-
 August 2011 - November 2011
 
 Service Provider + Media and Entertainment vArchitect Manager
 VCE (Acadia)
-
 December 2010 – August 2011
 
 vArchitect
 VCE (Acadia)
-
 October 2010 – December 2010 
 
 Managing Principal
 Cuthrell.Com
-
 January 2009 - October 2010
 
 Writer at ReadWrite
 Cuthrell.Com
-
 August 2010 – October 2010
 
 Contributing Writer at PivotMedia
 Cuthrell.Com
-
 March 2010 – October 2010
 
 Chief Technology Officer
 Digitel
-
 October 2007 – January 2009 
 
 Vice President and General Manager
 Hosted Network
-
 April 2007 – July 2008 
 
 Chief Technology Officer
 NeoNova
-
 August 2002 – December 2007
 
 Manager of Software and Systems Engineering
 iXL
-
 August 1999 – July 2002
 
 Infrastructure Architect
 Scient
-
 August 1999 – July 2002 
 
 Head of Internet Application Development
 Nortel Networks
-
 May 1996 – August 1999
 
 Systems Administrator
 NCSU
-
 January 1996 – April 1996
 
 TCP/IP Benchmark Tester
 IBM
-
 April 1995 – December 1995
 
 ##Education
@@ -152,21 +135,12 @@ Scholastic
 - NROTC Scholarship, 1990
 
 ##Certifications and Training
--Project Management Methods
-Nortel
--Management Influence
-Nortel
--Weblogic Server Administration
-BEA
--NSA INFOSEC Assessment Methodology (IAM)
-ISATRP
--Secure Membership
-InfraGard
--Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP
-Taqua
--Carrollton 5.0 VOISS, VOISS IP Centrex VoIP, Bedford 4.5 VOISS
-VocalData
--Canopy Wireless Broadband Technical Training
-Motorola
--Converged Infrastructure Associate (VCE-CIA)
-VCE
+-Project Management Methods Nortel
+-Management Influence Nortel
+-Weblogic Server Administration BEA
+-NSA INFOSEC Assessment Methodology (IAM) ISATRP
+-Secure Membership InfraGard
+-Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP Taqua
+-Carrollton 5.0 VOISS, VOISS IP Centrex VoIP, Bedford 4.5 VOISS VocalData
+-Canopy Wireless Broadband Technical Training Motorola
+-Converged Infrastructure Associate (VCE-CIA) VCE
