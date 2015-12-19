@@ -15,10 +15,10 @@ Jay Cuthrell is a Director within the Global Office of the Chief Technology Offi
 
 An honorarium in the form of an anonymous charitable donation to a bona fide charitable group is encouraged but not required (quid pro quo).
 
-###Disclosure
-
-Please read my [disclosure](http://jaycuthrell.com/disclosure/).
-
 ###Resum&eacute;
 
 Please read my [professional summary](http://jaycuthrell.com/resume/).
+
+###Disclosure
+
+Please read my [disclosure](http://jaycuthrell.com/disclosure/).
