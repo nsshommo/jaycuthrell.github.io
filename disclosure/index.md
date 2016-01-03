@@ -1,13 +1,8 @@
 ---
 layout: index
 title: Disclosure
-date: 2015-12-15
+date: 2016-01-03
 ---
-
-As of this update there are approximately 25,900 results on Google when you search for the phrase "Declaration of conflicting interest".
-
-<blockquote class="twitter-tweet" lang="en"><p>Watch this space... <a href="http://t.co/rdwnPXEda5">pic.twitter.com/rdwnPXEda5</a></p>&mdash; Jay Cuthrell (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/554411597511135234">January 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhausive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits or I will state that the opinions shared on those third party services are solely mine.
 
@@ -17,7 +12,7 @@ In general, the words, images, or what can be summed up as a variety of purposef
 
 There is a link to this disclaimer and my disclosure(s) within the footer of each page here unless rendering that disclaimer is impacted by noodling with my content management system du jour. Read it. Know it. Love it.
 
-I reserve the right to change my mind and edit content at any time. If you are seeking wiki level changelogs to be published — you came to the wrong place. A self hosted blog/CMS != Wiki. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by GitHub Pages.
+I reserve the right to change my mind and edit content at any time. Any CMS changelog here is subject to client side edits or server side edits on GitHub as delivered by GitHub Pages.
 
 I’m a prolific comment maker across the Interwebs — yes, even Twitter. If there is any ambiguity around me making the comment or not, please consider the rather loose concepts around comment vetting and non-repudiation before you assume a comment is truly mine. Just ask me. Never assume.
 
