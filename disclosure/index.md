@@ -30,6 +30,8 @@ As of October 2015, [Dell and EMC signed a definitive agreement to combine](http
 
 As of December 2015, The “go shop” period has expired and ["EMC will continue to work with Michael Dell, MSD Partners and Silver Lake to pursue the combination of Dell and EMC"](http://www.emc.com/about/news/press/2015/20151212-01.htm) (Please see the addendum at the bottom of this page.)
 
+As of January 2016, VCE is now the Converged Platforms Division of [EMC](http://www.emc.com/futureready). (Please see the addendum at the bottom of this page.)
+
 I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](/resume/) is exclusively availabe on this website and other variations elsewhere on the Internet are considered deprecated.
 
 ###Startups
