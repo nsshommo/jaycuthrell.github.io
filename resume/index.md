@@ -48,6 +48,7 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 
 VCE
 
+- VMworld Speaker, VMware, 2015
 - EMC World Speaker, EMC, 2015
 - VMworld Speaker, VMware, 2014
 - Master Engineer, VCE, 2013 
