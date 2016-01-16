@@ -22,7 +22,10 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 
 ##Experience
 
-- Global Office of the Chief Technology Officer VCE April 2015 - Present
+- Director of Technology Strategy, Global Office of the Chief Technology Officer
+  - EMC Converged Platforms
+  - January 2016 - Present
+- Global Office of the Chief Technology Officer VCE April 2015 - December 2015
 - Office of the Chief Technology Officer VCE May 2012 - March 2015
 - Global Partners and Alliances VCE November 2011 - May 2012
 - Lead Principal vArchitect VCE August 2011 - November 2011
