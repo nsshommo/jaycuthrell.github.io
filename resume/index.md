@@ -5,7 +5,7 @@ title: "Jay Cuthrell's Resum&eacute;"
 
 <a href="http://eepurl.com/bdG70r">UPDATE: Please subscribe for detailed versions of this document.</a>
 
-##Summary
+## Summary
 
 As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with senior roles at companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed rockstar teams of software, systems, and sales engineers along the way.
 
@@ -13,14 +13,14 @@ Most recently, I formed my own consulting practice, cuthrell.com, before joining
 
 Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova (an Azure Capital and Bridgescale Partners portfolio company now part of NRTC) working with service provider customers all over the US. My years consulting at Scient (formerly iXL now Publicis) gave me the chance to work both domestically and internationally with Fortune 500 and .com companies after working at Nortel with service providers.
 
-##Advisory Roles
+## Advisory Roles
 
 - AwayFind March 2010 - Present
 - Racemi May 2013 - Present
 - TimeData Corporation December 2009 – October 2010
 - Packet Island Inc. (acquired by BroadSoft) October 2006 – October 2009
 
-##Experience
+## Experience
 
 - Director of Technology Strategy, Global Office of the Chief Technology Officer
   - EMC Converged Platforms (VCE)
@@ -77,11 +77,11 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
   - IBM 
   - April 1995 – December 1995
 
-##Education
+## Education
 
 - BS, Materials Science and Engineering North Carolina State University
 
-##Honors and Awards
+## Honors and Awards
 
 VCE
 
@@ -120,7 +120,7 @@ Scholastic
 - Teaching Fellows Scholarship, 1990
 - NROTC Scholarship, 1990
 
-##Certifications and Training
+## Certifications and Training
 
 - Project Management Methods Nortel
 - Management Influence Nortel
