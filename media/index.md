@@ -3,7 +3,7 @@ layout: index
 title: "Jay Cuthrell's Media"
 ---
 
-###Audio Interviews
+### Audio Interviews
 
 (Partial List)
 
@@ -11,7 +11,7 @@ title: "Jay Cuthrell's Media"
 - [NPR American Public Media's Marketplace](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting)  <iframe src="http://www.thisismarketplace.org/node/43912/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
 - [NPR American Public Media's Marketplace](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster) <iframe src="http://www.thisismarketplace.org/node/38002/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
 
-###Writing and Blogging
+### Writing and Blogging
 
 (Partial List)
 
@@ -21,7 +21,7 @@ title: "Jay Cuthrell's Media"
 - <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
 - <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
 
-###Speaking and Industry Event Experience
+### Speaking and Industry Event Experience
 
 (Partial List)
 
@@ -56,56 +56,56 @@ title: "Jay Cuthrell's Media"
 - Siemens/Myrio Conference 2005
 - Nortel Affiliate User Group 1998, 1997
 
-###Video Interviews 
+### Video Interviews 
 
 (Partial List)
 
 ####EMCTV
 <object id="flashObj" width="300" height="168" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" base="http://admin.brightcove.com" name="flashObj" width="300" height="168" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
 
-####The Hybrid Cloud with VCE and EMC
+#### The Hybrid Cloud with VCE and EMC
 <iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
 
-####Oracle OpenWorld 2013 - theCUBE
+#### Oracle OpenWorld 2013 - theCUBE
 <iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA" frameborder="0" allowfullscreen></iframe>
 
-####OpenStack Roundup
+#### OpenStack Roundup
 <iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak" frameborder="0" allowfullscreen></iframe>
 
-####Application Centric Infrastructure (ACI)
+#### Application Centric Infrastructure (ACI)
 <iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k" frameborder="0" allowfullscreen></iframe>
 
-####Engineers Unplugged S3|Ep8: Continuous Delivery and Software Defined Everything
+#### Engineers Unplugged S3|Ep8: Continuous Delivery and Software Defined Everything
 <iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
 
-####Cisco EMC VCE at Cisco Live 2012: Converged infrastructure solutions
+#### Cisco EMC VCE at Cisco Live 2012: Converged infrastructure solutions
 <iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
 
-####Engineers Unplugged S3|Ep11: A Look Behind the Scene of DevOps
+#### Engineers Unplugged S3|Ep11: A Look Behind the Scene of DevOps
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io" frameborder="0" allowfullscreen></iframe>
 
-####Engineers Unplugged S2|Ep5: Automation
+#### Engineers Unplugged S2|Ep5: Automation
 <iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU" frameborder="0" allowfullscreen></iframe>
 
-####VMworld 2011
+#### VMworld 2011
 <iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA" frameborder="0" allowfullscreen></iframe>
 
-####SXSW 2010
+#### SXSW 2010
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
 ### Viral Videos
 
 (Partial List)
 
-####EMC Style 2013
+#### EMC Style 2013
 <iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
 
-####Cloud Shop
+#### Cloud Shop
 <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
 
-####\#HardwareForWhat
+#### \#HardwareForWhat
 <iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
 
-###Music
+### Music
 
 Please listen to my [musical recordings](http://jaycuthrell.com/music/).
