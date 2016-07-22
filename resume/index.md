@@ -23,11 +23,14 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 ## Experience
 
 - Director of Technology Strategy, Global Office of the Chief Technology Officer
-  - EMC Converged Platforms (VCE)
+  - EMC Converged Platforms Division (VCE)
   - January 2016 - Present
+- Director, Global Office of the Chief Technology Officer 
+  - VCE 
+  - July 2015 - December 2015
 - Global Office of the Chief Technology Officer 
   - VCE 
-  - April 2015 - December 2015
+  - April 2015 - June 2015
 - Office of the Chief Technology Officer 
   - VCE 
   - May 2012 - March 2015
@@ -85,6 +88,7 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 
 VCE
 
+- Cisco Live Speaker, VCE User Group Speaker, 2016
 - VMworld Speaker, VMware, 2015
 - EMC World Speaker, EMC, 2015
 - VMworld Speaker, VMware, 2014
