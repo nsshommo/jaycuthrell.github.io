@@ -126,12 +126,16 @@ Scholastic
 
 ## Certifications and Training
 
-- Project Management Methods Nortel
-- Management Influence Nortel
-- Weblogic Server Administration BEA
-- NSA INFOSEC Assessment Methodology (IAM) ISATRP
-- Secure Membership InfraGard
-- Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP Taqua
-- Carrollton 5.0 VOISS, VOISS IP Centrex VoIP, Bedford 4.5 VOISS VocalData
-- Canopy Wireless Broadband Technical Training Motorola
-- Converged Infrastructure Associate (VCE-CIA) VCE
+- Project Management Methods, Nortel
+- Management Influence, Nortel
+- Weblogic Server Administration, BEA
+- NSA INFOSEC Assessment Methodology (IAM), ISATRP
+- Secure Membership, InfraGard
+- Class-5 Soft Switch OAM&P, Packet Interface Card for VoIP, Taqua
+- Carrollton 5.0 VOISS, VOISS IP Centrex VoIP, Bedford 4.5 VOISS, VocalData
+- Canopy Wireless Broadband Technical Training, Motorola
+- Converged Infrastructure Associate (VCE-CIA), VCE
+- Converged Infrastructure Solutions Foundations, VCE
+- Understanding Organizational Change, EMC
+- Communicating Organizational Change, EMC
+- Leading Teams Through Change, EMC
