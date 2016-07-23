@@ -7,12 +7,9 @@ title: "Jay Cuthrell's Media"
 
 (Partial List)
 
-- [Geek Whisperers: Episode 27 – The Balkanization of Tech Conferences and the Long Tail of SWAG](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
-- [NPR American Public Media's Marketplace](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting)  
-- [NPR American Public Media's Marketplace](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster)
-
-<iframe src="http://www.thisismarketplace.org/node/43912/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
-<iframe src="http://www.thisismarketplace.org/node/38002/player/storyplayer" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
+- [Geek Whisperers 2013](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
+- [NPR American Public Media's Marketplace 2011 ](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting) <iframe src="http://www.marketplace.org/2011/06/13/tech/facebook-fatigue-may-be-setting/popout" frameborder="0" width="100%" height="240px"></iframe>
+- [NPR American Public Media's Marketplace 2010 ](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster) <iframe src="http://www.marketplace.org/2010/07/13/tech/having-missed-mobile-boat-microsoft-name-losing-luster" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
 
 ### Writing and Blogging
 
