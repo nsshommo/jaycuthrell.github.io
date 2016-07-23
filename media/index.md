@@ -14,17 +14,6 @@ title: "Jay Cuthrell's Media"
 - <a href="https://community.emc.com/blogs/jay.cuthrell/">EMC Community Network Blog</a>
 - <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
 
-### Audio Interviews
-
-(Partial List)
-
-- [Geek Whisperers 2013](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
-- [NPR American Public Media's Marketplace 2011](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting) 
-- [NPR American Public Media's Marketplace 2010](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster)
-
-<iframe src="http://www.marketplace.org/2011/06/13/tech/facebook-fatigue-may-be-setting/popout" frameborder="0" width="100%" height="240px"></iframe>
-<iframe src="http://www.marketplace.org/2010/07/13/tech/having-missed-mobile-boat-microsoft-name-losing-luster/popout" frameborder="0" width="100%" height="240px"></iframe>
-
 ### Speaking and Industry Event Experience
 
 (Partial List)
@@ -61,6 +50,19 @@ title: "Jay Cuthrell's Media"
 - Siemens/Myrio Conference 2005
 - Nortel Affiliate User Group 1998, 1997
 
+### Audio Interviews
+
+(Partial List)
+
+- [Geek Whisperers 2013](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/)
+- [NPR American Public Media's Marketplace 2011](http://www.thisismarketplace.org/topics/tech/facebook-fatigue-may-be-setting) 
+- [NPR American Public Media's Marketplace 2010](http://www.thisismarketplace.org/topics/tech/having-missed-mobile-boat-microsoft-name-losing-luster)
+
+<iframe src="http://www.marketplace.org/2011/06/13/tech/facebook-fatigue-may-be-setting/popout" frameborder="0" width="100%" height="240px"></iframe>
+<iframe src="http://www.marketplace.org/2010/07/13/tech/having-missed-mobile-boat-microsoft-name-losing-luster/popout" frameborder="0" width="100%" height="240px"></iframe>
+
+
+
 ### Video Interviews 
 
 (Partial List)
@@ -68,6 +70,8 @@ title: "Jay Cuthrell's Media"
 #### EMCTV
 
 <object id="flashObj" width="300" height="168" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" base="http://admin.brightcove.com" name="flashObj" width="300" height="168" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+
+<iframe src='//players.brightcove.net/1507807800001/default_default/index.html?videoId=2686991989001' allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 #### The Hybrid Cloud with VCE and EMC
 
