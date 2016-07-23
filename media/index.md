@@ -69,11 +69,11 @@ title: "Jay Cuthrell's Media"
 
 #### EMCTV
 
-<iframe width="500" src='http://bcove.me/1mzv88do' frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src='http://bcove.me/1mzv88do' frameborder="0" allowfullscreen></iframe>
 
 #### The Hybrid Cloud with VCE and EMC
 
-<iframe  height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
 
 #### Oracle OpenWorld 2013 - theCUBE
 
