@@ -71,6 +71,10 @@ title: "Jay Cuthrell's Media"
 
 <iframe width="480" height="270" src='http://bcove.me/1mzv88do' frameborder="0" allowfullscreen></iframe>
 
+#### EMC World
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/ZQz4iarNQEA" frameborder="0" allowfullscreen></iframe>
+
 #### The Hybrid Cloud with VCE and EMC
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/rwQZ_czEN6g" frameborder="0" allowfullscreen></iframe>
@@ -83,17 +87,13 @@ title: "Jay Cuthrell's Media"
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak" frameborder="0" allowfullscreen></iframe>
 
-#### Application Centric Infrastructure (ACI)
+#### Engineers Unplugged S4|Ep13: Data Center of the Future
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/J2vUR53qE4k" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="168" src="http://www.youtube.com/embed/aVNV0SMOMWA" frameborder="0" allowfullscreen></iframe>
 
 #### Engineers Unplugged S3|Ep8: Continuous Delivery and Software Defined Everything
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
-
-#### Cisco EMC VCE at Cisco Live 2012: Converged infrastructure solutions
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
 
 #### Engineers Unplugged S3|Ep11: A Look Behind the Scene of DevOps
 
@@ -102,6 +102,10 @@ title: "Jay Cuthrell's Media"
 #### Engineers Unplugged S2|Ep5: Automation
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU" frameborder="0" allowfullscreen></iframe>
+
+#### Cisco EMC VCE at Cisco Live 2012: Converged infrastructure solutions
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
 
 #### VMworld 2011
 
