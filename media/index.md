@@ -67,10 +67,6 @@ title: "Jay Cuthrell's Media"
 
 (Partial List)
 
-#### EMCTV
-
-<iframe width="480" height="270" src='http://bcove.me/1mzv88do' frameborder="0" allowfullscreen></iframe>
-
 #### EMC World
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/ZQz4iarNQEA" frameborder="0" allowfullscreen></iframe>
