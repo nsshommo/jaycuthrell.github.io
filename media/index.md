@@ -3,6 +3,17 @@ layout: index
 title: "Jay Cuthrell's Media"
 ---
 
+### Writing and Blogging
+
+(Partial List)
+
+- <a href="http://readwrite.com/author/jay-cuthrell">ReadWrite</a>
+- <a href="http://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
+- <a href="http://blog.vce.com/author/jay.cuthrell/">VCE Blog</a>
+- <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
+- <a href="https://community.emc.com/blogs/jay.cuthrell/">EMC Community Network Blog</a>
+- <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
+
 ### Audio Interviews
 
 (Partial List)
@@ -14,20 +25,11 @@ title: "Jay Cuthrell's Media"
 <iframe src="http://www.marketplace.org/2011/06/13/tech/facebook-fatigue-may-be-setting/popout" frameborder="0" width="100%" height="240px"></iframe>
 <iframe src="http://www.marketplace.org/2010/07/13/tech/having-missed-mobile-boat-microsoft-name-losing-luster/popout" frameborder="0" width="100%" height="240px"></iframe>
 
-### Writing and Blogging
-
-(Partial List)
-
-- <a href="http://readwrite.com/author/jay-cuthrell">ReadWrite</a>
-- <a href="http://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
-- <a href="http://blog.vce.com/author/jay.cuthrell/">VCE Blog</a>
-- <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
-- <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
-
 ### Speaking and Industry Event Experience
 
 (Partial List)
 
+- Cisco Live VCE User Group 2016 
 - VMworld US 2015, 2014
 - EMC World 2015
 - InNEVation CommunityCation 2015
