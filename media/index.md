@@ -71,7 +71,7 @@ title: "Jay Cuthrell's Media"
 
 <object id="flashObj" width="300" height="168" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=2686991989001&playerID=697237073001&playerKey=AQ~~,AAAAoc2nJVE~,yIQzUe15OpK8DPqNdDHWjOS2ou8Oj6Om&domain=embed&dynamicStreaming=true&autoStart=false" base="http://admin.brightcove.com" name="flashObj" width="300" height="168" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
 
-<iframe width="300" height="168" src='http://players.brightcove.net/697237073001/default_default/index.html?videoId=2686991989001' allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+<iframe width="300" height="168" src='http://bcove.me/1mzv88do' allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 #### The Hybrid Cloud with VCE and EMC
 
