@@ -83,21 +83,17 @@ title: "Jay Cuthrell's Media"
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA" frameborder="0" allowfullscreen></iframe>
 
-#### OpenStack Roundup
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/RUz-9nJn9ak" frameborder="0" allowfullscreen></iframe>
-
 #### Engineers Unplugged S4|Ep13: Data Center of the Future
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/aVNV0SMOMWA" frameborder="0" allowfullscreen></iframe>
 
-#### Engineers Unplugged S3|Ep8: Continuous Delivery and Software Defined Everything
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
-
 #### Engineers Unplugged S3|Ep11: A Look Behind the Scene of DevOps
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io" frameborder="0" allowfullscreen></iframe>
+
+#### Engineers Unplugged S3|Ep8: Continuous Delivery and Software Defined Everything
+
+<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
 
 #### Engineers Unplugged S2|Ep5: Automation
 
