@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jaycuthrell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jaycuthrell.com
+  * I am jaycuthrell (https://keybase.io/jaycuthrell) on keybase.
+  * I have a public key with fingerprint 4407 D373 7F4D CDFE 90DD  89F4 4462 E55C BE13 D9C6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012078bf3e5d83a0a9a83cc94c22e6ae54de7f9872f35ac1319ae59460f29cbb7a140a",
+            "fingerprint": "4407d3737f4dcdfe90dd89f44462e55cbe13d9c6",
+            "host": "keybase.io",
+            "key_id": "4462e55cbe13d9c6",
+            "kid": "0101d30988cc3396002144d4708ac761ce462e122b9259c8c1c40dc61e07c80124d50a",
+            "uid": "7a5bdb6a78e1c636fd97d62008dd6219",
+            "username": "jaycuthrell"
+        },
+        "service": {
+            "hostname": "jaycuthrell.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470252462,
+    "expire_in": 157680000,
+    "prev": "6fa3cdc85589b44b1106c9a429e1b036db4eb8e78612fc1dbf4f0dfe20ba3d6c",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJtUFRVGN7lwxnQdDFcmZzGuGKgrXi/9n4s0RgDk5gwpQMiYOu955y7
+LCy7tHuBFmRIKTLD1AnEomDETIrACBzFRoEdYpogLZilQCwGECK+mqwGLKB7mfxV
+588755zned7nec/pfMRXE6iNFe+l33x0oEvb3fFBruZAbVxjISY6oBszFWJZaKUg
+G0Qu2ZxlhZgJwwkSZzlRopARcpSAC7zAUQDwNCBJxAjISEPESjzHkhJlFABBEbxy
+yNMMLpE8EEVWIGhcwAyYZLVbkDPHabXLiixN4yykWIqVaAighHgcQo6XaJpmSGQ0
+AhERFOQBoxAzHC6VoZgTBReKtDqUM2VjXrH3P/iHvnECUjjPcQBQFM/gOEnQNKRZ
+nBMAyxAAqUyCJEWeNPKAAwSgcQgYAuEs4JTUNDSu+M5dkWMFowhFRmA5RACGYiTI
+s5AhcZyDSiF4FehCTruQjRR0puAGuXKGE9lsWJEBUy7yrACps1XD/BcUCRzZikKO
+0yE7gMOmXGbIco5J5cruHBWcj0TzvzJm0WqHyjAVQh5yuqwOO2YiFCSQraouoUQk
+jaSSzoChV3KsTmS2qggjy3C4stQ2KE+RZCSBAhBwRiPHizQtEgTOAF6gSR4RIk4x
+UKSRyCGWYwhSAgQUJVrClacicVGgIAMwNdjLdofaUvEpWBRNl9ViF+RcJ8KKPB3p
+fhptoGaVv4/6yzSBAbqHf8/tXLcsD7uTdOPtdbp3A4arFx/vWY59vn26oGN9Stuf
+O564cWQwZqsEvtZtON8W7a3o3nynpmnsHtfvFU5d7+Wmw5p86l+NfcbU0nu3QFzS
+r72y2Jkacy5lW//EaEdRR2V/+OQQQzQfaDrquR7WbmvWD4f31g7qVrXsa/sx/q7d
+X6IuJflHLF3RbutqoKmZ9S1HUs8OfPwWHyLMl8zFm93fhA3NWFpKsHU/aL+dfroE
+Jp/msQsT0bvq0j5tmBoLDopr1UVtN9RvjJrfyTREHZ3T3jwbVJxRvHTpi99DIw5e
+3PX527flq0kDEUMlvjVZb5gqQp5179lfW5gctBNPNG9cs7otuNWwsOPLas9ld1U5
+Kkhb/Cj1MFm26eS13/4uy9TfOj363om9sm9P65ayxxKPJWRUXrzsu7sprfxQ/fHX
+f30AHhSu6frFsLrzlt9no38le+TGg8vkqPdFffie1hThzVPloRbzGVtA++DImU/y
+xUPZ32lqju+Pr7CMC2MjsVNbxiOH0kOLt7/w/YDnSUy/4L2zUJ7YF7gBtaS754bi
+RkIibui70xc25ZeJ+LXShfmqaQ92jIvvWRs9GPNcaUJd+4kLpYebJnsiZu//fHtz
+3vm9HzY63J10wPuTmdVdr3mzy64mTFX1zb4UTE74n5sd/Gnmq+bFp+7vq7R3Vff5
+/LF76zverCS/hrnek+Q/yynN1Q==
+=kQt4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaycuthrell
+
+==================================================================
