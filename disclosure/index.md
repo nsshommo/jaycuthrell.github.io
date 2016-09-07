@@ -21,7 +21,7 @@ I’ve been a guest contributor at Telecompetitor and a writer for ReadWrite.
 
 My updated bio is kept relatively current on the home page of this website and other variations elsewhere on the Internet are considered deprecated.
 
-As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently a Director within the Global Office of the CTO at VCE that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
+As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently a Director within [Dell EMC](http://www.vce.com) that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
 
 As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware. 
 
@@ -32,6 +32,8 @@ As of December 2015, the “go shop” period has expired and ["EMC will continu
 As of January 2016, VCE is now the Converged Platforms Division of [EMC](http://www.emc.com/futureready). (Please see the addendum at the bottom of this page.)
 
 As of August 2016, the Dell and EMC [transaction](http://www.emc.com/about/news/press/2016/20160830-01.htm) is set to close on September 7, 2016. (Please see the addendum at the bottom of this page.)
+
+As of September 7, 2016, I am a Director within the Global Office of the CTO for the Converged Platforms and Solutions Division of [Dell EMC](http://www.vce.com).
 
 I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](/resume/) is exclusively availabe on this website and other variations elsewhere on the Internet are considered deprecated.
 

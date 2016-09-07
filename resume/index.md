@@ -22,9 +22,12 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 
 ## Experience
 
+- Director
+  - Dell EMC
+  - September 2016 - Present
 - Director of Technology Strategy, Global Office of the Chief Technology Officer
   - EMC Converged Platforms Division (VCE)
-  - January 2016 - Present
+  - January 2016 - September 2016
 - Director, Global Office of the Chief Technology Officer 
   - VCE 
   - July 2015 - December 2015
