@@ -5,24 +5,8 @@ layout: post
 slug: short-url-link-rot
 cover: http://farm4.static.flickr.com/3115/2733753563_401a01a085.jpg
 title: Short URL Link Rot
-wordpress_id: 36359
-categories:
-- Consulting Days
-- random
-tags:
-- cloud
-- design
-- export
-- google
-- history
-- internet
-- life
-- operational excellence
-- privacy
-- rant
-- startups
-- trends
-- uptime
+redirect_from:
+ - /blog/short-url-link-rot/
 ---
 
 
@@ -94,4 +78,3 @@ Let's just hope those crazy combination bank shots are recorded somewhere for po
 
 
 
-[
