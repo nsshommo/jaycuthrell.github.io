@@ -2,6 +2,8 @@
 title: "What Is Interesting?"
 date: "2014-11-10"
 layout: index
+redirect_from:
+ - /blog/what-is-interesting/
 ---
 The year 2014 is coming to a close. To reflect that sentiment this post has been typed up using [http://dillinger.io/](http://dillinger.io/). Then this post was saved to a GitHub repository and rendered by GitHub Pages automatically.
 
