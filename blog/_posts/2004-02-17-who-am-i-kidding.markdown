@@ -6,13 +6,10 @@ slug: who-am-i-kidding
 title: Who am I kidding
 wordpress_id: 2732
 cover: http://farm1.static.flickr.com/96/268279913_aa8fe7af56.jpg
-categories:
-- NeoNova and Digitel
-- random
-- telecom
+redirect_from:
+ - /blog/who-am-i-kidding/
 ---
 
-[
 
 I’d like to see a skit on SNL about the “Who Am I Kidding” calling plan from Verizon.
 
