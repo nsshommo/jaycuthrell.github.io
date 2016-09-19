@@ -2,6 +2,8 @@
 layout: index
 title: "The 5 P's of Workloads"
 date: 2014-01-17
+redirect_from:
+ - /blog/the-5-ps-of-workloads/
 ---
 
 <a href="http://www.flickr.com/photos/jcuthrell/11989482615/" title="Taking the stage today by qthrul, on Flickr"></a>
