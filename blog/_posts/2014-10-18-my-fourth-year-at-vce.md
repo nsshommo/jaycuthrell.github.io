@@ -2,6 +2,8 @@
 title: "My Fourth Year at VCE"
 date: "2014-10-18"
 layout: index
+redirect_from:
+ - /blog/my-fourth-year-at-vce/
 ---
 
 Today is my four year mark with VCE.
