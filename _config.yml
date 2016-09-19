@@ -11,7 +11,7 @@ gems:
 
 source: 
 root: /
-permalink: /
+permalink: /:title/
 
 markdown: kramdown
 date_format: "ordinal"
