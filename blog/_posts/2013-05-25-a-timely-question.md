@@ -2,6 +2,8 @@
 layout: index
 date: 2013-05-25
 title: "A Timely Question"
+redirect_from:
+ - /blog/a-timely-question/
 ---
 
 Sometimes the inspiration from a post comes from a question. This is a question I recently received from someone that is in the IT industry. Specifically, the question revolved around where IT is heading and what are the skills and training that are advisable to anticipate where IT is heading.
