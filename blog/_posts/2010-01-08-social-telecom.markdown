@@ -1,15 +1,11 @@
 ---
-comments: true
 date: 2010-01-08 03:23:40
 layout: post
 slug: social-telecom
 cover: http://farm4.static.flickr.com/3436/3194668183_23a226607f_m.jpg
 title: Social Telecom
-wordpress_id: 22017
-categories:
-- Consulting Days
-- friday fudge
-- telecom
+redirect_from:
+ - /blog/social-telecom/
 ---
 
 _Note: Welcome to [Friday Fudge](http://fudge.org/tag/friday-fudge/) #1 of hopefully many to come. _ [
