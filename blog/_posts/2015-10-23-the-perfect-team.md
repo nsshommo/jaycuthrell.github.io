@@ -2,6 +2,8 @@
 title: "The Perfect Team"
 date: "2015-10-23"
 layout: index
+redirect_from:
+ - /blog/the-perfect-team/
 ---
 
 I'd like to expend a few words about The Perfect Team.
