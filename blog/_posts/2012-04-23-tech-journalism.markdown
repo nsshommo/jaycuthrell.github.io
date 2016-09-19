@@ -5,6 +5,8 @@ cover: https://farm8.staticflickr.com/7060/6976375391_4ca34daaeb.jpg
 date: 2012-04-23 04:44
 comments: true
 categories: rants
+redirect_from:
+ - /blog/tech-journalism/
 ---
 
 <a href="https://www.flickr.com/photos/jcuthrell/6976375391" title="Strategery session by Jay Cuthrell, on Flickr"></a>
