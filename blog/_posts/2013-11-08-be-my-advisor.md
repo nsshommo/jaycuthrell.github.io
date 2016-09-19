@@ -2,6 +2,8 @@
 layout: index
 title: "Be My Advisor"
 date: 2013-11-08
+redirect_from:
+ - /blog/be-my-advisor/
 ---
 
 Recently, I was invited to become an advisor to [Racemi]. I said yes.
