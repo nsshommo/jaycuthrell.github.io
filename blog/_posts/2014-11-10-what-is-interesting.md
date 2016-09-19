@@ -10,7 +10,7 @@ The year 2014 is coming to a close. To reflect that sentiment this post has been
 <blockquote class="twitter-tweet" lang="en"><p>Tweet about end of year tweets about end of year blog posts.</p>&mdash; llerhtuC yaJ (@Qthrul) <a href="https://twitter.com/Qthrul/status/531600242127687680">November 10, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##Is This Interesting?
+## Is This Interesting?
 
 And yet, if you only go by what you find _online_ you'll still miss a lot of things even in the year 2014. A reminder is worth repeating. You should not believe everything you read online. 
 
@@ -20,7 +20,7 @@ Worse, if we are are not all diligent then we find that we will be told what is 
 
 Why allow the few to influence the even fewer that decide what impacts so many?
 
-##This Amp Goes To 11.
+## This Amp Goes To 11.
 
 Spam was once associated with Usenet. Then spam became associaed with email. 
 
@@ -38,7 +38,7 @@ So, why spam new social services?
 
 Utlimately, as these sayings go, the spam is sure to follow.
 
-##Twitter Is Blowing Up
+## Twitter Is Blowing Up
 
 A tweet that gets heard around the world! The people have spoken!
 
@@ -60,10 +60,3 @@ Talking heads and talking points will always find a new venue, forum, and vehicl
  * Never let a service tell you what is interesting.
  * Never stop asking what is interesting.
  * Always keep an eye out for what is interesting.
-
-
-
-
-
-
-
