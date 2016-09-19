@@ -9,6 +9,7 @@ google_analytics_id: UA-305670-10
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jemoji
 
 source: 
 root: /
