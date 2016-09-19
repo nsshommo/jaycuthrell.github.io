@@ -2,6 +2,8 @@
 title: "EMC Converged Platforms"
 date: "2016-01-16"
 layout: post
+redirect_from:
+ - /blog/emc-converged-platforms/
 ---
 
 2015 was [a whirlwind](/blog/my-fifth-year-at-vce/) just as the past five years have been since I joined VCE.
