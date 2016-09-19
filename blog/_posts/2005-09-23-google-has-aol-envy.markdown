@@ -4,19 +4,17 @@ date: 2005-09-23 16:21:24
 layout: post
 slug: google-has-aol-envy
 title: Google has AOL envy
-wordpress_id: 24479
 cover: http://farm1.static.flickr.com/14/18042843_d08c7b67f2_m.jpg
-categories:
-- NeoNova and Digitel
-- telecom
+redirect_from:
+ - /blog/google-has-aol-envy/
 ---
 
-[
 
 AOL's BYOB uses a tunnel/vpn approach.  I wonder where Google could have ever gotten the idea... but the effect is clear:
 
 Off VPN:
 
+```
     $ /usr/sbin/traceroute www.google.com
     traceroute: Warning: www.google.com has multiple addresses; using 64.233.161.104
     traceroute to www.l.google.com (64.233.161.104), 64 hops max, 40 byte packets
@@ -37,12 +35,12 @@ Off VPN:
     15  66.249.95.121 (66.249.95.121)  40.912 ms 66.249.95.123 (66.249.95.123)  30.047 ms  29.376 ms
     16  216.239.47.156 (216.239.47.156)  37.886 ms  29.755 ms 216.239.48.198 (216.239.48.198)  36.433 ms
     17  64.233.161.104 (64.233.161.104)  28.817 ms  30.344 ms  46.271 ms
-
-[
+```
   
 
 On VPN:
-  
+
+```  
     $ /usr/sbin/traceroute www.google.com
     traceroute: Warning: www.google.com has multiple addresses; using 66.102.7.99
     traceroute to www.l.google.com (66.102.7.99), 64 hops max, 40 byte packets
@@ -56,4 +54,4 @@ On VPN:
     8  64.233.174.54 (64.233.174.54)  177.706 ms  176.194 ms 66.249.94.29 (66.249.94.29)  176.665 ms
     9  216.239.49.142 (216.239.49.142)  176.362 ms  177.084 ms 216.239.49.146 (216.239.49.146)  176.446 ms
     10  66.102.7.99 (66.102.7.99)  175.962 ms  177.078 ms  175.809 ms
-
+```
