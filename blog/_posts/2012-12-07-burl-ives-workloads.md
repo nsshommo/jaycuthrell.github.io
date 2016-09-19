@@ -2,6 +2,8 @@
 title: "Burl Ives Workloads"
 date: "2012-12-07"
 layout: index
+redirect_from:
+ - /blog/burl-ives-workloads
 ---
 
 ![dilbert](http://www.dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/1000/000/21021/21021.strip.gif)
