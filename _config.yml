@@ -8,6 +8,7 @@ google_analytics_id: UA-305670-10
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 source: 
 root: /
