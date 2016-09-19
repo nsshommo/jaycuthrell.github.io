@@ -2,6 +2,8 @@
 title: "ESTEEM = STEM + Ethics + Empathy"
 date: "2014-01-20"
 layout: index
+redirect_from:
+ - /blog/esteem-stem-ethics-empathy/
 ---
 
 You can't go very far on Internet or modern media before the term STEM is mentioned or extolled as a target to reach. STEM is the backronym associated with educational pursuits in the areas of Science, Technology, Engineering, and Mathematics. 
