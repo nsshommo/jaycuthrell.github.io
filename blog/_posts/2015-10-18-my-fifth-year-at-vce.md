@@ -4,6 +4,7 @@ date: "2015-10-17"
 layout: index
 redirect_from:
   - /blog/my-fifth-year-at-vce
+  - /blog/my-fifth-year-at-vce/
 ---
 
 
