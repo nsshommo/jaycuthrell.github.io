@@ -1,0 +1,173 @@
+---
+comments: false
+date: 2008-08-08 16:31:01
+layout: post
+slug: too-much-text-2009
+title: Too Much Text - SWSW 2009
+cover: http://farm4.static.flickr.com/3366/3337256907_dc06fd1178.jpg
+wordpress_id: 9
+categories:
+- NeoNova and Digitel
+- random
+- SxSW
+tags:
+- sxsw
+---
+
+[
+
+**Too Much Text: When I Was Your Age, We Sent Email**
+
+**Tuesday, March 17th at 3:30pm in Room 5A**
+
+_The youngest generation of Internet users have relegated email to the domain of their parents and other "old people". What are the current technical challenges faced by email that threaten it surviving for another decade of use and facing a decline in adoption by new users?_
+
+Note: If you can't attent SxSW this year you can still contribute to the discussion via [Facebook](http://www.facebook.com/event.php?eid=51407834789), [Linkedin](http://www.linkedin.com/answers/technology/information-technology/computers-software/TCH_ITS_CMP/433908-528502), or enjoy the cryptically brief yet oddly alluring slide deck prepared in advance of this major media event.
+
+
+
+**[Too Much Text](http://www.slideshare.net/qthrul/toomuchtext)**
+
+View more [presentations](http://www.slideshare.net/) from [Jay Cuthrell](http://www.slideshare.net/qthrul)
+
+
+
+Note: This talk [can be rated (registration required)](http://speakerrate.com/talks/312-too-much-text-when-i-was-your-age-we-sent-email).
+
+**_Disclaimer:  Here be dragons draft copy!_**
+
+Abstract
+
+When I attended SXSW Interactive in 2008 one of the things I noticed is how little email was used at the conference.  By the time email was typed up and sent out, it was little more than reference material better served and accessible on a website.
+
+
+
+	
+  * Email is now an asymmetric relic.
+
+	
+  * Email is reserved for copies of your confirmations.
+
+	
+  * Email is a hurdle to be avoided if possible.
+
+
+Detail
+
+Or, is email really that bad?
+
+It's 2008 and SXSW Interactive is a fairly technical conference.  As expected, everyone had a mobile device capable of Internet access.  A few folks had laptops but most were on an iPhone, Blackberry, or using SMS on their mobile phone du jour.  Twitter adoption was high for the period I was there.  You might have heard about Twitter lately.  Maybe. :)
+
+But back to email... I checked back to see what email was for my personally that partial week.
+
+
+
+	
+  * I didn't really get any that was critical to my day to day activities.  Partly because the office knew I was out and at a conference -- but mostly because nobody at the conference really dropped phrases like "I will send you an email".
+
+	
+  * We handed out business cards.  That seemed archaic to me actually but quaint.  Most of the cards had an email address, phone, etc... but things like instant message or Twitter handles were more common or considered a better way to reach.
+
+	
+  * Email actually started up the day after the conference.  I guess that was when people started reading their cards and had some downtime.
+
+
+One thing that stood out for me was this:  email has a personal and time attentive association for many of these people.  It was as if email was what prior generations would consider to be the thank you note or the hand written note --- and for some it has become the equivalent of a heart felt hand written letter on fine parchment.
+
+Wait!  It's an email! (I say this in a 36 year old voice)
+
+Social patterns aside, email is many things, but it is commonly associated with what is wrong with it: spam and email itself
+
+Wait?  Email is a problem itself?  We'll come back that that.
+
+First, let's look at spam.
+
+"Did you get my email" is typically followed with "check your spam folder" and a reply such as "just TXT it to me so that I'll have it" which makes me think that you a lot of folks feel email is the paper bill you have sitting on the TV stand under the rest of the junk mail from your local post office box.
+
+[
+
+The problem email itself has is that even if it isn't spam to the recipient it is probably battling for the recipient's attention.  The lowly heart felt email or important email is commingled with far too many other messages in the inbox.
+
+There are a whole flood of philosophies and movements to help people deal with their Inbox and the bloat from the pile up it represents.  So, email itself has problems.
+
+[
+
+Yet, there are established groups that live for email and the fight against spam.  I've been part of those groups to varying degrees for over a decade.
+
+It makes me wonder: Am I helping protect a protocol destined for the same fate as GOPHER?
+
+As with anything of value there are wars fought over it.
+
+With email there is a spy vs spy war raging since the first opportunist could open an email client. This is the war of spammer vs. mail service administrators and email service providers.
+
+So, if email has increasingly less and less value -- what is it that is so coveted and what is it that is so _worthy_ of being protected for this war to continue?
+
+Tarpit, Blacklists, greylists, heuristics, Bayesian filters, regular expression alchemy, SPF, DomainKeys, Sender ID, DCC, hashes, challenge-response, and the list very likely goes on and on.  For each remedy or enhancement to the activity seeking to cater to the needs of the administrator and user there is dark force bent on rendering it obsolete or overpowered.
+
+Questions
+
+
+
+	
+  1. Why all of this effort to keep email viable as a service that can be taken for granted?
+
+	
+  2. What can be done with email going forward to appeal to new generations of users?
+
+	
+  3. What would make email more valued to everyone that uses email today?
+
+	
+  4. Where is email going to be in the next 5 to 10 years?
+
+	
+  5. When will email and spam conflict be resolved?
+
+
+Additional reading
+
+
+
+	
+  * [http://enemieslist.com/news/archives/news/](http://enemieslist.com/news/archives/news/)
+
+	
+  * [http://blog.wired.com/business/2007/12/teens-are-ditch.html](http://blog.wired.com/business/2007/12/teens-are-ditch.html)
+
+	
+  * [http://bankervision.typepad.com/bankervision/2008/08/email-bankrupt.html](http://bankervision.typepad.com/bankervision/2008/08/email-bankrupt.html)
+
+	
+  * [http://news.cnet.com/2009-1032_3-6197242.html](http://news.cnet.com/2009-1032_3-6197242.html)
+
+	
+  * [http://www.spamhaus.org/definition.html](http://www.spamhaus.org/definition.html)
+
+	
+  * [http://www.wired.com/culture/lifestyle/news/2004/06/63733](http://www.wired.com/culture/lifestyle/news/2004/06/63733)
+
+	
+  * [http://radar.oreilly.com/2006/10/the-problem-of-email.html](http://radar.oreilly.com/2006/10/the-problem-of-email.html)
+
+	
+  * [http://weblogs.hitwise.com/robin-goad/2007/11/social_networks_overtake_webma.html](http://weblogs.hitwise.com/robin-goad/2007/11/social_networks_overtake_webma.html)
+
+	
+  * [http://www.senderbase.org/home/detail_get_type](http://www.senderbase.org/home/detail_get_type)
+
+	
+  * [http://bits.blogs.nytimes.com/2008/09/12/aols-luddites-love-their-e-mail-more-than-googles-geeks/](http://bits.blogs.nytimes.com/2008/09/12/aols-luddites-love-their-e-mail-more-than-googles-geeks/)
+
+	
+  * [http://www.techcrunch.com/2009/02/14/the-death-of-web-20/#comment-2625670](http://www.techcrunch.com/2009/02/14/the-death-of-web-20/#comment-2625670)
+
+	
+  * [http://www.time.com/time/magazine/article/0,9171,1879169,00.html](http://www.time.com/time/magazine/article/0,9171,1879169,00.html)
+
+	
+  * [http://ibiblio.org/pjones/blog/state-of-things-interview-is-now-online/](http://ibiblio.org/pjones/blog/state-of-things-interview-is-now-online/)
+
+	
+  * [http://www.linkedin.com/answers/technology/information-technology/computers-software/TCH_ITS_CMP/433908-528502](http://www.linkedin.com/answers/technology/information-technology/computers-software/TCH_ITS_CMP/433908-528502)
+
+

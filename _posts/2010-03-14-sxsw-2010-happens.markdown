@@ -1,0 +1,77 @@
+---
+comments: true
+date: 2010-03-14 08:40:00
+layout: post
+slug: sxsw-2010-happens
+cover: http://farm3.static.flickr.com/2678/4431232879_e00d95cbe3_m.jpg
+title: SxSW 2010 Happens
+wordpress_id: 30180
+categories:
+- Consulting Days
+- friday fudge
+- SxSW
+tags:
+- friday fudge
+- google
+- sxsw
+- telecom
+- wifi
+---
+
+[This is a very late Friday Fudge.  I have a good excuse though: SxSW 2010.
+
+
+
+
+SxSW 2010 has been a blur so far.  The blur is a wonderful one filled with more new people than prior years and a cast of familiar faces peppering events by day and night.
+
+
+
+
+ 
+
+
+
+
+Here's an interview I did with [Downloadsquad](http://www.downloadsquad.com/2010/03/15/dls-sxsw-three-views-of-sxsw/) that summarizes what I've seen by Day 3.  Fast forward past the part with some guy named Guy Kawasaki ;-)
+
+
+
+
+
+
+
+
+
+
+The new format this year lends to greater emphasis on connecting with others as there are three distinct locations for programming and events.  Considering all the geolocation applications such as Foursquare, Gowalla, TriOut, etc... that seek to help you connect with "friends"; most of the connections I've made so far have been through the statistical probability of running into people by virtue of moving to and from venues.
+
+
+
+
+ 
+
+
+
+
+[to capture crowd sourced notes from the presentations. As of this update there are over 90 participants in the wave and the notes have been augmented by several participants already.  Very cool!!!
+
+
+
+
+ 
+
+
+
+
+[The amount of investment in both thought and capital for network support of WiFi is obvious.  So far it has been a very pleasant experience using the SXSW2010 SSID.  As for AT&T and the iPhone --- a very guarded so good so far is coming from a lot of folks here.  I've had all my 3G bars on my iPhone but the timeouts and throughput seem to indicate that the backhaul is being saturated during peak gatherings or the specific serving site is simply overwhelmed.  Regardless, my iPhone battery life is drastically improved this year.  While that might be a mix of firmware fixes and/or greater coverage for 3G service, it is nice to have low expectations met -- if not exceeded.
+
+
+
+
+ 
+
+
+
+
+Oh. And there is a [Capybara](http://en.wikipedia.org/wiki/Capybara) running around. Keep your blueberries in a safe place.  :) [

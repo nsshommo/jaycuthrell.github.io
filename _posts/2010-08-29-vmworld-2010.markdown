@@ -1,0 +1,599 @@
+---
+comments: true
+date: 2010-08-29 16:45:25
+layout: post
+slug: vmworld-2010
+cover: http://farm5.static.flickr.com/4118/4938916228_61224cc0c4.jpg
+title: VMworld 2010
+wordpress_id: 36464
+categories:
+- Consulting Days
+tags:
+- cloud
+- conference
+- virtualization
+---
+
+[
+
+
+
+
+This is where I'll be putting my notes from VMworld 2010 and related Silicon Valley adventures.  The basic schedule I'll try to follow is below.  Primarily, I'm here for business but I will have some geek style fun along the way too.  A big highlight will be interacting with the startups at VMworld this year.  More notes will appear below as I am able to capture and refine my thoughts. :)  Also, if you got to this page you probably have my card.  Let's stay in touch!
+
+
+
+
+
+In the meantime, I'm organizing my references to cloud computing, virtualization, data centers, data mining, applications, and technology trends for service providers and the enterprise﻿:
+
+
+
+
+**Service Provider Industry and Technology Events**
+
+
+
+
+
+
+  * "2010  a Service Provider Odyssey" [http://www.slideshare.net/qthrul/2010-a-service-provider-odyssey](http://www.slideshare.net/qthrul/2010-a-service-provider-odyssey)
+
+
+  * "Keep Your Head in the Clouds" [http://www.slideshare.net/qthrul/keep-your-head-in-the-clouds](http://www.slideshare.net/qthrul/keep-your-head-in-the-clouds)
+
+
+  * "Design Impact" [http://www.slideshare.net/qthrul/design-impact](http://www.slideshare.net/qthrul/design-impact)
+
+
+  * "Google Wave" [http://www.slideshare.net/qthrul/google-wave-demo﻿](http://www.slideshare.net/qthrul/google-wave-demo)
+
+
+  * "Higher Prices for Paying Attention" [http://www.slideshare.net/qthrul/higher-prices-for-paying-attention﻿](http://www.slideshare.net/qthrul/higher-prices-for-paying-attention)
+
+
+  * "Wireless Spectrum and Technology Trends" [http://www.slideshare.net/qthrul/wireless-spectrum-and-technology-trends﻿](http://www.slideshare.net/qthrul/wireless-spectrum-and-technology-trends)
+
+
+
+
+**Service  Provider Industry Blog Contributions**
+
+
+
+
+
+
+  * "Financial Weather Report: Increasing Clouds" [http://www.telecompetitor.com/financial-weather-report-increasing-clouds/](http://www.telecompetitor.com/financial-weather-report-increasing-clouds/)
+
+
+  * "So P2P is now Legit?" [http://www.telecompetitor.com/so-p2p-is-now-legit/](http://www.telecompetitor.com/so-p2p-is-now-legit/)
+
+
+  * "Blurring  the Lines of OTT and IPTV" [http://www.telecompetitor.com/the-blurring-lines-of-ott-iptv/](http://www.telecompetitor.com/the-blurring-lines-of-ott-iptv/)
+
+
+
+
+**My Blog**
+
+
+
+
+
+
+  * "On Data Centers" [http://fudge.org/on-data-centers/](http://fudge.org/on-data-centers/)
+
+
+  * "Get  Off of My Cloud" [http://fudge.org/get-off-of-my-cloud/](http://fudge.org/get-off-of-my-cloud/)
+
+
+  * "The Waiting" [http://fudge.org/the-waiting/](http://fudge.org/the-waiting/)
+
+
+  * "Color Nicolas  Gone" [http://fudge.org/color-nicholas-gone/](http://fudge.org/color-nicholas-gone/)
+
+
+  * "Danger Will Robinson!" [http://fudge.org/danger-will-robinson/](http://fudge.org/danger-will-robinson/)
+
+
+  * "Social  Telecom" [http://fudge.org/social-telecom/](http://fudge.org/social-telecom/)
+
+
+  * "Face Time" [http://fudge.org/face-time/](http://fudge.org/face-time/)
+
+
+  * "Are  You Being Served?" [http://fudge.org/are-you-being-served/](http://fudge.org/are-you-being-served/)
+
+
+  * "Airwaves vs. Airlines" [http://fudge.org/airwaves-vs-airlines/﻿](http://fudge.org/airwaves-vs-airlines/)
+
+
+
+Also, I've started writing an installment for [ReadWriteWeb](http://www.readwriteweb.com/) called [ReadWriteHack](http://www.readwriteweb.com/hack/) and these are my most recent posts:
+
+
+
+
+09/13/10: [Twisted Firestarter: Windows Phone 7 for Developers](http://www.readwriteweb.com/hack/2010/09/quick-and-dirty-guide-to-windo.php) (0)  
+
+
+  
+
+09/ 9/10: [PHP5 Alternatives for Red Hat Enterprise Linux](http://www.readwriteweb.com/hack/2010/09/alternatives-to-stock-rh.php) (0)  
+
+
+  
+
+09/ 9/10: [A Quick Look at ORM for PHP](http://www.readwriteweb.com/hack/2010/09/orm-for-your-next-php-p.php) (0)  
+
+
+  
+
+09/ 7/10: [Yahoo's Yconalyzer and You](http://www.readwriteweb.com/hack/2010/09/yahoos-yconalyzer.php) (0)  
+
+
+  
+
+09/ 7/10: [Getting Up and Running Faster with zfKit](http://www.readwriteweb.com/hack/2010/09/getting-up-and-running-fast-wi.php) (0)  
+
+
+  
+
+09/ 6/10: [Hack of the Day: Stronger Wording by Script or Click](http://www.readwriteweb.com/hack/2010/09/hack-of-the-day-stronger-wordi.php) (0)  
+
+
+  
+
+09/ 3/10: [Tracking the Buzz in Google Reader During VMworld](http://www.readwriteweb.com/hack/2010/09/tracking-the-buzz-in-google-re.php) (0)  
+
+
+  
+
+09/ 2/10: [Sock It To Me With Socat](http://www.readwriteweb.com/hack/2010/09/sock-it-to-me-with-socat.php) (0)  
+
+
+  
+
+09/ 1/10: [5 Great YQL One-Liners](http://www.readwriteweb.com/hack/2010/09/10-great-yql-one-liners.php) (0)  
+
+
+  
+
+08/31/10: [Exercise with Browser Size](http://www.readwriteweb.com/hack/2010/08/exercise-with-browser-size.php) (0)  
+
+
+  
+
+08/31/10: [Hack of the Day: Travel the World With Facebook Places](http://www.readwriteweb.com/hack/2010/08/hack-of-the-day-travel-the-world-with-facebook-places.php) (0)  
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+# Summary:
+
+
+
+
+Coming soon...
+
+
+
+
+ 
+
+
+
+
+
+
+  * ﻿Trends  
+
+
+
+    * UI vs. scripting
+
+
+    * Articulation vs. Buzzwords
+
+
+    * Partner emphasis vs. Solo
+
+
+
+
+
+  * Good  
+
+
+
+    * Lots and lots of [Social Media Contributors](http://www.vmworld.com/docs/DOC-4671)
+
+
+    * TBD
+
+
+
+
+
+  * Bad  
+
+
+
+    * TBD
+
+
+    * TBD
+
+
+
+
+
+  * Ugly  
+
+
+
+    * ﻿WingateWeb's schedule maker
+
+
+    * TBD
+
+
+
+
+
+
+
+ 
+
+
+
+
+# Details:
+
+
+
+
+ 
+
+
+
+
+## Day 1 - Monday, August 30
+
+
+
+
+[
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952595100)Partner Growth
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952595500)
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952596026)
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952596394)
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952005941)
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952597020)
+
+
+
+
+Transitioning to ESXi, Architecture for Next Generation vSphere
+
+
+
+
+Partner Meetings
+
+
+
+
+﻿Client Meetings
+
+
+
+
+Welcome Reception - booths that stood out
+
+
+
+
+
+
+  * rPath (solid demo)
+
+
+  * BLADE (good story)
+
+
+  * Pancetera (good story)
+
+
+  * BlueStripe (good story)
+
+
+
+
+TBD
+
+
+
+
+## Day 2 - Tuesday, August 31
+
+
+
+
+Scaling Data Center Fabrics with Secure Cloud Services
+
+
+
+
+Public Cloud Computing Gets Real: Announcing New Enterprise-Class Service that Delivers on the Promise of Cloud Computing
+
+
+
+
+Time for a break...
+
+
+
+
+[
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952030161)[
+
+
+
+
+_I'M ON A BOAT_ - ﻿[zozi Sailing Showdown with 500Startups and Startup2Startup: Sailing, Tacos, and Beer Tasting](http://plancast.com/a/4glr/zozi_sailing_showdown_500startups_startup2startup_sailing_tacos_berkeley_ca_tuesday_august_31_2010)
+
+
+
+
+[
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952034271)[
+
+
+
+
+[](http://www.flickr.com/photos/49503210825@N01/4952625298)[
+
+
+
+
+﻿﻿Client Meetings
+
+
+
+
+[﻿﻿](http://plancast.com/a/4gmw/api_open_mic_night_splunk_hq_250_brannan_st_2nd_floor_san_francisco_ca_94107_tuesday_august_31_2010_600pm)Splunk with Twilio for [API Open Mic](http://plancast.com/a/4gmw/api_open_mic_night_splunk_hq_250_brannan_st_2nd_floor_san_francisco_ca_94107_tuesday_august_31_2010_600pm)
+
+
+
+
+Client Meetings
+
+
+
+
+[
+
+
+
+
+## Day 3 - Wednesday, September 1
+
+
+
+
+Highlights: During the interview with Heineken, metrics shared around improvements in efficiency, performance, and management of data center operations will not lower the price of beer -- but shareholders will likely have more beer money as a result.  Yet, during the discussions around performance oriented business analytics the panel was not able to answer that specific question.  So, again we see that there may not be a flattening in all areas of business IT.
+
+
+
+
+[
+
+
+
+
+The use of Compellent was an obvious portion of the discussions but it was difficult to pin down a correlation that was direct. There were the obvious references to "hero" reports but the impact was in terms of storage purchasing and effective use (green pickup by powering down).
+
+
+
+
+With VMware it is possible to have the IT customers enabled to clone, create, and test quickly vs. going through the previous (traditional) processes associated with responding to such a requirement.  The maturity of specific tiers of storage buckets was highlighted in that high performance (SSD) tiers are for HPC applications and then there is "other" that moves to SATA.
+
+
+
+
+Through a line of questions it was determined that the arrival at differing allocation of storage was discovered through analysis of server load -- NOT through any automatic or so-called proactive feedback loop (PFL).  The leading question was to draw out a "do you want something that decides for you" but it appears that scenario might not have translated.
+
+
+
+
+(took a break for this company called Apple doing something)
+
+
+
+
+Building a Secure Private Cloud Today
+
+
+
+
+Virtualization Transitions: The Journey to Enterprise Cloud Computing
+
+
+
+
+How Cisco, EMC and VMware Are Changing the IT Landscape with Vblock Converged Infrastructure
+
+
+
+
+The Last Mile: Virtualizing Business-Critical Applications
+
+
+
+
+﻿﻿Client Meetings
+
+
+
+
+TBD = crashed hard for the night for early AM calls
+
+
+
+
+## Day 4 - Thursday, September 2
+
+
+
+
+Client Meetings
+
+
+
+
+Regency Ballroom for ﻿[Intuit’s Innovation Gallery Walk ](http://plancast.com/a/4mlb/intuit_innovation_gallery_walk_regency_building_thursday_september_2_2010_4-700pm)
+
+
+
+
+[  
+(talking to my cats on Skype)
+
+
+
+
+Kicklabs for [﻿TWITTER NATION: Fireside Chat featuring Evan Williams, CEO of Twitter](http://plancast.com/a/4gmf/twitter_nation_fireside_chat_featuring_evan_williams_ceo_twitter_kicklabs_thursday_september_2_2010_7-1000pm)
+
+
+
+
+[
+
+
+
+
+ 
+
+
+
+
+## Day 5 - Friday, September 3
+
+
+
+
+﻿Client Meetings
+
+
+
+
+[
+
+
+
+
+A little light reading from NetApp (TR-3749)
+
+
+
+
+TBD
+
+
+
+
+### Solutions Exchange Notes:
+
+
+
+
+
+
+  * AppDynamics - best demo of the show IMHO (ex-Splunk/Wily types that know their stacks COLD)
+
+
+  * Box.net 
+
+
+  * Cloud.com 
+
+
+  * Connectria Hosting 
+
+
+  * Mezeo Software 
+
+
+  * NETGEAR 
+
+
+  * Netreo 
+
+
+  * Pancetera - this is one to watch especially if you have a heavy agent loading in your environments already
+
+
+  * Sychron 
+
+
+  * UShareSoft 
+
+
+  * Viridity Software 
+
+
+  * Virtual Bridges 
+
+
+  * Whip Tail Tech 
+
+
+  * Zetta
+
+
+
+
+ 
