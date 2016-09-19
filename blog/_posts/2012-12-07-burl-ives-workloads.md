@@ -12,7 +12,7 @@ I was going through my spawling comments on the Interwebs and noticed my Branch 
 
 Unfortunately, I don't see Branch or Medium as durable places for content or thoughts. 
 
-##You Don't Have To Go Home But You Can't Stay Here
+## You Don't Have To Go Home But You Can't Stay Here
 
 Let me explain. 
 
@@ -23,7 +23,7 @@ Branch is probably worse since it invites longer form comments that are basicall
 Here's to saving one such thought from the langoliers of the cloud. 
 
 
-##Burl Ives Workloads
+## Burl Ives Workloads
 
 <iframe width="300" height="168" src="//www.youtube.com/embed/PIMolV5WMQk" frameborder="0" allowfullscreen></iframe>
 
