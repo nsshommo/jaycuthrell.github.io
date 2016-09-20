@@ -4,7 +4,7 @@ date: "2016-09-21"
 layout: post
 ---
 
-2016 has been [interesting](/emc-coverged-platforms/). Next month I will wrap up my sixth year at VCE. 
+2016 has been interesting. Next month I will wrap up my sixth year at VCE.
 
 On September 7, 2016 things got even more interesting.
 
