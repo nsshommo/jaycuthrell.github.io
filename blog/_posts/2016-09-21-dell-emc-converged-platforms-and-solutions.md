@@ -1,5 +1,5 @@
 ---
-title: "Dell EMC Converged Platforms and Solutions Division"
+title: "Dell EMC Converged Platforms and Solutions"
 date: "2016-09-21"
 layout: post
 ---
