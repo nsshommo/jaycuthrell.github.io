@@ -13,7 +13,9 @@ On September 7, 2016 things got even more interesting.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That thing where you go from most successful JV ever to being part of the biggest deal in IT history. 🚀 <a href="https://twitter.com/hashtag/iwork4Dell?src=hash">#iwork4Dell</a> <a href="https://t.co/wIilrcZRv4">https://t.co/wIilrcZRv4</a></p>&mdash; Jay Cuthrell (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/773558118483505152">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-A familiar (iconic?) VCE logo was harder to find. Branding changes took place quickly. A new logo emerged.
+A familiar (iconic?) VCE logo was harder to find. Branding changes took place quickly. 
+
+A new logo emerged.
 
 [![Dell EMC Converged Platforms and Solutions](/images/dell-emc-logo-text.png "Dell EMC Converged Platforms and Solutions")](http://www.vce.com/)
 
