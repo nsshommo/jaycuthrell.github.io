@@ -8,7 +8,7 @@ layout: post
 
 On September 7, 2016 things got even more interesting.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KyLBJAglAiw" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/embed/KyLBJAglAiw" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That thing where you go from most successful JV ever to being part of the biggest deal in IT history. 🚀 <a href="https://twitter.com/hashtag/iwork4Dell?src=hash">#iwork4Dell</a> <a href="https://t.co/wIilrcZRv4">https://t.co/wIilrcZRv4</a></p>&mdash; Jay Cuthrell (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/773558118483505152">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
