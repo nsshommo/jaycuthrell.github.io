@@ -43,6 +43,28 @@ Good Things To Come
 
 After taking off more than a year on LinkedIn my profile is back up again. I went from zero to just over 1700 connections in a few weeks so if you were ever curious about the impact of a digital cleanse on LinkedIn, don't worry. Most of it comes back quickly: <a href="https://www.linkedin.com/pub/jay-cuthrell/a9/185/44"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Jay Cuthrell's profile on LinkedIn"> </a>
 
+For example, my newly recreated graph looks like this for Top 5's by Company:
+
+``
+(248) Dell EMC
+(204) VCE
+( 86) Cisco
+( 61) VMware
+( 44) Dell
+``
+
+Top 4's by Location:
+
+``
+(237) San Francisco Bay Area
+(161) Greater Boston Area
+(134) Raleigh-Durham, North Carolina Area
+(111) Dallas/Fort Worth Area
+( 44) Austin, Texas Area
+``
+
+So, in general, LinkedIn is one way to view things but not the only way to view things. Vetting and data scrubbing on LinkedIn is still somewhere between apathy and rot. I do miss my endorement for goat herding and unicorn jockey skills. Serious business! 😂
+
 On the other hand, if you are looking for another kind of vetting you can find me on Keybase.io (I have invites left): [https://keybase.io/jaycuthrell](https://keybase.io/jaycuthrell)
 
 My travel duties might pick up a bit over the next few months but I'm enjoying Austin (miss you Las Vegas) and the pursuit of the perfect taco is eternal.
