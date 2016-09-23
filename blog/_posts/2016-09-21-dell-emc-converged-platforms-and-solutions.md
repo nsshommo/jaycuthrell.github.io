@@ -41,4 +41,10 @@ One week ago I found myself surrounded by the wider global team as we took time 
 Good Things To Come
 -------------------
 
-(stay tuned...)
+After taking off more than a year on LinkedIn my profile is back up again. I went from zero to just over 1700 connections in a few weeks so if you were ever curious about the impact of a digital cleanse on LinkedIn, don't worry. Most of it comes back quickly: <a href="https://www.linkedin.com/pub/jay-cuthrell/a9/185/44"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Jay Cuthrell's profile on LinkedIn"> </a>
+
+On the other hand, if you are looking for another kind of vetting you can find me on Keybase.io (I have invites left): [https://keybase.io/jaycuthrell](https://keybase.io/jaycuthrell)
+
+My travel duties might pick up a bit over the next few months but I'm enjoying Austin (miss you Las Vegas) and the pursuit of the perfect taco is eternal.
+
+Until next time... Stay tuned...
