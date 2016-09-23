@@ -45,31 +45,23 @@ After taking off more than a year on LinkedIn my profile is back up again. I wen
 
 For example, my newly recreated graph looks like this for Top 5's by Company:
 
-``
+````
 (248) Dell EMC
-
 (204) VCE
-
 ( 86) Cisco
-
 ( 61) VMware
-
 ( 44) Dell
-``
+````
 
 Top 5's by Location:
 
-``
+````
 (237) San Francisco Bay Area
-
 (161) Greater Boston Area
-
 (134) Raleigh-Durham, North Carolina Area
-
 (111) Dallas/Fort Worth Area
-
 ( 44) Austin, Texas Area
-``
+````
 
 So, in general, LinkedIn is one way to view things but not the only way to view things. Vetting and data scrubbing on LinkedIn is still somewhere between apathy and rot. I do miss my endorement for goat herding and unicorn jockey skills. Serious business! 😂
 
