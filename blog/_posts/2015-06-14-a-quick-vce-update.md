@@ -6,7 +6,7 @@ layout: post
 I'm still blogging internally and less externally. This post is a good reminder that taking a moment to reflect is always a good thing. Let's get to it shall we?
 
 ## Blogs Away
-It's been a few months since my last post on this blog. Considering my random to periodic pace since joining VCE in 2010, I haven't blogged much about VCE lately either. In fact, my last update on the topic of VCE was [late last year](http://jaycuthrell.com/blog/my-fourth-year-at-vce/).
+It's been a few months since my last post on this blog. Considering my random to periodic pace since joining VCE in 2010, I haven't blogged much about VCE lately either. In fact, my last update on the topic of VCE was [late last year](http://jaycuthrell.com/my-fourth-year-at-vce/).
 
 That's okay. It is. [VCE has a blog now](https://blog.vce.com) and there have been lots of posts on a variety of topics.
 
@@ -34,7 +34,7 @@ My extended travel patterns for the past year or so has been contained to the Am
 
 While I don't anticipate having to visit a dozen or so countries again -- I don't rule it out either!
 
-Being in Las Vegas for a little over two years (wow!!) has been great as a [business traveler](http://jaycuthrell.com/blog/lv-thoughts-so-far/). I'm enjoying the exploration when I come home and the myriad of day trip options it affords me.
+Being in Las Vegas for a little over two years (wow!!) has been great as a [business traveler](http://jaycuthrell.com/lv-thoughts-so-far/). I'm enjoying the exploration when I come home and the myriad of day trip options it affords me.
 
 Besides... I'm a REAL party animal...
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/VegasTech?src=hash">#VegasTech</a>: only ~30 minutes until the Classification and Regression Models using R talk at <a href="https://twitter.com/Innevation">@InNEVation</a> <a href="http://t.co/TVp5EMdCJN">http://t.co/TVp5EMdCJN</a> <a href="https://twitter.com/hashtag/bigdata?src=hash">#bigdata</a></p>&mdash; Jay Cuthrell (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/552647965135761408">January 7, 2015</a></blockquote>
