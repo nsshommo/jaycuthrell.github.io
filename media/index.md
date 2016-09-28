@@ -3,6 +3,9 @@ layout: page
 title: "Jay Cuthrell's Media"
 image:
   feature: 600x200.png
+  credit: Josh Atwell
+  creditlink: https://twitter.com/josh_atwell/
+
 ---
 
 ### Writing and Blogging
