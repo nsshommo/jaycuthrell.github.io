@@ -1,16 +1,11 @@
 url: http://jaycuthrell.com
 title: Jay Cuthrell's Home Page
-description: Welcome to the homage page of Jay Cuthrell.
+description: Perpetually Under Construction
 logo: bio-photo.jpg
 search: true
 locale: en_US
 
 google_analytics_id: UA-305670-10
-
-image:
-  feature: 600x200.png
-  credit: Josh Atwell
-  creditlink: https://twitter.com/josh_atwell
 
 source: 
 root: /
