@@ -1,7 +1,7 @@
 ---
 title: "What Is Interesting?"
 date: "2014-11-10"
-layout: index
+layout: post
 redirect_from:
  - /blog/what-is-interesting/
 ---
