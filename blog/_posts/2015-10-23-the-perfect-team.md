@@ -1,6 +1,6 @@
 ---
 title: "The Perfect Team"
-date: "2015-10-23"
+date: 2015-10-23
 layout: post
 redirect_from:
  - /blog/the-perfect-team/
