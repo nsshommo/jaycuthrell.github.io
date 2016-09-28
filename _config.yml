@@ -1,23 +1,45 @@
 url: http://jaycuthrell.com
 title: Jay Cuthrell's Home Page
 description: Jay Cuthrell's Home Page
+logo: 600x200.png
+search: true
+locale: en_US
 
 google_analytics_id: UA-305670-10
 
-gems:
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
 
 source: 
 root: /
 permalink: /:title/
-
 markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
 date_format: "ordinal"
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jemoji
 
-author :
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+
+owner:
+  avatar: bio-photo.jpg
   name : Jay Cuthrell
   email : jay@cuthrell.com
   github : jaycuthrell
   twitter : jaycuthrell
+  linkedin: jaycuthrell
+  google:
+    analytics: UA-305670-10
