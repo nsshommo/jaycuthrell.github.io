@@ -7,6 +7,10 @@ locale: en_US
 
 google_analytics_id: UA-305670-10
 
+image:
+  feature: 600x200.png
+  credit: Josh Atwell
+  creditlink: https://twitter.com/josh_atwell
 
 source: 
 root: /
