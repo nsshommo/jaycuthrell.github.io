@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Jay Cuthrell"
+image:
+  feature: 600x200.png
 ---
 ### Contact Information
 
