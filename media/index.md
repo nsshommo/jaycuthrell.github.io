@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: "Jay Cuthrell's Media"
 ---
 
