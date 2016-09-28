@@ -3,7 +3,7 @@ title: "Dell EMC Converged Platforms and Solutions"
 date: "2016-09-21"
 layout: post
 image:
-  featured: 600x200.png
+  feature: 600x200.png
   credit: Josh Atwell
   creditlink: https://twitter.com/josh_atwell
 ---
