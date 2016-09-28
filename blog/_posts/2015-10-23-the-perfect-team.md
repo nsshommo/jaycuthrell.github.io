@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Team"
 date: "2015-10-23"
-layout: index
+layout: post
 redirect_from:
  - /blog/the-perfect-team/
 ---
