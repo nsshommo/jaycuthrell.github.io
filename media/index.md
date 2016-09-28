@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Jay Cuthrell's Media"
+image:
+  feature: 600x200.png
 ---
 
 ### Writing and Blogging

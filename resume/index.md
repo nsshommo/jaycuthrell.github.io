@@ -1,6 +1,8 @@
 ---
-layout: index
+layout: page
 title: "Jay Cuthrell's Resum&eacute;"
+image:
+  feature: 600x200.png
 ---
 
 <a href="http://eepurl.com/bdG70r">UPDATE: Please subscribe for detailed versions of this document.</a>
