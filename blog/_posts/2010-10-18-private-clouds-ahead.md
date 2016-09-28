@@ -1,6 +1,6 @@
 ---
-layout: index
-date: 2010-10-18 
+layout: post
+date: 2010-10-18 00:00:00
 title: Private Clouds Ahead
 ---
 
