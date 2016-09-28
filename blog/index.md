@@ -18,7 +18,7 @@ Hang loose... it's all coming back soon. Keep in mind these have been through a 
     <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }} {{this_year}}</h3>
     {% endif %}
 
-    <ul class="post-list"><li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> -- {% if post.date != null %} {{ post.date  | date: "%B %-d %Y" }} {% endif %} </li></ul>
+    <ul class=post-list><li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> -- {% if post.date != null %} {{ post.date  | date: "%B %-d %Y" }} {% endif %} </li></ul>
 
     {% if forloop.last %}
     {% else %}
