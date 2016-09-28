@@ -9,8 +9,11 @@
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Media 
+  url: /media/
+
+- title: Resume 
+  url: /resume/
 
 - title: Search
   url: /search/
