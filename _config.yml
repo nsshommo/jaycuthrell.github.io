@@ -43,8 +43,14 @@ owner:
   google:
     analytics: UA-305670-10
 
+
 defaults:
-  image:
-    feature: 600x200.png
-    credit: Josh Atwell
-    creditlink: https://twitter.com/josh_atwell/
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      image:
+        feature: 600x200.png
+        credit: Josh Atwell
+        creditlink: https://twitter.com/josh_atwell/
