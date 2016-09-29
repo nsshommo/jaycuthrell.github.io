@@ -42,3 +42,9 @@ owner:
   linkedin: jaycuthrell
   google:
     analytics: UA-305670-10
+
+post:
+  image:
+    feature: 600x200.png
+    credit: Josh Atwell
+    creditlink: https://twitter.com/josh_atwell/
