@@ -1,12 +1,29 @@
 ---
 layout: page
-title: "Writing, Events, Interviews, and Videos"
+title: "Viral Videos, Writing, Events, and Interviews"
 image:
   feature: 600x200.png
   credit: Josh Atwell
   creditlink: https://twitter.com/josh_atwell/
 
 ---
+
+### Viral Videos
+
+(Partial List)
+
+#### EMC Style 2013
+
+  <iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
+
+#### Cloud Shop
+
+  <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
+
+#### \#HardwareForWhat
+
+  <iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
+
 
 ### Writing and Blogging
 
@@ -112,22 +129,3 @@ image:
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
-### Viral Videos
-
-(Partial List)
-
-#### EMC Style 2013
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
-
-#### Cloud Shop
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
-
-#### \#HardwareForWhat
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
-
-### Music
-
-Please listen to my [musical recordings](http://jaycuthrell.com/music/).
