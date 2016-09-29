@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Jay Cuthrell's Media"
+title: "Writing, Events, Interviews, and Videos"
 image:
   feature: 600x200.png
   credit: Josh Atwell
