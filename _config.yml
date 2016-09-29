@@ -2,7 +2,7 @@ url: http://jaycuthrell.com
 title: Jay Cuthrell's Home Page
 description: Perpetually Under Construction
 logo: bio-photo.jpg
-search: true
+search: false 
 locale: en_US
 
 google_analytics_id: UA-305670-10
@@ -43,7 +43,7 @@ owner:
   google:
     analytics: UA-305670-10
 
-post:
+defaults:
   image:
     feature: 600x200.png
     credit: Josh Atwell
