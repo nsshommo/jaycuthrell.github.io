@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-08-17 04:13:55
-layout: index
+layout: post
 slug: my-first-300-days
 title: My First 300 Days
 wordpress_id: 36786

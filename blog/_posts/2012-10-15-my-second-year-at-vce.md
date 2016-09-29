@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2012-10-15 02:50:15
-layout: index
+layout: post
 slug: my-second-year
 title: My Second Year at VCE
 cover: http://farm9.staticflickr.com/8458/8047090841_f0b412baea_n.jpg

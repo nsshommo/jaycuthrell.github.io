@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "Unstoppable March of Convergence"
 date: 2013-03-07
 ---

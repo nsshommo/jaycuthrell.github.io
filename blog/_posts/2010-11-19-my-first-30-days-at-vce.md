@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-11-19 23:06:36
-layout: index
+layout: post
 slug: my-first-30-days
 cover: http://farm5.static.flickr.com/4145/5104680750_26daa79e97_m.jpg
 title: My First 30 Days

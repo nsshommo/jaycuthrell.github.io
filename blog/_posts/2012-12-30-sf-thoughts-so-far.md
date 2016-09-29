@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "SF Thoughts So Far"
 date: 2012-12-30 05:45
 comments: false

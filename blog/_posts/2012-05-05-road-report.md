@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-05-05 23:21:13
-layout: index
+layout: post
 slug: road-report
 cover: http://farm9.staticflickr.com/8145/6989170638_541d62a01a_n.jpg
 title: Road Report

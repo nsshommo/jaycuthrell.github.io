@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-09-19 05:55:45
-layout: index
+layout: post
 slug: my-first-330-days
 cover: http://farm7.static.flickr.com/6202/6162274188_21b9c5ac4d_m.jpg
 title: My First 330 Days

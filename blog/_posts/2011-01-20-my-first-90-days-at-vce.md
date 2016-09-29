@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-01-20 03:40:55
-layout: index
+layout: post
 slug: my-first-90-days
 title: My First 90 Days
 wordpress_id: 36650

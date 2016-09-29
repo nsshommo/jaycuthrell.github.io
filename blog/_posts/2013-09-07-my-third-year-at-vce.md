@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "My Third Year at VCE"
 date: 2013-09-07 7:26
 cover: http://farm8.staticflickr.com/7446/9025001287_19db7142b4_n.jpg

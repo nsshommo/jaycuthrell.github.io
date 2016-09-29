@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 date: 2013-05-25
 title: "A Timely Question"
 redirect_from:

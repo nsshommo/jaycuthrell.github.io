@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-12-19 10:35:22
-layout: index
+layout: post
 slug: my-first-60-days
 cover: http://farm6.static.flickr.com/5247/5275344895_ae1f25dc10_m.jpg
 title: My First 60 Days

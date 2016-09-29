@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-11-19 16:47:13
-layout: index
+layout: post
 slug: enhancement-and-innovation
 title: Enhancement and Innovation
 cover: http://farm7.static.flickr.com/6047/6322162358_25015e2236_m.jpg

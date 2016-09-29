@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "Be My Advisor"
 date: 2013-11-08
 redirect_from:

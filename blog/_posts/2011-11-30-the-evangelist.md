@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-11-30 09:00:15
-layout: index
+layout: post
 slug: the-evangelist
 cover: http://farm7.staticflickr.com/6211/6429750045_0a6a4238b2_o.png
 title: The Evangelist

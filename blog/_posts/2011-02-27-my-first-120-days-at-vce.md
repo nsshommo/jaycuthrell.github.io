@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-02-27 03:11:31
-layout: index
+layout: post
 slug: my-first-120-days
 title: My First 120 Days
 wordpress_id: 36686

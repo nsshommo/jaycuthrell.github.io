@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "LV Thoughts So Far"
 date: 2013-11-23 21:55
 comments: true

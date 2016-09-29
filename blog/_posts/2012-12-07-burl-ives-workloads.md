@@ -1,7 +1,7 @@
 ---
 title: "Burl Ives Workloads"
 date: "2012-12-07"
-layout: index
+layout: post
 redirect_from:
  - /blog/burl-ives-workloads
 ---

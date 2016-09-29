@@ -1,6 +1,6 @@
 ---
 date: 2011-10-18
-layout: index
+layout: post
 title: My First Year at VCE
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "The 5 P's of Workloads"
 date: 2014-01-17
 redirect_from:

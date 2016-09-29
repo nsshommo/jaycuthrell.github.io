@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "Thinking About Innovation"
 date: 2012-07-23
 ---

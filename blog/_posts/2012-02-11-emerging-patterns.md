@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-02-11 20:10:28
-layout: index
+layout: post
 slug: emerging-patterns
 cover: http://farm8.staticflickr.com/7027/6819677129_e648d893d2_m.jpg
 title: Emerging Patterns

@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "Pivot to Enterprise"
 date: 2013-04-28 17:08
 cover: http://sxsw.com/sites/default/files/PanelPicker_Vote_14-blog.jpg

@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: "Follow the Leader"
 cover: http://farm8.staticflickr.com/7258/7873517344_70587e92f2_n_d.jpg
 date: 2013-01-26 17:24

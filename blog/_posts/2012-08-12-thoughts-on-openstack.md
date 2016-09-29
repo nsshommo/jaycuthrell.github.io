@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2012-08-12 02:50:15
-layout: index
+layout: post
 slug: thoughts-on-openstack
 title: Thoughts on OpenStack
 cover: http://farm7.staticflickr.com/6140/5928931045_164915639f_m.jpg

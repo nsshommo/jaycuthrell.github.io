@@ -1,6 +1,6 @@
 ---
 date: 2012-06-13
-layout: index
+layout: post
 title: Road Report Redux
 ---
 

@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2012-11-21 11:29:28
-layout: index
+layout: post
 slug: road-warrior-thoughts
 title: Road Warrior Thoughts
 wordpress_id: 38109

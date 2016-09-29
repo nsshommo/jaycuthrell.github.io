@@ -1,7 +1,7 @@
 ---
 title: "My Fourth Year at VCE"
 date: "2014-10-18"
-layout: index
+layout: post
 redirect_from:
  - /blog/my-fourth-year-at-vce/
 ---
