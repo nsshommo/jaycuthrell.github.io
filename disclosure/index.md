@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Disclosure
+image:
+  feature: 600x200.png
+  credit: Josh Atwell
+  creditlink: https://twitter.com/josh_atwell/
 ---
 
 Here are my disclosures that I make reasonable attempts to keep current. While I do not maintain an exhausive list of online presences here I will make reasonable attempts to link to this disclosure when the UI/UX of a given service permits or I will state that the opinions shared on those third party services are solely mine.
