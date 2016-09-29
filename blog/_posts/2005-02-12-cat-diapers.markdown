@@ -2,20 +2,12 @@
 comments: true
 date: 2005-02-12 16:44:44
 layout: post
-cover: http://farm1.static.flickr.com/9/16032472_751c9cf508_m.jpg
-slug: cat-diapers
 title: Cat Diapers
-wordpress_id: 23964
-categories:
-- NeoNova and Digitel
-- random
 tags:
 - humor
 - pets
 - poop
 ---
-
-[
 
 I was trying to figure out where cat poop goes. _Yes, this is my life._
 
