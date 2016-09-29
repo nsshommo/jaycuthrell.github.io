@@ -35,7 +35,6 @@ So, as I live in Raleigh I asked the waste folks (they have email) the question:
 >Jay
 
 
-[
 
 I got a response in less than 12 hours.... and apparently, **you can put diapers on cats!**
 
