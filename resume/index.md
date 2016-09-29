@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Jay Cuthrell's Resum&eacute;"
+title: "My Resum&eacute;"
 image:
   feature: 600x200.png
 ---

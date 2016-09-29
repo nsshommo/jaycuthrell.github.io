@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog posts over the years
+title: My blog posts over the years
 excerpt: "An archive of blog posts sorted by date."
 image:
   feature: 600x200.png

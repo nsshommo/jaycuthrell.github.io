@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jay Cuthrell's Music 
+title: My Music 
 image:
   feature: 600x200.png
 ---
