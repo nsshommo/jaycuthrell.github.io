@@ -12,15 +12,19 @@ image:
 
 (Partial List)
 
+#### The Redneck Guide to Silicon Valley 2010
+
+<iframe width="300" height="168" src="https://www.youtube.com/embed/KAiAD8PUrsk" frameborder="0" allowfullscreen></iframe>
+
 #### EMC Style 2013
 
   <iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
 
-#### Cloud Shop
+#### Cloud Shop 2014
 
   <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
 
-#### \#HardwareForWhat
+#### \#HardwareForWhat 2015
 
   <iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
 
