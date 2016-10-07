@@ -40,6 +40,11 @@
         {% if site.owner.disqus-shortname and page.comments or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
         {% if page.share %}{% include social-share.html %}{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
+        <span class="github">
+          {% if page.date != null %} Initially Published: {{ page.date  | date: "%B %-d %Y" }} {% endif %} | 
+            <a href="{{site.github.repository_url}}/commits/master/{{page.path}}" target="_blank">Post revision history.</a>
+        </span>
+
       </footer>
       <div class="entry-content">
         {{ content }}
