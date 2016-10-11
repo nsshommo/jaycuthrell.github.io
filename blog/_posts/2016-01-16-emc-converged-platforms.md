@@ -19,7 +19,7 @@ The [announcements made by VCE](http://www.vce.com/about/media/news?id=tcm:20-36
 
 [![EMC Converged Platforms](/images/vce-logo-text.png "EMC Converged Platforms")](http://www.vce.com/about/media/news?id=tcm:20-36801)
 
-Yesterday, I had the chance to present to a wider group within Federation. One of the requrests from the facilitator was to include a slide that would introduce you, the speaker. This was up to the speaker of course as some folks will have head shots and others might have the original photo from their first badge with the company. 
+Yesterday, I had the chance to present to a wider group within Federation. One of the requests from the facilitator was to include a slide that would introduce you, the speaker. This was up to the speaker of course as some folks will have head shots and others might have the original photo from their first badge with the company. 
 
 Not everyone has an updated photo. I don't either but I had my levity inducing slide from before and used it. The reason for the request is because, like many presentations, the audience is attending via WebEx. Sometimes putting a face with a voice over a network based presentation can help make for a more human presenation. 
 
