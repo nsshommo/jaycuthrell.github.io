@@ -30,7 +30,7 @@ Indeed, even the proponents of so-called agile methodologies will impress upon
 devotees (or anyone that will listen) that a standing meeting is a way to
 physically exhaust attendees that might otherwise spend longer times in meetings
 were they seated. Perhaps the next progession is to run meetings while doing 
-agility drills or maybe even calisthenics. How much ya -bench- backlog?
+agility drills or maybe even calisthenics. How much ya ~~bench~~ backlog?
 
 The Promise of Artificial Intelligence
 ======================================
