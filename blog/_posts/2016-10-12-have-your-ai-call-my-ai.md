@@ -99,7 +99,7 @@ permits many modern business models to persist in the first place.
 It's easy to see why startups want to embody what an executive assistant can do
 as machine learning models and selective task defintions. Once there is a
 minimum viable product the next step seems to be a freemium to premium trial
-ware approach. Or, the startup fails and is reconsumed into another startup. 
+ware approach. Or, the startup exits or fails and is reconsumed into another startup. 
 
 If only there was AI for pricing models. Actually, that probably exists
 somewhere too. 😉
