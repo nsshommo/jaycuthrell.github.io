@@ -34,6 +34,10 @@ were they seated.
 The Promise of Artificial Intelligence
 ======================================
 
+First... a video montage moment depicting a future AI to AI abstraction...
+
+<iframe width="300" height="169" src="https://www.youtube.com/embed/CfL8N_bDo1E?&start=284" frameborder="0" allowfullscreen></iframe>
+
 Years from now, we will all look back -- but not at the marvel of _AI_ but at the
 marvel that was marketing adoption of the term _AI_ as the word to search and
 replace for in copy that previously referred to _real time_, _social graph_, or
