@@ -24,7 +24,7 @@ You might remember the first time someone exposed you to the concept of _getting
 things done_ and all the power this simple phrase promised to deliver. You
 probably also remember when slap bracelets were a thing.
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/760_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"getting things done","geo":"","time":"2006-09-12 2016-10-12"}],"category":0,"property":""}, {"exploreQuery":"date=2006-09-12%202016-10-12&q=getting%20things%20done"}); </script> 
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/760_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"getting things done","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=getting%20things%20done"}); </script> 
 
 Indeed, even the proponents of so-called agile methodologies will impress upon
 devotees (or anyone that will listen) that a standing meeting is a way to
