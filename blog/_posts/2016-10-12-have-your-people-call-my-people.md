@@ -34,8 +34,8 @@ were they seated.
 The Promise of Artificial Intelligence
 ======================================
 
-Years from now, we will all look back at the marvel that wasn't AI but the
-marvel that was marketing adoption of the term AI as the word to search and
+Years from now, we will all look back -- but not at the marvel of _AI_ but at the
+marvel that was marketing adoption of the term _AI_ as the word to search and
 replace for in copy that previously referred to _real time_, _social graph_, or
 the latest darling _on demand_. So, does the hype match the execution?
 
@@ -51,6 +51,10 @@ href="https://twitter.com/Qthrul/status/67779462107897856">May 10,
 2011</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Maybe Slack will get this right? Perhaps Facebook Work? Perhaps G(oogle) Suite?
+
+I don't know. I just know that if AI is a part of the story, I'm skeptical.
+
 Alternatives To Waiting
 =======================
 
@@ -62,6 +66,12 @@ Again, the results were mixed.
 I've tried the free versions of AI-ish or been involved with startups in pursuit
 of serendipitous calendar integration. For most, results were mixed until the
 results were no longer viable business models.
+
+Of special note, I do think that the folks behind [x.ai](https://x.ai) are clever.
+
+The space is getting more crowded or shrinking depending on your perspective.
+
+Here's a useful query to keep track of recent listicles [https://www.google.com/search?tbs=qdr%3Ay&q=calendly+x.ai+tools](https://www.google.com/search?tbs=qdr%3Ay&q=calendly+x.ai+tools)
 
 So, for now at least, I'm using a few alternatives while I await meeting
 scheduling nirvana 
