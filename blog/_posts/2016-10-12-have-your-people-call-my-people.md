@@ -1,5 +1,5 @@
 ---
-title: "Have Your People Call My People"
+title: "Have Your AI Call My AI"
 date: "2016-11-12"
 layout: post
 ---
