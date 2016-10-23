@@ -32,7 +32,7 @@ href="https://twitter.com/JayCuthrell/status/715756345320947712">April 1,
 Where Do We Go Now
 ==================
 
-Today, it is pretty hard to find a VCE logo. Sure, it is still referenced in a
+Today, it is pretty [hard to find a VCE logo](http://jaycuthrell.com/dell-emc-converged-platforms-and-solutions/). Sure, it is still referenced in a
 lot of places on the Internet but the current brand is Dell EMC. Then again, if
 you try to find the original Acadia logo that can be even harder to find.
 
@@ -45,6 +45,27 @@ you try to find the original Acadia logo that can be even harder to find.
 Platforms")](http://www.vce.com/about/media/news?id=tcm:20-36801)
 
 [![Dell EMC](/images/dell-emc-logo-text.png "Dell EMC")](http://vce.com)
+
+In terms of naming, the progression so far has been:
+
+- Virtual Computing Environment Coalition
+- Acadia
+- VCE
+- EMC Converged Platforms Division (CPD)
+- EMC Converged Platforms and Solutions (CPSD)
+- Dell EMC CPSD
+
+Will VCE ever come back as a brand? I don't know.
+
+Does the VCE brand matter? I don't know... but I do know a few things:
+
+- At trade shows, folks pose next to _what_ VCE makes
+- Customers pose next to their Vblock(s)
+- Customers pose next to their VxBlock(s)
+- Customers pose next to their VxRack(s)
+- Customers pose next to their VxRail(s)
+- VCE branded panels were not as popular as Vblock and VxBlock panels
+- Vblock, VxBlock, VxRack, and VxRail are just plain *iconic* 
 
 Vblock, VxBlock, VxRack, and VxRail
 ===================================
