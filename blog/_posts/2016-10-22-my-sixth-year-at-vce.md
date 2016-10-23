@@ -4,7 +4,9 @@ date: "2016-10-22"
 layout: post
 ---
 
-Six years!
+Six years! That's right. I've been at VCE for six years as of this update. To
+understand the nuance of VCE it is important to think about the history of VCE
+and just how far we have come... and where we are going.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And my 6th (!!!!!!) installment with the usual amount of [REDACTED] and light details is a git commit away...</p>&mdash; Jay Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/788394956347944961">October 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -43,6 +45,11 @@ you try to find the original Acadia logo that can be even harder to find.
 Platforms")](http://www.vce.com/about/media/news?id=tcm:20-36801)
 
 [![Dell EMC](/images/dell-emc-logo-text.png "Dell EMC")](http://vce.com)
+
+Vblock, VxBlock, VxRack, and VxRail
+===================================
+
+[![Vblock](/images/Vblock_300_FX.jpg "Vblock")](http://vce.com)
 
 Vblock and VxBlock are huge and the fervor for VxRack and VxRail are off to an
 agressive (and quite young) start that is amazing.
