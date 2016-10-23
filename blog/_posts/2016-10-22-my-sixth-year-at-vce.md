@@ -1,12 +1,12 @@
 ---
-title: "My Sixth Year at VCE"
+title: "My Sixth Year at VCE and My Sixth Week at Dell EMC"
 date: "2016-10-22"
 layout: post
 ---
 
-Six years! That's right. I've been at VCE for six years as of this update. To
+Six years! Six weeks! That's right. I've been at VCE for six years as of this update and that means I've been at Dell EMC for six weeks. To
 understand the nuance of VCE it is important to think about the history of VCE
-and just how far we have come... and where we are going.
+and just how far we have come... and where we are going as Dell EMC.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And my 6th (!!!!!!) installment with the usual amount of [REDACTED] and light details is a git commit away...</p>&mdash; Jay Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/788394956347944961">October 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -41,6 +41,12 @@ Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
 href="https://twitter.com/JayCuthrell/status/715756345320947712">April 1,
 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+At some point I sat back and had to marvel at just how far the concept of
+converged infrastructure had come. So the phrases like "the exception becomes
+the rule" is resonating with me now in ways that I could not have imagined just
+six years ago. Yet the future is even brighter and the journey is only just
+beginning in so many ways.
 
 Where Do We Go Now
 ==================
