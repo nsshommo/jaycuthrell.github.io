@@ -110,8 +110,10 @@ What Comes Next
 
 To be clear, I don't know what I'll publish on this blog for 2016 and for 2017.
 One of my projects for 2016 was to kick off a podcast but even that was put on
-the backburner. Lot of things came up that needed careful attention. So, the
-podcast has to wait.
+the backburner. Lot of things came up that needed careful attention. Things were
+good and things were just the kind of fun that I signed up for back in 2010 and
+getting to revisit some familiar topics with the sheer size and power of Dell
+EMC is truly something to savor. So, the podcast has to wait.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a
 href="https://twitter.com/hashtag/GoBigWinBIG?src=hash">#GoBigWinBIG</a>
