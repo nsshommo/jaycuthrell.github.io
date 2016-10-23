@@ -11,6 +11,19 @@ and just how far we have come... and where we are going.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And my 6th (!!!!!!) installment with the usual amount of [REDACTED] and light details is a git commit away...</p>&mdash; Jay Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/788394956347944961">October 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+I had hoped to push this update a few days earlier but the week has been an
+amazing time to connect and reconnect with my peers and several customers during
+the first Dell EMC World in Austin, Texas. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 3:
+<a href="https://twitter.com/hashtag/DellEMCWorld?src=hash">#DellEMCWorld</a>
+<br><br>Even more amazing stories! 📈📊 <a
+href="https://t.co/M50JLUJizQ">pic.twitter.com/M50JLUJizQ</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/789179761474039808">October 20,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The Moment
 ==========
 
@@ -67,6 +80,17 @@ Does the VCE brand matter? I don't know... but I do know a few things:
 - VCE branded panels were not as popular as Vblock and VxBlock panels
 - Vblock, VxBlock, VxRack, and VxRail are just plain *iconic* 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en"
+dir="ltr">&quot;One size does not fit all&quot; -- <a
+href="https://twitter.com/sakacc">@sakacc</a> <a
+href="https://twitter.com/hashtag/DellEMCWorld?src=hash">#DellEMCWorld</a> <a
+href="https://t.co/hrvjgF20Ob">pic.twitter.com/hrvjgF20Ob</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/788778627810766848">October 19,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Vblock, VxBlock, VxRack, and VxRail
 ===================================
 
@@ -92,6 +116,16 @@ What Do I Do Without You
 I have donated a lot of my VCE attire. I have a few random swag items from trade
 shows that have a VCE logo on them. Otherwise, I've got my Dell EMC shirts and
 have gotten a lot of my branded gear moved to the new look and feel.
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Behind
+the scenes as the sun rises above Austin for <a
+href="https://twitter.com/hashtag/DellEMCWorld?src=hash">#DellEMCWorld</a> <a
+href="https://t.co/E353GvpUAM">pic.twitter.com/E353GvpUAM</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/788002896621113344">October 17,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Oddly enough, I still haven't gotten new business cards. The only thing that's
 still accurate on them is a couple of phone numbers.
