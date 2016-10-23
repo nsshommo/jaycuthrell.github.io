@@ -110,7 +110,8 @@ Francisco this week! 🛫⛈🛬🚗👍🏽💯😀</p>&mdash; Jay Cuthrell �
 
 Las Vegas was fun but there is a lot to do. There are people to connect. There
 are many things to be done. There are lots of new firehoses to sip from for the
-first time.
+first time. Besides, I'll be visiting Las Vegas for all the big shows to meet
+with customers, analysts, and catch up with peers from around the world.
 
 In many ways, I've seemed to move every few years for this company just as the
 name or the ownership percentages or logos have changed. But one thing that
@@ -163,6 +164,13 @@ As I Have Said Before
 
 Stay tuned... we're just getting started.
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Final
+teaser from <a href="https://twitter.com/sakacc">@sakacc</a>... head over to <a
+href="https://t.co/N602rwWr6o">https://t.co/N602rwWr6o</a> and stay tuned! <a
+href="https://t.co/70ehmI64hL">pic.twitter.com/70ehmI64hL</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/788786403664535552">October 19,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
