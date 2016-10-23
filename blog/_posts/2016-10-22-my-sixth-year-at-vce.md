@@ -200,8 +200,8 @@ href="https://twitter.com/JayCuthrell/status/717859318842822656">April 6,
 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-As I Have Said Before
-=====================
+As I and Others Have Said Before
+================================
 
 Stay tuned... we're just getting started.
 
