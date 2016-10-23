@@ -1,0 +1,138 @@
+---
+title: "My Sixth Year at VCE"
+date: "2016-10-22"
+layout: post
+---
+
+Six years!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And my 6th (!!!!!!) installment with the usual amount of [REDACTED] and light details is a git commit away...</p>&mdash; Jay Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a href="https://twitter.com/JayCuthrell/status/788394956347944961">October 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The Moment
+==========
+
+There was a moment in 2015 when I knew this blog would become a bit
+more vague than usual. I remember wondering how the VCE brand would be viewed in
+a few months and in a few years. 
+
+And yet... I was thankful.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank
+you tech pundits &amp; FUD slingers that said @VCE is &#39;doomed&#39; in 2009,
+2010, 2011, 2012, 2013, 2014, 2015, ???? 🚀<a
+href="https://t.co/xIVwPozuzb">https://t.co/xIVwPozuzb</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/715756345320947712">April 1,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Where Do We Go Now
+==================
+
+Today, it is pretty hard to find a VCE logo. Sure, it is still referenced in a
+lot of places on the Internet but the current brand is Dell EMC. Then again, if
+you try to find the original Acadia logo that can be even harder to find.
+
+[![Acadia](/images/acadia.jpg
+"Acadia")](http://www.vce.com/about/media/news?id=tcm:20-468)
+
+[![VCE](/images/vce.png "VCE")](http://vce.com)
+
+[![EMC Converged Platforms](/images/vce-logo-text.png "EMC Converged
+Platforms")](http://www.vce.com/about/media/news?id=tcm:20-36801)
+
+[![Dell EMC](/images/dell-emc-logo-text.png "Dell EMC")](http://vce.com)
+
+Vblock and VxBlock are huge and the fervor for VxRack and VxRail are off to an
+agressive (and quite young) start that is amazing.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en"
+dir="ltr">📅📅📅📅📅📅📅<a
+href="https://twitter.com/hashtag/VxRail?src=hash">#VxRail</a> 7 month
+stats:<br><br>+3,800 nodes 📈<br>+90 countries 📈<br>+60,000 cores 📈<br>+700TB
+RAM 📈<br>+25PB of storage 📈<a
+href="https://t.co/PSwCMiF0Nv">https://t.co/PSwCMiF0Nv</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/786426200222674945">October 13,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+What Do I Do Without You
+========================
+
+I have donated a lot of my VCE attire. I have a few random swag items from trade
+shows that have a VCE logo on them. Otherwise, I've got my Dell EMC shirts and
+have gotten a lot of my branded gear moved to the new look and feel.
+
+Oddly enough, I still haven't gotten new business cards. The only thing that's
+still accurate on them is a couple of phone numbers.
+
+Oh. That's right.
+
+In my road warrior movements I managed to relocate to Austin, Texas.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big
+thank you to <a href="https://twitter.com/nationalcares">@nationalcares</a>
+teams for going above and beyond in San Antonio, Austin, Santa Clara, and San
+Francisco this week! 🛫⛈🛬🚗👍🏽💯😀</p>&mdash; Jay Cuthrell 🤓💡🚀☁ (@JayCuthrell)
+<a href="https://twitter.com/JayCuthrell/status/736313663661871104">May 27,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Las Vegas was fun but there is a lot to do. There are people to connect. There
+are many things to be done. There are lots of new firehoses to sip from for the
+first time.
+
+In many ways, I've seemed to move every few years for this company just as the
+name or the ownership percentages or logos have changed. But one thing that
+hasn't changed is the goal.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ro"
+dir="ltr">Innovate.<br>Accelerate.<br>Captivate.<a
+href="https://t.co/LfOMK3qazb">https://t.co/LfOMK3qazb</a><a
+href="http://t.co/3p334mB19E">http://t.co/3p334mB19E</a><a
+href="http://t.co/9yLaxNjaZa">http://t.co/9yLaxNjaZa</a></p>&mdash; Jay Cuthrell
+🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/524936741203877888">October 22,
+2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+What Comes Next
+===============
+
+To be clear, I don't know what I'll publish on this blog for 2016 and for 2017.
+One of my projects for 2016 was to kick off a podcast but even that was put on
+the backburner. Lot of things came up that needed careful attention. So, the
+podcast has to wait.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a
+href="https://twitter.com/hashtag/GoBigWinBIG?src=hash">#GoBigWinBIG</a>
+literally <a
+href="https://t.co/oixwIEYzj6">pic.twitter.com/oixwIEYzj6</a></p>&mdash; Jay
+Cuthrell 🤓💡🚀☁ (@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/776083395226980353">September 14,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+What comes next will be big. Big might not mean in terms of deterministic power,
+weight, cooling, and geometry terms. Big might mean big ideas. Big might mean
+big moonshot sized audacious grabbing for the sky. Big will absolutely be a big
+deal.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en"
+dir="ltr">[REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED] and
+then some... [REDACTED] [REDACTED] [REDACTED]</p>&mdash; Jay Cuthrell 🤓💡🚀☁
+(@JayCuthrell) <a
+href="https://twitter.com/JayCuthrell/status/717859318842822656">April 6,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+As I Have Said Before
+=====================
+
+Stay tuned... we're just getting started.
+
+
+
+

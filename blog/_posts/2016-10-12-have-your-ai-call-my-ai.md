@@ -1,6 +1,6 @@
 ---
 title: "Have Your AI Call My AI"
-date: "2016-11-12"
+date: "2016-10-12"
 layout: post
 ---
 
