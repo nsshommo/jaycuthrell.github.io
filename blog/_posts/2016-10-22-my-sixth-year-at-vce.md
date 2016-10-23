@@ -72,10 +72,11 @@ In terms of naming, the progression so far has been:
 - Acadia
 - VCE
 - EMC Converged Platforms Division (CPD)
-- EMC Converged Platforms and Solutions (CPSD)
-- Dell EMC CPSD
+- EMC Converged Platforms and Solutions Division (CPSD)
+- Dell EMC Converged Platforms and Solutions Division (CPSD)
 
-Will VCE ever come back as a brand? I don't know.
+Will VCE ever come back as a brand? I don't know. It was a bit shorter though...
+😀
 
 Does the VCE brand matter? I don't know... but I do know a few things:
 
