@@ -2,6 +2,10 @@
 title: "My Sixth Year at VCE and My Sixth Week at Dell EMC"
 date: "2016-10-22"
 layout: post
+image:
+  feature: Vblock_300_FX.jpg
+  credit: Jay Cuthrell
+  creditlink: https://en.wikipedia.org/wiki/Vblock
 ---
 
 Six years! Six weeks! That's right. I've been at VCE for six years as of this update and that means I've been at Dell EMC for six weeks. To
