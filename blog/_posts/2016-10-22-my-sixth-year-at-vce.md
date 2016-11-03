@@ -56,7 +56,7 @@ Today, it is pretty [hard to find a VCE logo](http://jaycuthrell.com/dell-emc-co
 lot of places on the Internet but the current brand is Dell EMC. Then again, if
 you try to find the original Acadia logo that can be even harder to find.
 
-[![Acadia](/images/acadia.jpg
+[![Acadia](/images/acadia-welcome.png
 "Acadia")](http://www.vce.com/about/media/news?id=tcm:20-468)
 
 [![VCE](/images/vce.png "VCE")](http://vce.com)
