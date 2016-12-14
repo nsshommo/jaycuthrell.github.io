@@ -25,7 +25,7 @@ I’ve been a guest contributor at Telecompetitor and a writer for ReadWrite.
 
 My updated bio is kept relatively current on the home page of this website and other variations elsewhere on the Internet are considered deprecated.
 
-As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently a Director within [Dell EMC](http://www.vce.com) that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
+As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently Chief of Staff for the Office of the CTO, [Dell EMC](http://www.vce.com) Converged Platforms and Solutions Division that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
 
 As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware. 
 
