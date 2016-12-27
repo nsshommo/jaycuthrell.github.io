@@ -5,6 +5,10 @@ image:
   feature: 600x200.png
 ---
 
+## Newsletter
+
+You can stay up to date by subscribing to my newsletter.
+
 <div id="revue-embed">
   <form action="http://digest.jaycuthrell.com/add_subscriber" method="post"
   id="revue-form" name="revue-form"  target="_blank">
