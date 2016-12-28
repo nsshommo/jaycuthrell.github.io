@@ -43,7 +43,7 @@ I’ve also been the managing principal of my own consulting practice and had in
 
 ### Startups
 
-I’m an advisor to amazing startups that are funded: AwayFind and Racemi
+I’m an advisor to amazing startups that are funded: [Racemi](http://racemi.com)
 
 I was an advisor to Packet Island which was acquired by BroadSoft.
 
