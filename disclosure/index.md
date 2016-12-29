@@ -27,18 +27,6 @@ My updated bio is kept relatively current on the home page of this website and o
 
 As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently Chief of Staff for the Office of the CTO, [Dell EMC](http://www.vce.com) Converged Platforms and Solutions Division that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
 
-As of January 2015, VCE is an EMC Federation Company with investments from Cisco and VMware. 
-
-As of October 2015, [Dell and EMC signed a definitive agreement to combine](http://www.emc.com/futureready). (Please see the addendum at the bottom of this page.)
-
-As of December 2015, the “go shop” period has expired and ["EMC will continue to work with Michael Dell, MSD Partners and Silver Lake to pursue the combination of Dell and EMC"](http://www.emc.com/about/news/press/2015/20151212-01.htm) (Please see the addendum at the bottom of this page.)
-
-As of January 2016, VCE is now the Converged Platforms Division of [EMC](http://www.emc.com/futureready). (Please see the addendum at the bottom of this page.)
-
-As of August 2016, the Dell and EMC [transaction](http://www.emc.com/about/news/press/2016/20160830-01.htm) is set to close on September 7, 2016. (Please see the addendum at the bottom of this page.)
-
-As of September 7, 2016, I am a Director within the Global Office of the CTO for the Converged Platforms and Solutions Division of [Dell EMC](http://www.vce.com).
-
 I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](/resume/) is exclusively availabe on this website and other variations elsewhere on the Internet are considered deprecated.
 
 ### Startups
@@ -57,7 +45,7 @@ I have published [a blog post that outlines how I work with startups and my full
 
 ### Positions
 
-I do not actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
+Presently, I do not actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
 
 I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront. If you are interested in the latter, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print and [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
 
@@ -67,12 +55,11 @@ I’ll spare you the reporting on how my portfolio is doing. I’m not an invest
 
 I’ve been a sponsor in the past and continue to put my marketing dollars where I want to when I want to. In all cases, my marketing dollars have never gone beyond $5,000 for any specific event or group sponsorship within a calendar year.
 
-I’m often presented with various bags of random items and the occasional high dollar gadget or two when attending conferences and the link. If it is worth more than $5 or something I can’t take notes on like pens and paper… I donate it. I explain this in more detail on my free phones post.
+I’m often presented with various bags of random items and the occasional high dollar gadget or two when attending conferences and the link. If it is worth more than $5 or something I can’t take notes on (e.g. pens and paper) I donate it. I explained this in more detail on an old [free phones](http://jaycuthrell.com/free-phones/) post.
 
 I’m often doing the meals and entertainment thing with clients and customers. Sometimes I get invited to VIP events that are extremely valuable in terms of the ticket price. I make it widely known that someone paid my way. Typically, I’m back the next year on my own dime if it is a solid event. Also, if I am dining with industry contacts, it’s a good bet I’m the one footing the bill. Yes, that gets expensive sometimes.
 
 I’m always experimenting with ways to monetize web content. I’ve used Google Adsense, Text Link Ads, Adbrite, Amazon Affiliates, etc… but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there. Currently, I am testing Amazon Affiliates for use with 404 responses on this website and other deprecated web properties that I own.
 
 While I don’t maintain a detailed spreadsheet or general ledger as such, I’ve had plenty of drinks and dinners where the check may have been picked up by a third party or sponsor.  Conspicuous examples would include SxSW social events, pizza nights with local user groups, etc… but there’s also a solid possibility I’ve also been a sponsor and/or paid some form of fee or incurred expenses to be in attendance.
-
 
