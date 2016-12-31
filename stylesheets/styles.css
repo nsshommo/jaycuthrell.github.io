@@ -360,3 +360,11 @@ footer p + p {
   max-width:600px;
   margin:40px auto;
 }
+
+#revue-form-group {
+  padding: 40px;
+  max-width:600px;
+  margin:40px auto;
+  background: #ccc;
+  background: rgba(0, 0, 0, 0.06);
+}
