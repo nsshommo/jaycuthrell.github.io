@@ -354,3 +354,9 @@ footer p + p {
     content: 'at http://github.com/';
   }
 }
+
+.revue-form {
+  padding: 40px;
+  max-width:600px;
+  margin:40px auto;
+}
