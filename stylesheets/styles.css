@@ -355,7 +355,7 @@ footer p + p {
   }
 }
 
-.revue-form {
+#revue-form {
   padding: 40px;
   max-width:600px;
   margin:40px auto;
