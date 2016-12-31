@@ -355,17 +355,15 @@ footer p + p {
   }
 }
 
-revue-form {
+#form {
   padding: 40px;
   margin:40px auto;
-}
-
-revue-form-group {
   padding: 40px;
   margin:40px auto;
   background: #ccc;
   background: rgba(0, 0, 0, 0.06);
 }
-revue-form-field {
-  width: 10%;
+
+#input {
+  width: 50%
 }
