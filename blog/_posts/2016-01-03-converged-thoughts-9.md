@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Converged Thoughts: Issue 9"
+date: 2016-01-03 10:24
+redirect_from:
+  - /issues/virtual-reality-80s-and-90s-nostalgia-41351
+tags:
+  - digest
+---
+
 <!DOCTYPE html>
 <html>
 <head>

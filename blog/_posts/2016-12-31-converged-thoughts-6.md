@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Converged Thoughts: Issue 6"
+date: 2016-12-31 10:24
+redirect_from:
+  - /issues/six-41094
+tags:
+  - digest
+---
+
+
 <!DOCTYPE html>
 <html>
 <head>

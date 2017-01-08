@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Converged Thoughts: Issue 5"
+date: 2016-12-30 10:24
+redirect_from:
+  - /issues/converged-thoughts-5-oops-41066
+tags:
+ - digest
+---
+
 <!DOCTYPE html>
 <html>
 <head>

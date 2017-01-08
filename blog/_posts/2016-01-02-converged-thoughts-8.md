@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Converged Thoughts: Issue 8"
+date: 2016-01-02 10:24
+redirect_from:
+  - /issues/sxsw-2017-selections-sampler-41253
+tags:
+  - digest
+---
+
+
 <!DOCTYPE html>
 <html>
 <head>

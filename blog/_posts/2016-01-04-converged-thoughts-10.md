@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Converged Thoughts: Issue 10"
+date: 2016-01-04 10:24
+redirect_from:
+  - /issues/computation-and-kicks-41482
+tags:
+  - digest
+---
+
+
+
 <!DOCTYPE html>
 <html>
 <head>

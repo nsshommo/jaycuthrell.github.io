@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Converged Thoughts: Issue 3"
+date: 2016-12-28 10:24
+redirect_from:
+  - /issues/converged-thoughts-3-40955
+tags:   
+  - digest
+---
+
+
 <!DOCTYPE html>
 <html>
 <head>
