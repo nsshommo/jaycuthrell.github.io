@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Converged Thoughts: Issue 11"
-date: 2016-01-05 10:24
+date: 2017-01-05 10:24
 redirect_from:
   - /issues/terminal-multiplex-emoji-in-space-41581
 tags:

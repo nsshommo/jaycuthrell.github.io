@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Converged Thoughts: Issue 7"
-date: 2016-01-01 10:24
+date: 2017-01-01 10:24
 redirect_from:
   - /issues/seven-41163
 tags:
