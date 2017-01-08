@@ -9,7 +9,7 @@ image:
 search_omit: true
 ---
 
-Hang loose... it's all coming back soon. Keep in mind these have been through a WordPress, OctoPress, GitHub Pages, and themes blender at this point so forgive any formatting issues.
+Hang loose... it's all coming back soon. Keep in mind these have been through a WordPress, OctoPress, GitHub Pages, Revue (imported), and themes blender at this point so forgive any formatting issues.
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
