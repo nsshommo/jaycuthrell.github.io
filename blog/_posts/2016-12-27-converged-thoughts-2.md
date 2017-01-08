@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 2"
 date: 2016-12-27 10:24
 redirect_from:
   - /issues/converged-thoughts-2-40869
+  - /archive/40869
 tags:
   - digest
 ---
