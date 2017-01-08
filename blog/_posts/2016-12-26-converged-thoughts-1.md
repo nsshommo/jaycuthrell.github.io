@@ -33,7 +33,7 @@ The format for this issue and future issues will be as follows:
 
 Let’s begin…
 
-!(redpill.png)
+![Here's to taking the red pill in 2017...](/images/redpill.png)
 
 Here's to taking the red pill in 2017...
 
@@ -81,4 +81,4 @@ Ah, innovation…￼ meet the new inbox… same as the old inbox!
 BTW, you can find me here on Slack clearing my notifications: 
   
 [{code} Community](http://community.emccode.com) 
-[![{code} Community](redpill.jpg)](http://community.emccode.com)
+[![{code} Community](/images/binarycode.jpg)](http://community.emccode.com)
