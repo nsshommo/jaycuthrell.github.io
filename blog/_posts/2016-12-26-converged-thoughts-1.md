@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Converged Thoughts: Issue 1"
-image: 
-  feature: convergedthoughts.png
 date: 2016-12-26 10:24
 redirect_from:
  - /issues/converged-thoughts-1-40731
