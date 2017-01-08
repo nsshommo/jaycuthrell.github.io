@@ -3,8 +3,9 @@ layout: post
 title: "Converged Thoughts: Issue 1"
 date: 2016-12-26 10:24
 redirect_from:
- - /issues/converged-thoughts-1-40731
-categories: digest
+  - /issues/converged-thoughts-1-40731
+tags:
+  - digest
 ---
 
 Welcome to the first issue of my digest.
@@ -79,4 +80,5 @@ Ah, innovation…￼ meet the new inbox… same as the old inbox!
 BTW, you can find me here on Slack clearing my notifications: 
   
 [{code} Community](http://community.emccode.com) 
-[![{code} Community](/images/binarycode.jpg)](http://community.emccode.com)
+
+[![{code} Community](/images/binary_code.jpg)](http://community.emccode.com)
