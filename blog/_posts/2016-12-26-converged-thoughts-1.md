@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 1"
 date: 2016-12-26 10:24
 redirect_from:
   - /issues/converged-thoughts-1-40731
+  - /archive/40731
 tags:
   - digest
 ---

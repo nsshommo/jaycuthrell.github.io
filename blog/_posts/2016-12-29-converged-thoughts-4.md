@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 4"
 date: 2016-12-29 10:24
 redirect_from:
   - /issues/converged-thoughts-4-41025
+  - /archive/41025
 tags:
   - digest
 ---
