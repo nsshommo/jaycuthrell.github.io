@@ -81,3 +81,4 @@ Ah, innovation…￼ meet the new inbox… same as the old inbox!
 BTW, you can find me here on Slack clearing my notifications: 
   
 [{code} Community](http://community.emccode.com) 
+[![{code} Community](redpill.jpg)](http://community.emccode.com)
