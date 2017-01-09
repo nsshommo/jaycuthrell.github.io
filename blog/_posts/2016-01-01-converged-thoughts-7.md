@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 7"
 date: 2017-01-01 10:24
 redirect_from:
   - /issues/seven-41163
+  - /archive/41163
 tags:
   - digest
 ---

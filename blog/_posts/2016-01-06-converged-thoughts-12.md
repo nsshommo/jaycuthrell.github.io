@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 12"
 date: 2017-01-06 10:24
 redirect_from:
   - /issues/parking-decks-and-pricing-models-41689
+  - /archive/41689
 tags:
   - digest
 ---

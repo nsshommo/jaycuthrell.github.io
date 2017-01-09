@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 11"
 date: 2017-01-05 10:24
 redirect_from:
   - /issues/terminal-multiplex-emoji-in-space-41581
+  - /archive/41581
 tags:
   - digest
 ---

@@ -4,6 +4,7 @@ title: "Converged Thoughts: Issue 10"
 date: 2017-01-04 10:24
 redirect_from:
   - /issues/computation-and-kicks-41482
+  - /archive/41482
 tags:
   - digest
 ---
