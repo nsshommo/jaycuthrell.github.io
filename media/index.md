@@ -2,9 +2,7 @@
 layout: page
 title: "Viral Videos, Writing, Events, and Interviews"
 image:
-  feature: 600x200.png
-  credit: Josh Atwell
-  creditlink: https://twitter.com/josh_atwell/
+  feature: phonekeyboard.png
 
 ---
 
