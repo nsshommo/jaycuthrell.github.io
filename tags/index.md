@@ -2,6 +2,8 @@
 layout: page
 title: Tag Index
 excerpt: "An archive of posts sorted by tag."
+image:
+  feature: acadia_badge.jpg
 search_omit: true
 ---
 
