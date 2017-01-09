@@ -3,9 +3,7 @@ layout: page
 title: My blog posts over the years
 excerpt: "An archive of blog posts sorted by date."
 image:
-  feature: 600x200.png
-  credit: Josh Atwell
-  creditlink: https://twitter.com/josh_atwell
+  feature: convergedthoughts.png
 search_omit: true
 ---
 
