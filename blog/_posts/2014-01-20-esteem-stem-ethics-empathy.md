@@ -46,9 +46,12 @@ Second, I took a multi-disciplinary studies course called "Science, Technology, 
 
 In a nutshell, science is important and grasping technology is important and being grounded in engineering is important and none of it happens without mathematics _but_ all of it still requires that the student understand what has preceded them and the ethical quandaries leading to this point in time and the development of [empathy in the future](http://blog.ingineering.it/post/72964480807/empathy-the-essence-of-devops). 
 
-<iframe width="300" height="159" src="//www.youtube.com/embed/G9jC1ThqTNo" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/G9jC1ThqTNo?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="159" src="//www.youtube.com/embed/oS1msOavTR0" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="300" height="169" src="https://www.youtube.com/embed/oS1msOavTR0?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 Update for 2017
 ===============
