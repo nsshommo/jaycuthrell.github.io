@@ -65,6 +65,6 @@ questions. I see this as progress.
 IMHO, the sobering tone of the interview should not be confused with despair... but one of
 cautious hope... Enjoy.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302376062&amp;auto_play=true&amp;color=00acd6"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302376062&amp;auto_play=false&amp;color=00acd6"></iframe>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302375872&amp;auto_play=true&amp;color=00acd6"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302375872&amp;auto_play=false&amp;color=00acd6"></iframe>
