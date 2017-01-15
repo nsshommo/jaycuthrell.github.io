@@ -46,6 +46,25 @@ Second, I took a multi-disciplinary studies course called "Science, Technology, 
 
 In a nutshell, science is important and grasping technology is important and being grounded in engineering is important and none of it happens without mathematics _but_ all of it still requires that the student understand what has preceded them and the ethical quandaries leading to this point in time and the development of [empathy in the future](http://blog.ingineering.it/post/72964480807/empathy-the-essence-of-devops). 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/G9jC1ThqTNo" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="//www.youtube.com/embed/oS1msOavTR0" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="159" src="//www.youtube.com/embed/G9jC1ThqTNo" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="300" height="159" src="//www.youtube.com/embed/oS1msOavTR0" frameborder="0" allowfullscreen></iframe>
+
+Update for 2017
+===============
+
+I was listning to the local NPR station today and learned [Anil Dash was 
+interviewed by Krista Tippett of "On
+Being"](http://www.onbeing.org/program/anil-dash-tech-s-moral-reckoning/9132). As soon as I heard the first few
+minutes of the interview I knew I needed to revisit this post from 2014.
+
+Three years have gone by since I wrote this and it would appear that many of the
+most visible personalities in the tech world are beginning to get asked deeper
+questions. I see this as progress.
+
+IMHO, the sobering tone of the interview should not be confused with despair... but one of
+cautious hope... Enjoy.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302376062&amp;auto_play=true&amp;color=00acd6"></iframe>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302375872&amp;auto_play=true&amp;color=00acd6"></iframe>
