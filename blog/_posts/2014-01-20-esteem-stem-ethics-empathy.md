@@ -4,7 +4,7 @@ date: "2014-01-20"
 layout: post
 image:
   feature: esteem.jpg
-  credit: 
+  credit: Tech Museum of San Jose
 redirect_from:
  - /blog/esteem-stem-ethics-empathy/
 ---
