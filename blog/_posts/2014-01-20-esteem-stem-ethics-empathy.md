@@ -4,6 +4,7 @@ date: "2014-01-20"
 layout: post
 image:
   feature: esteem.jpg
+  credit: 
 redirect_from:
  - /blog/esteem-stem-ethics-empathy/
 ---
