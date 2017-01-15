@@ -2,6 +2,8 @@
 title: "ESTEEM = STEM + Ethics + Empathy"
 date: "2014-01-20"
 layout: post
+image:
+  feature: esteem.jpg
 redirect_from:
  - /blog/esteem-stem-ethics-empathy/
 ---
