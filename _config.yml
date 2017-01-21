@@ -53,6 +53,12 @@ defaults:
       path: ""
       type: "posts"
     values:
+      twitter: jaycuthrell
+        card: summary
+        site: http://jaycuthrell.com
+        title: Read more...
+        description: Words by Jay Cuthrell
+        image: 600x200.png
       image:
         feature: 600x200.png
         credit: Josh Atwell
