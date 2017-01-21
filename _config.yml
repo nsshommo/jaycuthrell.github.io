@@ -53,7 +53,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      twitter: jaycuthrell
+      twitter:
         card: summary
         site: http://jaycuthrell.com
         title: Read more...
@@ -68,7 +68,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      twitter: jaycuthrell
+      twitter:
         card: summary
         site: http://jaycuthrell.com
         title: Read more...
