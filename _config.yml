@@ -54,6 +54,7 @@ defaults:
       type: "posts"
     values:
       excerpt: Another post from Jay Cuthrell
+      keywords: Jay Cuthrell
       twitter:
         card: summary
         site: http://jaycuthrell.com
@@ -70,6 +71,7 @@ defaults:
       type: "pages"
     values:
       excerpt: Another page from Jay Cuthrell
+      keywords: Jay Cuthrell
       twitter:
         card: summary
         site: http://jaycuthrell.com
