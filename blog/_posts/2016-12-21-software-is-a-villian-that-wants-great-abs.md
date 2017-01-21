@@ -4,7 +4,7 @@ title: "Software is a villain... that wants great abs"
 date: 2016-12-21 10:24
 ---
 
-![](villain.png)
+![](images/villain.png)
 
 _Cardio and diet make for a washboard abs villain._
 
