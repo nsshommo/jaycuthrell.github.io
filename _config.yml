@@ -66,7 +66,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
       twitter: jaycuthrell
         card: summary
