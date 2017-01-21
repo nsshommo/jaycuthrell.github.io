@@ -3,7 +3,7 @@ layout: post
 title: "Software is a villain... that wants great abs"
 date: 2016-12-21 10:24
 image:
-  feature: villain.png
+  feature: convergedthoughts.png
   credit: Jay Cuthrell
   creditlink: http://jaycuthrell.com
 ---
