@@ -3,6 +3,8 @@ layout: page
 title: "Viral Videos, Writing, Events, and Interviews"
 image:
   feature: phonekeyboard.png
+  credit: Jay Cuthrell
+  creditlink: http://jaycuthrell.com
 
 ---
 
