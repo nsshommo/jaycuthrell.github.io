@@ -31,9 +31,9 @@ I’ve also been the managing principal of my own consulting practice and had in
 
 ### Startups
 
-I’m an advisor to amazing startups that are funded: [Racemi](http://racemi.com)
+I was an advisor to amazing startups that got funded: [Racemi](http://racemi.com)
 
-I was an advisor to Packet Island which was acquired by BroadSoft.
+I was an advisor to Packet Island which was acquired by [BroadSoft](https://www.broadsoft.com/news/broadsoft-completes-acquisition-of-packet-island/)
 
 I’m an advisor to amazing startups that are pre-funding. Feel free to ask me about them and I’d be happy to make introductions.
 
