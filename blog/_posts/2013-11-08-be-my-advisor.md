@@ -92,7 +92,7 @@ Often While clicking around in suggested reading channels on vibrant Slack teams
 Update for 2017
 ---------------
 
-Thanks again to the entire Racemi team for the past three years. It has been a pleasure! [Congrats]!(https://www.dxc.technology/newsroom/press_releases/137292-csc_and_racemi_form_strategic_collaboration_to_accelerate_enterprise_migration_to_the_cloud)
+Thanks again to the entire Racemi team for the past three years. It has been a pleasure! [Congrats](https://www.dxc.technology/newsroom/press_releases/137292-csc_and_racemi_form_strategic_collaboration_to_accelerate_enterprise_migration_to_the_cloud)!
 
 [The Open Guide to Equity Compensation]:https://github.com/jlevy/og-equity-compensation
 [as one does these days]:http://community.emccode.com/
