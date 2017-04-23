@@ -17,7 +17,7 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 
 ## Advisory Roles
 
-- Racemi May 2013 - Present
+- Racemi May 2013 - May 2016
 - AwayFind March 2010 - December 2015
 - TimeData Corporation December 2009 – October 2010
 - Packet Island Inc. (acquired by BroadSoft) October 2006 – October 2009
