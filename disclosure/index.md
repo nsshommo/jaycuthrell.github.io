@@ -45,7 +45,7 @@ I have published [a blog post that outlines how I work with startups and my full
 
 ### Positions
 
-Presently, I do not actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
+I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
 
 I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront. If you are interested in the latter, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print and [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
 
