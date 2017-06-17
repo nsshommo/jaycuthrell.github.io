@@ -5,9 +5,9 @@ image:
   feature: 600x200.png
 ---
 
-{% include newsletter.html %}
-
 ## Summary
+
+{% include newsletter.html %}
 
 As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with senior roles at companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed rockstar teams of software, systems, and sales engineers along the way.
 
