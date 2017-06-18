@@ -2,7 +2,7 @@
 layout: page
 title: Disclosure
 image:
-  feature: 600x200.png
+  feature: 400x200.png
   credit: Josh Atwell
   creditlink: https://twitter.com/josh_atwell/
 ---
