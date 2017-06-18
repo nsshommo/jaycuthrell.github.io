@@ -2,7 +2,7 @@
 layout: page
 title: "My Resum&eacute;"
 image:
-  feature: 400x200.png
+  feature: 400x150.png
 ---
 
 ## Summary

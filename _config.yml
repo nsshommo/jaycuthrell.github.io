@@ -60,9 +60,9 @@ defaults:
         site: http://jaycuthrell.com
         title: Read more...
         description: Words by Jay Cuthrell
-        image: 400x200.png
+        image: 400x150.png
       image:
-        feature: 400x200.png
+        feature: 400x150.png
         credit: Josh Atwell
         creditlink: https://twitter.com/josh_atwell/
   -
@@ -77,8 +77,8 @@ defaults:
         site: http://jaycuthrell.com
         title: Read more...
         description: Words by Jay Cuthrell
-        image: 400x200.png
+        image: 400x150.png
       image:
-        feature: 400x200.png
+        feature: 400x150.png
         credit: Josh Atwell
         creditlink: https://twitter.com/josh_atwell/

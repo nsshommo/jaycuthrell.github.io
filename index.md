@@ -2,7 +2,7 @@
 layout: page
 title: "Jay Cuthrell"
 image:
-  feature: 400x200.png
+  feature: 400x150.png
   credit: Josh Atwell
   creditlink: https://twitter.com/josh_atwell
 ---
