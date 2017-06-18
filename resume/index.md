@@ -96,6 +96,7 @@ Previously, I held CTO, VP, and GM roles at Hosted Network, Digitel and NeoNova 
 
 VCE
 
+- Excellence@Dell Gold Award, Dell EMC, 2017
 - VMworld Panelist, Intel Builders, 2016
 - Cisco Live Speaker, VCE User Group Speaker, 2016
 - VMworld Speaker, VMware, 2015
