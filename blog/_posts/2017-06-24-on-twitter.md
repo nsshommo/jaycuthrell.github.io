@@ -24,7 +24,7 @@ I included some of these references in the presentation.
 
 This time around I found another example using Python:
 
-[https://github.com/dangoldin/twitter-archive-analysis]
+https://github.com/dangoldin/twitter-archive-analysis
 
 A few seconds later... this caught my eye:
 
