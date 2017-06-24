@@ -10,17 +10,23 @@ image:
 
 ---
 
-A few days ago I took almost all of my primary Twitter output since 2007.
+A few days ago I removed almost all of my primary Twitter output since 2007.
 
-I made archives well in advance and wanted to revisit some prior analysis.
+First, I made archives well in advance in order to revisit some prior analysis.
 
-I started looking around on GitHub for inspiration. 
+Next, I started looking around on GitHub for inspiration. 
+
+Little Big Data
+===============
 
 A few years ago I did a big data presentation. There is even a video of it.
 
 At the time, I had downloaded some R examples to run against my Twitter arcives.
 
 I included some of these references in the presentation.
+
+Trends: @Qthrul
+===============
 
 This time around I found another example using Python:
 
@@ -32,6 +38,9 @@ A few seconds later... this caught my eye:
 
 It is clear that functionality arrived (retweet) and that I was interactive
 (replies).
+
+Trends: @JayCuthrell and @JayAtDellEMC
+======================================
 
 But I had also created other Twitter accounts. 
 
