@@ -4,7 +4,7 @@ title: "On Twitter"
 date: 2017-06-24 12:42
 excerpt: "An examination of my Twitter archives"
 image:
-  feature: qthrul-by-month-type.png 
+  feature: qthrul-by-month-type.png
   credit: Jay Cuthrell
   creditlink: http://jaycuthrell.com
 
@@ -28,4 +28,4 @@ https://github.com/dangoldin/twitter-archive-analysis
 
 A few seconds later... this caught my eye:
 
-!(https://jaycuthrell.com/images/qthrul-by-month-type.png)
+[![Qthrul](/images/qthrul-by-month-type.png "Qthrul")](http://twitter.com/qthrul)
