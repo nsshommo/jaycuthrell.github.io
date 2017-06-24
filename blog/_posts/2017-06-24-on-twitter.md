@@ -2,6 +2,12 @@
 layout: post
 title: "On Twitter"
 date: 2017-06-24 12:42
+excerpt: "An examination of my Twitter archives"
+image:
+  feature: qthrul-by-month-type.png 
+  credit: Jay Cuthrell
+  creditlink: http://jaycuthrell.com
+
 ---
 
 A few days ago I took almost all of my primary Twitter output since 2007.
