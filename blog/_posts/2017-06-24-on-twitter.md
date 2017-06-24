@@ -32,7 +32,7 @@ This time around I found another example using Python:
 
 https://github.com/dangoldin/twitter-archive-analysis
 
-A few seconds later... this caught my eye:
+A few seconds later... this caught my eye for @Qthrul:
 
 [![Qthrul](/images/qthrul-by-month-type.png "Qthrul")](http://twitter.com/qthrul)
 
@@ -44,6 +44,10 @@ Trends: @JayCuthrell and @JayAtDellEMC
 
 But I had also created other Twitter accounts. 
 
-Let's take a look...
+Let's take a look at @JayCuthrell:
 
+[![JayCuthrell](/images/jaycuthrell-by-month-type.png "JayCuthrell")](http://twitter.com/jaycuthrell)
 
+Let's take a look at @JayAtDellEMC:
+
+[![JayAtDellEMC](/images/jayatdellemc-by-month-type.png "JayAtDellEMC")](http://twitter.com/jayatdellemc)
