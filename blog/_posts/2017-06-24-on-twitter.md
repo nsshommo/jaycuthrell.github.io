@@ -22,4 +22,4 @@ https://github.com/dangoldin/twitter-archive-analysis
 
 A few seconds later... this caught my eye:
 
-!(/images/qthrul-by-month-type.png)
+!(https://jaycuthrell.com/images/qthrul-by-month-type.png)
