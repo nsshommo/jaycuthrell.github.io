@@ -24,8 +24,17 @@ I included some of these references in the presentation.
 
 This time around I found another example using Python:
 
-https://github.com/dangoldin/twitter-archive-analysis
+(https://github.com/dangoldin/twitter-archive-analysis)
 
 A few seconds later... this caught my eye:
 
 [![Qthrul](/images/qthrul-by-month-type.png "Qthrul")](http://twitter.com/qthrul)
+
+It is clear that functionality arrived (retweet) and that I was interactive
+(replies).
+
+But I had also created other Twitter accounts. 
+
+Let's take a look...
+
+
