@@ -10,9 +10,9 @@ image:
 
 ---
 
-A few days ago I removed almost all of my primary Twitter output since 2007.
+A few days ago I reset almost all of my primary Twitter output since 2007.
 
-First, I made archives well in advance in order to revisit some prior analysis.
+First, I made archives to revisit some prior analysis.
 
 Next, I started looking around on GitHub for inspiration. 
 
@@ -32,7 +32,7 @@ Trends: @Qthrul
 
 This time around I found another example using Python:
 
-https://github.com/dangoldin/twitter-archive-analysis
+[https://github.com/dangoldin/twitter-archive-analysis](https://github.com/dangoldin/twitter-archive-analysis)
 
 A few seconds later... this caught my eye for @Qthrul:
 
@@ -53,3 +53,7 @@ Let's take a look at @JayCuthrell:
 Let's take a look at @JayAtDellEMC:
 
 [![JayAtDellEMC](/images/jayatdellemc-by-month-type.png "JayAtDellEMC")](http://twitter.com/jayatdellemc)
+
+I'll revisit this post as I come across more tools with good results.
+
+
