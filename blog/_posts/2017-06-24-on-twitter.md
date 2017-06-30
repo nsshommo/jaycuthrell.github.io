@@ -21,11 +21,17 @@ Little Big Data
 
 A few years ago I did a big data presentation. There is even a video of it.
 
+<iframe width="320" height="180" src="https://www.youtube.com/embed/lkREZ0mhHcA"
+frameborder="0" allowfullscreen></iframe>
+
 At the time, I had downloaded some R examples to run against my Twitter archives.
 
 Why archives? I tweet(ed) a lot. So, the limitations on web access applied.
 
 I included some of these references in the presentation.
+
+<script
+src="https://gist.github.com/JayCuthrell/8bcd9597d37a8602c639.js"></script>
 
 Trends: @Qthrul
 ===============
