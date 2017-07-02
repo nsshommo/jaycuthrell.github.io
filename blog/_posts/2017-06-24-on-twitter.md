@@ -26,7 +26,8 @@ frameborder="0" allowfullscreen></iframe>
 
 At the time, I had downloaded some R examples to run against my Twitter archives.
 
-Why archives? I tweet(ed) a lot. So, the limitations on web access applied.
+Why archives? I tweet(ed) a lot. So, [the limitations on web
+access](https://dev.twitter.com/rest/public/rate-limits) applied.
 
 I included some of these references in the presentation.
 
