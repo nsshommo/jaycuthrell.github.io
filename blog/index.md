@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My blog posts over the years
+title: Select blog posts
 excerpt: "An archive of blog posts sorted by date."
 image:
   feature: convergedthoughts.png

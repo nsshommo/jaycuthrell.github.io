@@ -127,7 +127,7 @@ image:
 
 #### VMworld 2011
 
-<iframe width="300" height="168" src="http://www.youtube.com/embed/Jpjn6mJNBqA" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/watch?v=Nl8HDskSyus" frameborder="0" allowfullscreen></iframe>
 
 #### SXSW 2010
 

@@ -27,7 +27,7 @@ My updated bio is kept relatively current on the home page of this website and o
 
 As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently Chief of Staff for the Office of the CTO, [Dell EMC](http://www.vce.com) Converged Platforms and Solutions Division that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
 
-I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](/resume/) is exclusively availabe on this website and other variations elsewhere on the Internet are considered deprecated.
+I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](http://www.linkedin.com/in/jaycuthrell) is exclusively availabe on LinkedIn and other variations elsewhere on the Internet are considered deprecated.
 
 ### Startups
 
