@@ -27,9 +27,11 @@ convenience.
 
 Don't worry. There are no ponytails, no neck beards, no flip flops... Just a
 solid introduction to mapping with a healthy dose of style and humor. The
-speaker, Simon Wardley, is worth following over at his blog Bits or pieces?
+speaker, [Simon Wardley](https://www.linkedin.com/in/simonwardley), is worth following over at his blog [Bits or
+pieces?](http://blog.gardeviance.org/2017/06/to-infinity-and-beyond.html)
 
-source: http://youtube.com/watch?v=Ty6pOVEc3bA
+<iframe width="360" height="203" src="https://www.youtube.com/embed/Ty6pOVEc3bA"
+frameborder="0" allowfullscreen></iframe>
 
 Granted, there are a few dated references but the video holds up quite well even
 now in 2017. Bookmark it. Share it with others. 
@@ -49,7 +51,8 @@ treatment of that concept.
 But don't take my word for it. Instead, consider the lessons of the beloved 1995
 movie "Tommy Boy".
 
-source: https://www.youtube.com/watch?v=TgvyparsP0c
+<iframe width="360" height="203" src="https://www.youtube.com/embed/TgvyparsP0c"
+frameborder="0" allowfullscreen></iframe>
 
 Indeed, sometimes even if you have a map... you need to get yourself a new map.
 
