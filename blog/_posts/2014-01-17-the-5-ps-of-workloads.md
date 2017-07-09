@@ -4,7 +4,7 @@ title: "The 5 P's of Workloads"
 date: 2014-01-17
 excerpt: "Parrots, Parkeets, Poultry, Popeyes, and Pigeons"
 image:
-   feature: chiken.jpg
+   feature: chicken.jpg
    credit: Jay Cuthrell
    creditlink: https://jaycuthrell.com
 redirect_from:
