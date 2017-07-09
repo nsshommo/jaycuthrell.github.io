@@ -5,7 +5,7 @@ excerpt: "An archive of blog posts sorted by date."
 image:
   feature: convergedthoughts.png
   credit: Jay Cuthrell
-  creditlink: http://jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 search_omit: true
 ---
 

@@ -4,7 +4,7 @@ title: "Viral Videos, Writing, Events, and Interviews"
 image:
   feature: phonekeyboard.png
   credit: Jay Cuthrell
-  creditlink: http://jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 
 ---
 
@@ -38,7 +38,7 @@ image:
 - <a href="http://blog.vce.com/author/jay.cuthrell/">VCE Blog</a>
 - <a href="http://thebackupwindow.emc.com/author/jay_cuthrell/">EMC The Backup Window</a>
 - <a href="https://community.emc.com/blogs/jay.cuthrell/">EMC Community Network Blog</a>
-- <a href="http://jaycuthrell.com/blog">JayCuthrell.com</a>
+- <a href="https://jaycuthrell.com/blog">JayCuthrell.com</a>
 
 ### Speaking and Industry Event Experience
 

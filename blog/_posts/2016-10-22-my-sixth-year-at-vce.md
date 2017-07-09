@@ -52,7 +52,7 @@ beginning in so many ways.
 Where Do We Go Now
 ==================
 
-Today, it is pretty [hard to find a VCE logo](http://jaycuthrell.com/dell-emc-converged-platforms-and-solutions/). Sure, it is still referenced in a
+Today, it is pretty [hard to find a VCE logo](https://jaycuthrell.com/dell-emc-converged-platforms-and-solutions/). Sure, it is still referenced in a
 lot of places on the Internet but the current brand is Dell EMC. Then again, if
 you try to find the original Acadia logo that can be even harder to find.
 

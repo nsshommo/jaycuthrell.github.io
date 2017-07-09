@@ -4,7 +4,7 @@ title: My Music
 image:
   feature: dipswitches.jpg
   credit: Jay Cuthrell
-  creditlink: http://jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 ---
 
 I have been noodling around with music since I was in high school. It all started with an air powered organ and having a piano around as a small child. I never had lessons other than to learn trombone. Now that I have a Mac and access to GB there is a much shorter path to me cranking out music. I like that. My 4 track days were such a pain! :) 

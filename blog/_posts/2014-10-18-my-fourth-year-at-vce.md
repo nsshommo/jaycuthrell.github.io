@@ -89,7 +89,7 @@ The big trade shows for me have been EMC World, Cisco Live, and VMworld. In the 
 
 When I am asked what kind of exposure I've had since 2010 to customers, it is easy to say that I've had, literally, hundreds of conversations. Just do the math. It's just impressive to reflect on that.
 
-Looking back at [my posts about VCE since 2010](http://jaycuthrell.com/blog/) are telling. Even then I knew that every 6 months there would be something amazing happening. The challenge was of course to keep it on the down low and stay under the radar for as long as possible. 
+Looking back at [my posts about VCE since 2010](https://jaycuthrell.com/blog/) are telling. Even then I knew that every 6 months there would be something amazing happening. The challenge was of course to keep it on the down low and stay under the radar for as long as possible. 
 
 ##Tick. Tock.
 

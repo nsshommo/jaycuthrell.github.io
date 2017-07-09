@@ -5,7 +5,7 @@ layout: post
 image:
   feature: esteem.jpg
   credit: Tech Museum of San Jose
-  creditlink: http://jaycuthrell.com 
+  creditlink: https://jaycuthrell.com 
 redirect_from:
  - /blog/esteem-stem-ethics-empathy/
 ---

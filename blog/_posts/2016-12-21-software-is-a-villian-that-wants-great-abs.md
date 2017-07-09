@@ -5,7 +5,7 @@ date: 2016-12-21 10:24
 image:
   feature: convergedthoughts.png
   credit: Jay Cuthrell
-  creditlink: http://jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 ---
 
 ![](/images/villain.png)

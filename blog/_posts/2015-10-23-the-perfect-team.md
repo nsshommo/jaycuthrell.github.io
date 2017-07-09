@@ -8,7 +8,7 @@ redirect_from:
 
 I'd like to expend a few words about The Perfect Team.
 
-My career in technology has taught me many things. Even now in [my 5th year at VCE](http://jaycuthrell.com/my-fifth-year-at-vce/) the lessons continue. Truly, refinement is achieved through continuous iterations to unlock innovations. So, perhaps the most important thing I've learned over the years is the concept of The Perfect Team.
+My career in technology has taught me many things. Even now in [my 5th year at VCE](https://jaycuthrell.com/my-fifth-year-at-vce/) the lessons continue. Truly, refinement is achieved through continuous iterations to unlock innovations. So, perhaps the most important thing I've learned over the years is the concept of The Perfect Team.
 
 The Perfect Team is disarmingly simple to define. The Perfect Team is one person to do it, one person to write it down, and one person to think ahead. So, if the definition of The Perfect Team sounds a bit like a minimum viable concept applied to innovation centers or ad hoc teaming -- it is, in fact, just that by design.
 

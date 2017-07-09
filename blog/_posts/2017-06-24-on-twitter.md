@@ -6,7 +6,7 @@ excerpt: "An examination of my Twitter archives"
 image:
   feature: qthrul-by-month-type.png
   credit: Jay Cuthrell
-  creditlink: http://jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 
 ---
 

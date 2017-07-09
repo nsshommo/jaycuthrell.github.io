@@ -41,7 +41,7 @@ I’ve been an advisor to amazing startups that did not survive and experienced 
 
 With all startups I advise, the equity I have is commensurate with my involvement level.
 
-I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](http://jaycuthrell.com/blog/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
+I have published [a blog post that outlines how I work with startups and my fuller thoughts on taking an advisory role](https://jaycuthrell.com/blog/be-my-advisor/) which I also link back to on [my AngelList profile](https://angel.co/jaycuthrell).
 
 ### Positions
 
@@ -55,7 +55,7 @@ I’ll spare you the reporting on how my portfolio is doing. I’m not an invest
 
 I’ve been a sponsor in the past and continue to put my marketing dollars where I want to when I want to. In all cases, my marketing dollars have never gone beyond $5,000 for any specific event or group sponsorship within a calendar year.
 
-I’m often presented with various bags of random items and the occasional high dollar gadget or two when attending conferences and the link. If it is worth more than $5 or something I can’t take notes on (e.g. pens and paper) I donate it. I explained this in more detail on an old [free phones](http://jaycuthrell.com/free-phones/) post.
+I’m often presented with various bags of random items and the occasional high dollar gadget or two when attending conferences and the link. If it is worth more than $5 or something I can’t take notes on (e.g. pens and paper) I donate it. I explained this in more detail on an old [free phones](https://jaycuthrell.com/free-phones/) post.
 
 I’m often doing the meals and entertainment thing with clients and customers. Sometimes I get invited to VIP events that are extremely valuable in terms of the ticket price. I make it widely known that someone paid my way. Typically, I’m back the next year on my own dime if it is a solid event. Also, if I am dining with industry contacts, it’s a good bet I’m the one footing the bill. Yes, that gets expensive sometimes.
 

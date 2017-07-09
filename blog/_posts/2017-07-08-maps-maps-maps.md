@@ -6,7 +6,7 @@ excerpt: "The lessons of 'Tommy Boy' ring true"
 image:
   feature: map.png
   credit: Jay Cuthrell
-  creditlink: http://jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 
 ---
 
