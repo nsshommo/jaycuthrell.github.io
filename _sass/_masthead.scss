@@ -12,18 +12,18 @@
 
   .wrap {
     text-align: center;
-    max-width: em(440);
+    max-width: em(220);
     padding-right: 20px;
     padding-left: 20px;
 
     @include media($medium) {
-      max-width: em(728);
+      max-width: em(364);
       padding-right: 60px;
       padding-left: 60px;
     }
 
     @include media($large) {
-      max-width: em(960);
+      max-width: em(480);
     }
   }
 }
