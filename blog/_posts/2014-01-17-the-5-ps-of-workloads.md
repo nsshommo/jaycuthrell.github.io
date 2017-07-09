@@ -2,8 +2,14 @@
 layout: post
 title: "The 5 P's of Workloads"
 date: 2014-01-17
+excerpt: "The lessons of 'Tommy Boy' ring true"
+image:
+   feature: https://pbs.twimg.com/media/Bd4K0PYIcAAJR3o.jpg
+   credit: Jay Cuthrell
+   creditlink: https://jaycuthrell.com
 redirect_from:
  - /blog/the-5-ps-of-workloads/
+
 ---
 
 Wordplay comes out in the oddest places.
