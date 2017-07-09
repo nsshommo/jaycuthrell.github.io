@@ -36,9 +36,11 @@ Parrots
 
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/osseous/972258414/" title="100_1373"><img src="https://farm2.staticflickr.com/1332/972258414_dd9cfb8375_n.jpg" width="320" height="240" alt="100_1373"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Parrots are the legacy IT workloads that a C-level IT person would likely find on their first day at the office... and it would likely still be there on their last day in the office with an amazing amount of investment in capital and time to make that workload, forgive the pun, talk nicely. So, like actual parrots that very often outlive their owners in the real world, a parrot can live far longer than your career lifetime. Examples could include legacy business logic systems written or packaged to run on a specific dependency riddled OS and library collection that mandates a maniacal dedicated legacy silo of something akin to the bare metal only requirements seen in certain vertical industry specific ISV landscapes.
+Parrots are the legacy IT workloads that a C-level IT person would likely find on their first day at the office... and it would likely still be there on their last day in the office with an amazing amount of investment in capital and time to make that workload, forgive the pun, talk nicely. So, like actual parrots that very often outlive their owners in the real world, a parrot can live far longer than your career lifetime. Examples could include legacy business logic systems written or packaged to run on a specific dependency riddled OS and library collection that mandates a maniacal dedicated legacy silo of something akin to the bare metal only requirements seen in certain vertical industry specific ISV landscapes. Some would even say that a mainframe application is the canonical example of a parrot style workload.
 
 <iframe width="300" height="168" src="https://www.youtube.com/embed/4vuW6tQ0218" frameborder="0" allowfullscreen></iframe>
+
+Because, as we will all agree... a legacy mainframe application is sometimes quite far from being a post parrot.
 
 Parakeets
 =========
