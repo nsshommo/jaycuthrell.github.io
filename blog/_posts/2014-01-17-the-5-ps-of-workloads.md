@@ -4,7 +4,7 @@ title: "The 5 P's of Workloads"
 date: 2014-01-17
 excerpt: "The lessons of 'Tommy Boy' ring true"
 image:
-   feature: https://pbs.twimg.com/media/Bd4K0PYIcAAJR3o.jpg
+   feature: convergedthoughts.png
    credit: Jay Cuthrell
    creditlink: https://jaycuthrell.com
 redirect_from:
