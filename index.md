@@ -16,11 +16,11 @@ An honorarium in the form of an anonymous charitable donation to a bona fide cha
 
 ### Resum&eacute;
 
-Please read my [professional summary](http://jaycuthrell.com/resume/).
+Please read my [professional summary](https://jaycuthrell.com/resume/).
 
 ### Disclosure
 
-Please read my [disclosure](http://jaycuthrell.com/disclosure/).
+Please read my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ### Recent Blog Posts
 
