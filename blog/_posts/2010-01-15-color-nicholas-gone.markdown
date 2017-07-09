@@ -20,9 +20,7 @@ tags:
 
 Note: Welcome to [Friday Fudge](http://fudge.org/tag/friday-fudge/) #2 of hopefully many to come.
 
-<div>
-{{'B00D3LA6RK'|amazon_large_image}}
-</div>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00D3LA6RK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D3LA6RK&linkCode=as2&tag=fudgeorg0c-20&linkId=dc16e85a60957657fd5e6765aa2a9337"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00D3LA6RK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=fudgeorg0c-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fudgeorg0c-20&l=am2&o=1&a=B00D3LA6RK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 You've heard of [going Google](http://googleblog.blogspot.com/2009/08/going-google-with-google-apps.html).
 
