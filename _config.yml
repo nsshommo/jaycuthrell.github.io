@@ -1,13 +1,13 @@
-url: http://jaycuthrell.com
+url: https://jaycuthrell.com
 title: Jay Cuthrell's Home Page
 description: Perpetually Under Construction
-logo: 
-search: false 
+logo:
+search: false
 locale: en_US
 
 google_analytics_id: UA-305670-10
 
-source: 
+source:
 root: /
 permalink: /:title/
 markdown: kramdown
@@ -57,7 +57,7 @@ defaults:
       keywords: Jay Cuthrell
       twitter:
         card: summary
-        site: http://jaycuthrell.com
+        site: https://jaycuthrell.com
         title: Read more...
         description: Words by Jay Cuthrell
         image: 400x150.png
@@ -74,7 +74,7 @@ defaults:
       keywords: Jay Cuthrell
       twitter:
         card: summary
-        site: http://jaycuthrell.com
+        site: https://jaycuthrell.com
         title: Read more...
         description: Words by Jay Cuthrell
         image: 400x150.png
