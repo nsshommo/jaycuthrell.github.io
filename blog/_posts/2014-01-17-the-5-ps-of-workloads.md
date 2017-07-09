@@ -75,4 +75,4 @@ Plethoras of Peeping, Pecking, Poults
 
 Yeah, I said 5 P's and this is clearly number 6 to any possible number if you continue to fuse a letter _p_ approach to this poetic exercise. The point (sorry) being is that there is wondrous variation to take into account. For example, a marketing or vocal line of business led infrastructure selection could be a peacock. So, sometimes saying that it is pets vs. cattle isn't enough.
 
-The good news... all of these fowl that are not so foul have [a place to roost](http://www.vce.com/products/vblock/overview) and can be [loved equally](http://www.vce.com/solution).
+The good news... all of these fowl that are not so foul have [a place to roost](https://www.emc.com/en-us/converged-infrastructure/converged-infrastructure.htm) and can be [loved equally](https://www.emc.com/en-us/converged-infrastructure/converged-infrastructure.htm).
