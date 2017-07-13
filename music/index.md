@@ -19,9 +19,6 @@ I've placed all these tracks on Soundcloud as well but an [audiojs][42cf1189] ve
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1248798&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700"></iframe>
 
-Social Network
-<audio src="mp3/Social\ Network.mp3" preload="auto" />
-
 ## New School
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1104704&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700"></iframe>
@@ -53,3 +50,5 @@ Send me a note if you like my stuff! Also, anyone wanting to sample my stuff can
      var as = audiojs.createAll();
    });
  </script>
+ Social Network
+ <audio src="mp3/Social%20Network.mp3" preload="auto" />
