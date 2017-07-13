@@ -1,22 +1,26 @@
 ---
 layout: page
-title: My Music 
+title: My Music
 image:
   feature: dipswitches.jpg
   credit: Jay Cuthrell
   creditlink: https://jaycuthrell.com
 ---
 
-I have been noodling around with music since I was in high school. It all started with an air powered organ and having a piano around as a small child. I never had lessons other than to learn trombone. Now that I have a Mac and access to GB there is a much shorter path to me cranking out music. I like that. My 4 track days were such a pain! :) 
+I have been noodling around with music since I was in high school. It all started with an air powered organ and having a piano around as a small child. I never had lessons other than to learn trombone. Now that I have a Mac and access to GB there is a much shorter path to me cranking out music. I like that. My 4 track days were such a pain! :)
 
 Also, I don't have lyrics for anything I have up here and it's not often that the song lasts for more than 60 seconds... so maybe song isn't the right word... perhaps I would do better to call them jingles.
 
-I've placed all these tracks on Soundcloud as well. Enjoy!
+I've placed all these tracks on Soundcloud as well but an [audiojs][42cf1189] version is also available. Enjoy!
+
+  [42cf1189]: https://github.com/kolber/audiojs "audiojs"
 
 ## Old School
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1248798&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700"></iframe>
 
+Social Network
+<audio src="mp3/Social\ Network.mp3" preload="auto" />
 
 ## New School
 
@@ -42,3 +46,10 @@ Musical Ramblings Part 1, 2, and 3
 ## Additional Info
 
 Send me a note if you like my stuff! Also, anyone wanting to sample my stuff can do so under [Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](http://creativecommons.org/licenses/by-sa/2.0/).
+
+<script src="audio.js"></script>
+<script>
+   audiojs.events.ready(function() {
+     var as = audiojs.createAll();
+   });
+ </script>
