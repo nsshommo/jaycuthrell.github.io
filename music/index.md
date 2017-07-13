@@ -44,7 +44,7 @@ Musical Ramblings Part 1, 2, and 3
 
 Send me a note if you like my stuff! Also, anyone wanting to sample my stuff can do so under [Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](http://creativecommons.org/licenses/by-sa/2.0/).
 
-# AudioJS versions
+## AudioJS versions
 
 <script src="audio.min.js"></script>
 <script>
