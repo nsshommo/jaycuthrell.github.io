@@ -68,9 +68,6 @@ Send me a note if you like my stuff! Also, anyone wanting to sample my stuff can
  cuestick.mp3 <audio src="http://cuthrell.com/mp3/cuestick.mp3" preload="auto">
 
 
- cuthrell.mp3 <audio src="http://cuthrell.com/mp3/cuthrell.mp3" preload="auto">
-
-
  do_you_realize.mp3 <audio src="http://cuthrell.com/mp3/do_you_realize.mp3" preload="auto">
 
 
