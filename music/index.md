@@ -100,7 +100,7 @@ tangointhemud.mp3 <audio src="http://cuthrell.com/mp3/tangointhemud.mp3" preload
 
 ### From my 4-track days (1988-1994)
 
-![ye olde trusty Yamaha...](/images/2017/07/4track.jpg)
+![ye olde trusty Yamaha...](/images/4track.jpg)
 
  90210_puke.mp3 <audio src="http://cuthrell.com/mp3/90210_puke.mp3" preload="auto">
 
