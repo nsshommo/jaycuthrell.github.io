@@ -11,17 +11,9 @@ I have been noodling around with music since I was in high school. It all starte
 
 Also, I don't have lyrics for anything I have up here and it's not often that the song lasts for more than 60 seconds... so maybe song isn't the right word... perhaps I would do better to call them jingles.
 
-I've placed all these tracks on Soundcloud as well but an [audiojs][42cf1189] version is also available. Enjoy!
+I've placed all my tracks below using [audiojs][42cf1189]. Enjoy!
 
   [42cf1189]: https://github.com/kolber/audiojs "audiojs"
-
-## Old School
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1248798&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700"></iframe>
-
-## New School
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1104704&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700"></iframe>
 
 ## As seen on the ill fated MP3.Com
 
