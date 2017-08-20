@@ -6,6 +6,7 @@ image:
   credit: Josh Atwell
   creditlink: https://twitter.com/josh_atwell
 ---
+
 ### Speaker Bio
 
 ![My Gravatar](https://www.gravatar.com/avatar/377cdaacd95f70842298d3b0d0713c8c.jpg?s=200)
@@ -27,5 +28,4 @@ Please read my [professional summary](https://jaycuthrell.com/resume/).
 ### Disclosure
 
 Please read my [disclosure](https://jaycuthrell.com/disclosure/).
-
 
