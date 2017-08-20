@@ -6,7 +6,6 @@ excerpt: "Parrots, Parkeets, Poultry, Popeyes, and Pigeons"
 image:
    feature: chicken.jpg
    credit: Jay Cuthrell
-   creditlink: https://jaycuthrell.com
 redirect_from:
  - /blog/the-5-ps-of-workloads/
 

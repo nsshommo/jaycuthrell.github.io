@@ -5,7 +5,6 @@ layout: post
 image:
   feature: 600x200.png
   credit: Josh Atwell
-  creditlink: https://twitter.com/josh_atwell
 ---
 
 2016 has been interesting. Next month I will wrap up my sixth year at VCE.
