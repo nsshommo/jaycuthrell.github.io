@@ -6,7 +6,6 @@ excerpt: "The lessons of 'Tommy Boy' ring true"
 image:
   feature: map.png
   credit: Jay Cuthrell
-  creditlink: jaycuthrell.com
 ---
 
 Perhaps you've heard a phrase regarding conscious choice and decisive
