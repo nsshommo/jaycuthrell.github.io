@@ -7,7 +7,6 @@ image:
   feature: map.png
   credit: Jay Cuthrell
   creditlink: https://jaycuthrell.com
-
 ---
 
 Perhaps you've heard a phrase regarding conscious choice and decisive
