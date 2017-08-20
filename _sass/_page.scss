@@ -146,7 +146,7 @@ span + .entry-title {
 
 	@include media($large) {
 		display: block;
-		width: 150px;
+		width: 400px;
 		height: 150px;
 		margin-bottom: 10px;
 		@include rounded(150px);
