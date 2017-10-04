@@ -21,10 +21,6 @@ Jay Cuthrell is Chief of Staff to the SVP & Chief Technology Officer of [Dell EM
 
 An honorarium in the form of an anonymous charitable donation to a bona fide charitable group is encouraged but not required (quid pro quo).
 
-### Resum&eacute;
-
-Please read my [professional summary](https://jaycuthrell.com/resume/).
-
 ### Disclosure
 
 Please read my [disclosure](https://jaycuthrell.com/disclosure/).

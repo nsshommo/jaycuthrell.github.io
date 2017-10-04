@@ -5,11 +5,11 @@ image:
   feature: 400x150.png
 ---
 
-## Summary
+## Executive Summary
 
-I am a proud team member of a global IT products business grown from zero to multi-billion dollar annual run rates. Previously, I formed my own consulting practice to deliver trusted advisory support to service providers, investment groups, and startup companies. Additionally, I have held CTO, VP, and GM roles in rapid growth ICT companies in North America. My years in a global consulting practice gave me the chance to work both domestically and internationally with Fortune 500 and .com companies after working in large global ICT product companies.
+I am a proud team member of a global IT products business grown from zero to multi-billion dollar annual run rates. Additionally, I have held CTO, VP, and GM roles in rapid growth ICT companies in North America. My years in a global consulting practice and my own consulting practice gave me the chance to work both domestically and internationally with Fortune 500 and .com companies after working in large global ICT product company setting.
 
-As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with senior roles at companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed high potential teams of software, systems, product, services, and sales engineers along the way.
+As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with leadership roles within technology companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed high potential teams of software, systems, product, services, and sales engineers along the way.
 
 ## Career Path Timeline
 
@@ -20,6 +20,7 @@ As indicated in my [speaker bio](/), I am a technology strategist and business l
     - Primary duty serving as proxy for the SVP & CTO of Dell EMC Converged Platforms and Solutions.
     - Focus: Cultivating a diverse group of +40 convergence oriented technologists and strategists to pursue, validate, and promote executive leadership ideation and innovation.
     - Extensive public and group speaking responsibilities for global customer and industry analyst interaction at major industry events and Executive Briefing Programs in Hopkinton Massachusetts, Round Rock Texas, Santa Clara California, and Palo Alto California.
+
 
 - Director
   - Dell EMC
@@ -38,7 +39,134 @@ As indicated in my [speaker bio](/), I am a technology strategist and business l
     - Continued "road warrior" duties with emphasis shifted to United States and overall global support of outbound team.
     - Focus on advanced futures and technology strategy to support analyst relations (Gartner, IDC, others).
 
+
+- Office of the CTO
+  - VCE, an EMC Company
+  - May 2012 – June 2015
+  - Las Vegas, Nevada
+    - By 2015, VCE exceeded $3.0 Billion Annual Run Rate.
+    - VCE becomes an EMC Company (Federation) in January 2015 known as EMC Converged Platforms.
+    - Continued global "road warrior" duties with emphasis to supporting the growth of the global outbound team within the Office of the CTO. By October 2014, VCE is considered to be the most successful joint venture in IT history.
+    - By late 2013, VCE reached $1.8 Billion Annual Run Rate.
+  - May 2012 – May 2013
+  - San Francisco, California
+    - By 2013, VCE reached $1 Billion Annual Run Rate.
+    - Global "road warrior" role with an outbound focus on SP/SI/ISV and Global Alliances to represent the Office of the CTO at VCE.
+    - Capturing and refining road map of solutions based upon judicious amalgams of investor portfolio technologies, external customer driven features, internal portfolio initiatives, R&D guidance, M&A briefings, and overall corporate development.
+
+
+- Managing Pricipal Consultant
+  - VCE
+  - January 2011 – May 2012
+  - Raleigh-Durham, North Carolina
+    - By 2012, VCE approached $0.5 Billion Annual Run Rate.
+    - Extensive global speaking schedule during period of explosive sales growth to present in front of VCE Strategic Accounts, VCE Executive Briefing Center (EBC), Cisco EBC, EMC EBC, VMware EBC, and VCE Technology Alliance Partner EBC, VCE Customer Advisory Board, and various SP/SI/ISV events with VCE Marketing.
+  - Aug 2011 – Nov 2011
+    - Added duties to include leadership of the Service Provider (SP) sales engineering team within Global Partners and Alliances.
+    - Coordination with internal teams to deliver adjunct elements to solutions in SP and related markets.
+    - Support and leadership of the wider Systems Integrator (SI) and SP sales teams.
+    - Support and leadership of the wider SI and SP sales engineering community.
+  - Dec 2010 – Aug 2011
+    - Managing Principal Consultant role.
+    - Growing and developing the sales engineering team with an emphasis on helping service providers, media, and entertainment companies realize ubiquitous workload substrates in data centers.
+    - Global focus markets in primary support for Western Hemisphere and secondary support for Eastern Hemisphere.
+
+
+- Principal Technology Consultant
+  - Acadia (VCE)
+  - October 2010 – December 2010
+  - Raleigh-Durham, North Carolina
+    - Acadia and the Virtual Computing Environment coalition combine to form VCE.
+    - Principal Technology Consultant with Acadia providing advisory services to service providers around the world that enable next generation data center ubiquitous workload substrates.
+    - Global focus markets in primary support for Western Hemisphere and secondary support for Eastern Hemisphere.
+    - VCE was founded by Cisco and EMC with additional investments from VMware and Intel.
+
+
+- Managing Principal Consultant
+  - cuthrell.com
+  - 2005 – 2010
+    - Strategic technology consulting services for service providers, startups, and investment groups.
+    - Private consultation proving subject matter expertise and investment analyst support for +30 clients both domestic and international.
+      - Attained top 5% status in the Technology, Media, and Telecommunications Council member for GLG's "most prestigious council member program" was only available to those in the top 5% of GLG's global network.
+      - Previously attained GLG Scholar placement for attaining top 20% ranking in GLG's global network.
+    - Angel investment and technical advisory roles for emerging technology companies.
+    - Startup advisory activities (partial list):
+      - SFO based PacketIsland - acquired by Broadsoft October 26, 2009 - forensic VoIP analytics suite
+      - SFO based AwayFind - productivity message routing
+      - PDX based TimeData - SS7 service provider analytics
+      - ATL based i-Linc - green tech agriculture and SCADA remote sensing telemetry
+
+
+- Chief Technology Officer
+  - Digitel Corporation
+  - 2007 – 2009
+  - Atlanta, Georgia
+    - Provided sell-side support and consulting for the spinout of NeoNova Network Services from Digitel to Azure Capital Partners and Bridgescale Partners executed in early 2008.
+    - Satisfied and exceeded all earnout clauses.
+    - Technology leadership role.
+    - Catalyst for bridging business and technology concerns.
+    - Consulting role in matters relating to core business (Digitel on-premises and hosted IP-PBX solutions), network management considerations (Digitel Wireless), and emerging solutions (Digitel Hosted Network).
+    - Day to day management of hosted and managed services and data center initiatives.
+    - P&L responsibility for Hosted Network division of Digitel Corporation. Entrepreneurial role in FreedomPipe brand.
+    - Growth of IP Centrex via Genband M6 platform via net new sales and management of legacy IP keysystem and IP PBX via Cisco Linksys One platforms.
+
+
+- Chief Technology Officer
+  - NeoNova Network Services
+  - 2002 – 2007
+  - Raleigh-Durham, North Carolina
+    - Technology leadership role.
+    - Conducted sales engineering process and technical sales support.
+    - Represented NeoNova at trade events for rural ILEC, CLEC, and cable overbuilders.
+    - Managed professional services for NeoNova Affiliates.
+    - Responsible for operations elements of the business.
+    - Transitioned to CTO of Digitel (then parent company of NeoNova) to provide sell-side support and consulting for the spinout of NeoNova from Digitel to Azure Capital Partners and Bridgescale Partners executed in 2008.
+
+
+- IT Infrastructure Architect
+  - SapientRazorfish
+  - 1999 – 2002
+  - Raleigh-Durham, North Carolina
+    - Manager of Software and Systems Engineering at iXL.
+    - Raleigh office leadership role.
+
+
+- Internet Application Developer
+  - Nortel Networks
+  - 1996 – 1999
+  - Raleigh-Durham, North Carolina
+    - Web application based data center systems and network administration abstraction tooling
+    - Web development
+
+
+- System Administrator
+  - North Carolina State University
+  - 1996 – 1996
+  - Raleigh-Durham, North Carolina
+    - DEC Alpha and SGI support to the Materials Science and Engineering Post-Doc group
+    - Data collection (ETL) and visualization
+
+
+- TCP/IP Benchmark Tester
+  - IBM
+  - 1995 – 1995
+  - Raleigh-Durham, North Carolina
+    - Co-Op Program
+    - TCP/IP Benchmark Testing.
+
+
+- Laboratory Assistant
+  - North Carolina State University
+  - 1993 – 1995
+  - Raleigh-Durham, North Carolina
+    - Lab assistance to the Materials Science and Engineering Post-Doc group
+    - Data collection (ETL) and visualization
+
 ## Advisory Roles
+
+Provided strategic advice on technical, marketing and planning matters to the CEO, Sales, and Board.
+
+Identified and helped establish effective relationships with strategic and business partners as well as recruit management team members and other potential Board members.
 
   - Racemi May 2013 - May 2016
   - AwayFind March 2010 - December 2015
@@ -48,7 +176,6 @@ As indicated in my [speaker bio](/), I am a technology strategist and business l
 ## Public Speaking, Honors, and Awards
 
 Dell EMC, EMC, VCE
-
 - Gartner Symposium ITXPO Speaker, Dell EMC, 2017
 - Excellence@Dell Gold Award, Dell EMC, 2017
 - VMworld Panelist, Intel Builders, 2016
@@ -61,7 +188,6 @@ Dell EMC, EMC, VCE
 - Boldness Award, VCE, 2012
 
 Digitel, Hosted Network, NeoNova
-
 - Founders Club, Digitel Corporation, 2008
 - Founders Club, Digitel Corporation, 2007
 - Excellence Award, Hosted Network, 2007
@@ -69,20 +195,16 @@ Digitel, Hosted Network, NeoNova
 - Excellence Award, NeoNova, 2006
 
 Scient, iXL
-
 - Golden Boot Award, Scient , 2002
 - Passion Award, iXL, May 2000
 
-Nortel
-
+Nortel Networks
 - Session Administrator, Internet World, 1997
 
 IBM
-
 - IBM Co-op Y.E.A. (Your Effort is Appreciated) Award, IBM, 1995
 
 Scholastic
-
 - US Department of Energy - High School Internship Program, Argonne National Laboratory, 1990
 - NASA Challenger Commander Michael J. Smith Scholarship, 1990
 - Teaching Fellows Scholarship, 1990
