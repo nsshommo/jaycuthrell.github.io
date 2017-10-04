@@ -11,7 +11,7 @@ I am a proud team member of a global IT products business grown from zero to mul
 
 As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with senior roles at companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed high potential teams of software, systems, product, services, and sales engineers along the way.
 
-## Career Timeline
+## Career Path Timeline
 
 - Chief of Staff, Office of the CTO, Converged Platforms and Solutions
   - Dell EMC
