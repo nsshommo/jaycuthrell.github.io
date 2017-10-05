@@ -20,7 +20,9 @@ image:
 
 ### Presentation Sample from 2010
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2JEdgIOcwg4Fup" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JayCuthrell/2010-a-service-odyssey-76470133" title="2010: A Service Odyssey " target="_blank">2010: A Service Odyssey </a> </strong> from <strong><a href="//www.slideshare.net/JayCuthrell" target="_blank">Jay Cuthrell</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2JEdgIOcwg4Fup" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+source: [Slideshare](https://www.slideshare.net/JayCuthrell/2010-a-service-odyssey-76470133)
 
 ### Speaking and Industry Event Experience
 
