@@ -21,7 +21,7 @@ image:
 ### Presentation Samples
 
 - [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-odyssey-76470133)
-- [Mixed Media "2017: Twitter, Big Dat, Governance, and Innovation"](https://jaycuthrell.com/on-twitter/)
+- [Multi-format "2017: On Twitter, Big Data, Governance, and Innovation"](https://jaycuthrell.com/on-twitter/)
 
 ### Speaking and Industry Event Experience
 
