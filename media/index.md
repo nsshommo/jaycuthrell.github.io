@@ -22,7 +22,7 @@ image:
 
 (Partial List)
 
-- +100 Global Executive Briefings, 2017 
+- +100 Global Executive Briefings, 2017
 - Gartner Symposium ITXPO Speaker, Dell EMC, 2017
 - VMworld Panelist, Intel Builders, 2016
 - Cisco Live Speaker, VCE User Group Speaker, 2016
@@ -92,27 +92,6 @@ image:
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/FkoV41C4kzA" frameborder="0" allowfullscreen></iframe>
 
-#### Engineers Unplugged S4|Ep13: Data Center of the Future
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/aVNV0SMOMWA" frameborder="0" allowfullscreen></iframe>
-
-#### Engineers Unplugged S3|Ep11: A Look Behind the Scene of DevOps
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/YddLdU6q9io" frameborder="0" allowfullscreen></iframe>
-
-#### Engineers Unplugged S3|Ep8: Continuous Delivery and Software Defined Everything
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/uM6tftT1Ws4" frameborder="0" allowfullscreen></iframe>
-
-#### Engineers Unplugged S2|Ep5: Automation
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/1wodHvYjlBU" frameborder="0" allowfullscreen></iframe>
-
-#### Cisco EMC VCE at Cisco Live 2012: Converged infrastructure solutions
-
-<iframe width="300" height="168" src="http://www.youtube.com/embed/SibtV9pAxWM" frameborder="0" allowfullscreen></iframe>
-
-
 #### SXSW 2010
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
@@ -121,14 +100,14 @@ image:
 
 (Partial List)
 
-#### EMC Style 2013
-
-  <iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
-
-#### Cloud Shop 2014
-
-  <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
-
 #### \#HardwareForWhat 2015
 
   <iframe width="300" height="168" src="http://www.youtube.com/embed/n3OaS71dh1g" frameborder="0" allowfullscreen></iframe>
+
+#### Cloud Shop 2014
+
+    <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
+
+#### EMC Style 2013
+
+  <iframe width="300" height="168" src="http://www.youtube.com/embed/wWCA5Ttw3Bs" frameborder="0" allowfullscreen></iframe>
