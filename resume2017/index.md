@@ -5,6 +5,15 @@ image:
   feature: 400x150.png
 ---
 
+William Jason Cuthrell (Jay)
+1101 W 34th St
+Suite 419
+Austin, TX 78705
+Google Voice: +1-415-763-8343
+Email: [jay@cuthrell.com][ac5662d0]
+
+  [ac5662d0]: mailto:jay@cuthrell.com "jay@cuthrell.com"
+
 ## Executive Summary
 
 I am a proud team member of a global IT products business grown from zero to multi-billion dollar annual run rates in just a few years in an industry just beginning a digital transformation into the next industrial age. Ever growing scope and responsibility has been the mission statement of my roles year over year in support of executive leadership. Additionally, I have held CTO, VP, and GM roles in rapid growth ICT companies in North America. My years in a global consulting practice and my own consulting practice gave me the chance to work both domestically and internationally with Fortune 500 and .com companies after working in large global ICT product company setting.
