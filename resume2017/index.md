@@ -182,24 +182,64 @@ Dell EMC, EMC, VCE
 - Cisco Live Speaker, VCE User Group Speaker, 2016
 - VMworld Speaker, VMware, 2015
 - EMC World Speaker, EMC, 2015
+- InNEVation CommunityCation 2015
 - VMworld Speaker, VMware, 2014
 - Master Engineer, VCE, 2013
+- Montana Government IT Conference 2013
+- Montana Telecom Conference 2013
+- CG ITG Tech Expo 2013
+- Cloud Connect OpenStack 2013
+- Bay Area Large Installation System Administrators (BayLISA) 2013
 - vExpert, VMware, 2013
 - Boldness Award, VCE, 2012
+- Gartner Symposium / ITxpo EMEA 2012
+- IDC EMEA 2012
+- IDC Americas 2012
+- EMC Forum Saudi Arabia 2012
+- VMworld US Service Provider Cloud Panel 2012
+- NTCA 2012
+- Cloud Services Summit 2012
+- CIO Latin America Summit Brazil 2012
+- Cloud Services Summit 2011
+- SxSW Interactive 2011
 
-Digitel, Hosted Network, NeoNova
+Digitel, Hosted Network, NeoNova, Cuthrell.com
+- Ignite Raleigh 2010
+- OPASTCO 2010
+- IP Possibilities 2010
+- NCTIA and TCI 2009
+- SxSW Interactive 2010
+- NeoNova Summit 2009
+- TANE 2009
+- TelcoTV 2009
+- SxSW Interactive 2009
+- IP Possibilities 2009
+- Atlanta Telecom Professionals 2009
+- NTCA Wireless Symposium 2009
+- IP Possibilities 2008
+- Wireless Technology Forum (WTF SIGUC) 2008
 - Founders Club, Digitel Corporation, 2008
+- NeoNova Summit 2007
 - Founders Club, Digitel Corporation, 2007
 - Excellence Award, Hosted Network, 2007
+- IP Possibilities 2007
+- EC-EXPO 2006
 - Founders Club, Digitel Corporation, 2006
 - Excellence Award, NeoNova, 2006
+- NeoNova Summit 2005
+- Siemens/Myrio Conference 2005
+- NeoNova Summit 2004
+- NCTIA and TCI 2004
+- NeoNova Summit 2002
 
 Scient, iXL
 - Golden Boot Award, Scient , 2002
 - Passion Award, iXL, May 2000
 
 Nortel Networks
+- Nortel Affiliate User Group 1998
 - Session Administrator, Internet World, 1997
+- Nortel Affiliate User Group 1997
 
 IBM
 - IBM Co-op Y.E.A. (Your Effort is Appreciated) Award, IBM, 1995
