@@ -18,11 +18,10 @@ image:
 - <a href="https://community.emc.com/blogs/jay.cuthrell/">EMC Community Network Blog</a>
 - <a href="https://jaycuthrell.com/blog">JayCuthrell.com</a>
 
-### Presentation Sample from 2010
+### Presentation Samples
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2JEdgIOcwg4Fup" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-Source: [Slideshare](https://www.slideshare.net/JayCuthrell/2010-a-service-odyssey-76470133)
+- [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-odyssey-76470133)
+- [Mixed Media "2017: Twitter, Big Dat, Governance, and Innovation"](https://jaycuthrell.com/on-twitter/)
 
 ### Speaking and Industry Event Experience
 
