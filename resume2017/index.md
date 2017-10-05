@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My Resum&eacute;"
+title: "William J. Cuthrell (Jay)"
 image:
   feature: 400x150.png
 ---
@@ -9,6 +9,7 @@ William Jason Cuthrell (Jay)
 1101 W 34th St
 Suite 419
 Austin, TX 78705
+
 Google Voice: +1-415-763-8343
 Email: [jay@cuthrell.com][ac5662d0]
 
