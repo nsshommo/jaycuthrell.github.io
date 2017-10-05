@@ -7,7 +7,7 @@ image:
 
 ## Executive Summary
 
-I am a proud team member of a global IT products business grown from zero to multi-billion dollar annual run rates. Additionally, I have held CTO, VP, and GM roles in rapid growth ICT companies in North America. My years in a global consulting practice and my own consulting practice gave me the chance to work both domestically and internationally with Fortune 500 and .com companies after working in large global ICT product company setting.
+I am a proud team member of a global IT products business grown from zero to multi-billion dollar annual run rates in just a few years in an industry just beginning a digital transformation into the next industrial age. Ever growing scope and responsibility has been the mission statement of my roles year over year in support of executive leadership. Additionally, I have held CTO, VP, and GM roles in rapid growth ICT companies in North America. My years in a global consulting practice and my own consulting practice gave me the chance to work both domestically and internationally with Fortune 500 and .com companies after working in large global ICT product company setting.
 
 As indicated in my [speaker bio](/), I am a technology strategist and business leader possessing tactician chops to back it up... and the frequent flier miles to show for it. My professional life is marked with leadership roles within technology companies where I straddle the line of development, operations, and rewarding travel to both close business and revisit my customers as their trusted advisor. I have grown and developed high potential teams of software, systems, product, services, and sales engineers along the way.
 
@@ -19,6 +19,7 @@ As indicated in my [speaker bio](/), I am a technology strategist and business l
   - Austin, Texas
     - Primary duty serving as proxy for the SVP & CTO of Dell EMC Converged Platforms and Solutions.
     - Focus: Cultivating a diverse group of +40 convergence oriented technologists and strategists to pursue, validate, and promote executive leadership ideation and innovation.
+    - Scope: Cross discipline projects spanning product management, operations, sales, support, marketing, and financial partnership in a matrix global organizational structure
     - Extensive public and group speaking responsibilities for global customer and industry analyst interaction at major industry events and Executive Briefing Programs in Hopkinton Massachusetts, Round Rock Texas, Santa Clara California, and Palo Alto California.
 
 
@@ -42,7 +43,7 @@ As indicated in my [speaker bio](/), I am a technology strategist and business l
 
 - Office of the CTO
   - VCE, an EMC Company
-  - May 2012 – June 2015
+  - May 2013 – June 2015
   - Las Vegas, Nevada
     - By 2015, VCE exceeded $3.0 Billion Annual Run Rate.
     - VCE becomes an EMC Company (Federation) in January 2015 known as EMC Converged Platforms.
