@@ -16,6 +16,7 @@ image:
 - <a href="http://www.telecompetitor.com/author/jcuthrell/">Telecompetitor</a>
 - <a href="http://blog.vce.com/author/jay.cuthrell/">Dell EMC VBlog</a>
 - <a href="https://community.emc.com/blogs/jay.cuthrell/">EMC Community Network Blog</a>
+- <a href="https://www.linkedin.com/in/jaycuthrell/detail/recent-activity/posts/">LinkedIn</a>
 - <a href="https://jaycuthrell.com/blog">JayCuthrell.com</a>
 
 ### Presentation Samples
