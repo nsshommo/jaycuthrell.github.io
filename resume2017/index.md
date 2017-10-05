@@ -17,10 +17,11 @@ As indicated in my [speaker bio](/), I am a technology strategist and business l
   - Dell EMC
   - December 2016 – Present
   - Austin, Texas
-    - Primary duty serving as proxy for the SVP & CTO of Dell EMC Converged Platforms and Solutions.
+    - Primary duty serving as proxy for the SVP & CTO of Dell EMC Converged Platforms and Solutions to carry out the execution and detail oriented aspects of strategic initiatives in a timely manner within a sound fiscal policy and simultaneously increase Net Promoter Score and business margins.
     - Focus: Cultivating a diverse group of +40 convergence oriented technologists and strategists to pursue, validate, and promote executive leadership ideation and innovation.
-    - Scope: Cross discipline projects spanning product management, operations, sales, support, marketing, and financial partnership in a matrix global organizational structure
+    - Scope: Cross discipline projects spanning product management, engineering, operations, sales, support, marketing, GTM strategy, and financial partnership in a matrix global organizational structure with strong decision making frameworks.
     - Extensive public and group speaking responsibilities for global customer and industry analyst interaction at major industry events and Executive Briefing Programs in Hopkinton Massachusetts, Round Rock Texas, Santa Clara California, and Palo Alto California.
+    - Maintain and extend leading storyteller role on various internal and externally accessible collaboration tools and services (Slack, Jive, Confluence, Influitive, Skype for Business, WebEx, etc.)
 
 
 - Director
