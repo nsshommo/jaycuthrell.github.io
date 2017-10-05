@@ -5,13 +5,10 @@ image:
   feature: 400x150.png
 ---
 
-William Jason Cuthrell (Jay)
-
-1101 W 34th St
-
-Suite 419
-
-Austin, TX 78705
+Address:
+  1101 W 34th St
+  Suite 419
+  Austin, TX 78705
 
 
 Google Voice: +1-415-763-8343
