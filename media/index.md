@@ -112,7 +112,7 @@ image:
 
 #### Cloud Shop 2014
 
-    <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="168" src="http://www.youtube.com/embed/aFg7EQao79o" frameborder="0" allowfullscreen></iframe>
 
 #### EMC Style 2013
 
