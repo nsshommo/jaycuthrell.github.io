@@ -21,7 +21,7 @@ The Path from Portland to Austin
 
 Please set aside 20 minutes to watch this OSCON 2015 keynote talk entitled
 "Situation Normal, Everything Must Change". The video is embedded below for your
-convenience. 
+convenience.
 
 Don't worry. There are no ponytails, no neck beards, no flip flops... Just a
 solid introduction to mapping with a healthy dose of style and humor. The
@@ -32,7 +32,7 @@ pieces?](http://blog.gardeviance.org/2017/06/to-infinity-and-beyond.html)
 frameborder="0" allowfullscreen></iframe>
 
 Granted, there are a few dated references but the video holds up quite well even
-now in 2017. Bookmark it. Share it with others. 
+now in 2017. Bookmark it. Share it with others.
 
 Laying it on pretty thick
 =========================
@@ -53,4 +53,3 @@ movie "Tommy Boy".
 frameborder="0" allowfullscreen></iframe>
 
 Indeed, sometimes even if you have a map... you need to get yourself a new map.
-
