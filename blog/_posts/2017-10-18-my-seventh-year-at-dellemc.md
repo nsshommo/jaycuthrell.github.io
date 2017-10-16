@@ -27,7 +27,7 @@ Origin Stories
 As of this October update, I've been with Dell EMC (Converged) for seven years. [As I described last year](/my-sixth-year-at-vce/), the only reminders and references to VCE are few and far between. As an aside, I still wonder if my Acadia email address will stop working at some point.
 
 
-![7 years ago...](/images/2017/10/7years.jpg)
+![7 years ago...](/images/7years.jpg)
 
 
 The steady progression towards a Dell EMC experience has been a testament to the execution of the Dell EMC integration planning. Each week seems to bring a new update on the work that our CIO and IT group have completed and continue to complete. It's taken time, but the VCE references, and eventually EMC references, gave way to Dell EMC references.
