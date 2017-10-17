@@ -3,6 +3,8 @@ layout: page
 title: "William J. Cuthrell (Jay)"
 image:
   feature: fff.png
+  credit: jaycuthrell.com
+  creditlink: https://jaycuthrell.com
 ---
 
 Address:
