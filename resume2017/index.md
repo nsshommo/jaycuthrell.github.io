@@ -2,7 +2,7 @@
 layout: page
 title: "William J. Cuthrell (Jay)"
 image:
-  feature: 400x150.png
+  feature: fff.png
 ---
 
 Address:
