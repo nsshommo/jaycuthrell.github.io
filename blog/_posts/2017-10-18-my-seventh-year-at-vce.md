@@ -37,7 +37,7 @@ The Road
 
 While the past year has not been as travel intensive for me as in prior years (90% travel), there were some highlights and welcome changes. Of the 52 weeks since my last October update, I appear to have traveled ~30 of those weeks. So, 60-70% travel seems about right.
 
-Highlights from the past 12 months include industry events such as Splunk .conf, Garther Data Center Conference, HIMMS, VMworld, Gartner Symposium ITXPO, Dell Technologies [IQT Day](https://www.delltechnologies.com/en-us/iqt-day/index.htm), and 2017 Dell Analyst Day. Additionally, each month brought multiple Executive Briefings in Hopkinton, Santa Clara and in Round Rock. So, the best part is I was able to speak, conduct panels, and meet with lots of customers, partners, analysts, and global team members.
+Highlights from the past 12 months include industry events such as Splunk .conf, Garther Data Center Conference, HIMMS, VMworld, [Gartner Symposium ITXPO](https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d), Dell Technologies [IQT Day](https://www.delltechnologies.com/en-us/iqt-day/index.htm), and 2017 Dell Analyst Day. Additionally, each month brought multiple Executive Briefings in Hopkinton, Santa Clara and in Round Rock. So, the best part is I was able to speak, conduct panels, and meet with lots of customers, partners, analysts, and global team members.
 
 The Topics
 ==========
