@@ -23,6 +23,7 @@ image:
 
 - [Slideshare "2010: A Service Odyssey"](https://www.slideshare.net/JayCuthrell/2010-a-service-odyssey-76470133)
 - [Multi-format "2017: On Twitter, Big Data, Governance, and Innovation"](https://jaycuthrell.com/on-twitter/)
+- [Video "Figuring Out Your IT Transformation Path When Once Size Does Not Fit All"](https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d)
 
 ### Speaking and Industry Event Experience
 
@@ -90,9 +91,13 @@ image:
 
 
 
-### Video Interviews
+### Video Interviews and Presentations
 
 (Partial List)
+
+#### Gartner Symposium ITXPO 2017
+
+<iframe width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://gartner.mediasite.com/Mediasite/Play/0cb97eb8bc474bc0ae380dd9e6f2e6ab1d"></iframe>
 
 #### Oracle OpenWorld 2013 - theCUBE
 
