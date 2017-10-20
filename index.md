@@ -2,9 +2,9 @@
 layout: page
 title: "Jay Cuthrell"
 image:
-  feature: 400x150.png
-  credit: Josh Atwell
-  creditlink: https://twitter.com/josh_atwell
+  feature: 1year.jpg
+  credit: Jay Cuthrell
+  creditlink: https://jaycuthrell.com
 ---
 
 ### Speaker Bio
