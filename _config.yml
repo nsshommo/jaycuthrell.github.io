@@ -62,8 +62,8 @@ defaults:
         description: Words by Jay Cuthrell
         image: 400x150.png
       image:
-        feature: 400x150.png
-        credit: Josh Atwell
+        feature: 1year.jpg
+        credit: Jay Cuthrell
   -
     scope:
       path: ""
@@ -78,5 +78,5 @@ defaults:
         description: Words by Jay Cuthrell
         image: 400x150.png
       image:
-        feature: 400x150.png
-        credit: Josh Atwell
+        feature: 1year.jpg
+        credit: Jay Cuthrell
