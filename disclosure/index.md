@@ -23,19 +23,17 @@ I’ve been a guest contributor at Telecompetitor and a writer for ReadWrite.
 
 ### My Employers, Clients, and Customers
 
-My updated bio is kept relatively current on the home page of this website and other variations elsewhere on the Internet are considered deprecated.
+This is my primary personal website and other variations elsewhere on the Internet are considered deprecated.
 
-As of October 2010 I started a new role as a Managing Principal vArchitect with VCE and I am presently Chief of Staff for the Office of the CTO, [Dell EMC](http://www.vce.com) Converged Platforms and Solutions Division that provides me with access to place [referral links to job openings that may result in referral bonus payments to me](http://unicornjockey.com) as part of company wide hiring and recruiting incentives.
+I am presently Chief of Staff for the SVP & CTO of [Dell EMC](http://www.vce.com) Converged Platforms and Solutions.
 
-I’ve also been the managing principal of my own consulting practice and had interesting gigs with other companies as well. [My abreviated CV](http://www.linkedin.com/in/jaycuthrell) is exclusively availabe on LinkedIn and other variations elsewhere on the Internet are considered deprecated.
+[My abreviated CV](http://www.linkedin.com/in/jaycuthrell) is exclusively availabe on LinkedIn and other variations elsewhere on the Internet are considered deprecated.
 
 ### Startups
 
 I was an advisor to amazing startups that got funded: [Racemi](http://racemi.com)
 
-I was an advisor to Packet Island which was acquired by [BroadSoft](https://www.broadsoft.com/news/broadsoft-completes-acquisition-of-packet-island/)
-
-I’m an advisor to amazing startups that are pre-funding. Feel free to ask me about them and I’d be happy to make introductions.
+I was an advisor to amazing startups that got acquired: [Packet Island](https://www.broadsoft.com/news/broadsoft-completes-acquisition-of-packet-island/)
 
 I’ve been an advisor to amazing startups that did not survive and experienced the learning curve of failure. Feel free to ask me about them, the mistakes made, the lessons learned, and how to reach out to the leadership teams that are stronger as a result of failure.
 
@@ -45,21 +43,16 @@ I have published [a blog post that outlines how I work with startups and my full
 
 ### Positions
 
-I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement. 
+I may actively trade in the stock market. When I produce content on this website I will disclose my position or interest in reference by linking to this positions statement.
 
 I invest primarily in mutual funds and index funds but may also participate in automatic rebalancing services such as Wealthfront. If you are interested in the latter, this [Wealthfront invitation referral link](http://wlth.fr/1RjvsX3) may provide you with a discount and/or advisory fee relief in addition to lowering my own advisory fees. Be sure to read all the fine print and [Wealthfront disclosures](https://www.wealthfront.com/legal/disclosure) (as of May 2015) therein. YMMV.
 
 I’ll spare you the reporting on how my portfolio is doing. I’m not an investment professional. Do your own homework and remember that everything you are reading here and elsewhere from me does not constitute investment advice in any way shape or form.
 
-### Sponsorships, Gifts, SWAG, Trinkets, Chotchkies, and Freebies
-
-I’ve been a sponsor in the past and continue to put my marketing dollars where I want to when I want to. In all cases, my marketing dollars have never gone beyond $5,000 for any specific event or group sponsorship within a calendar year.
+### Gifts, SWAG, Trinkets, Chotchkies, and Freebies
 
 I’m often presented with various bags of random items and the occasional high dollar gadget or two when attending conferences and the link. If it is worth more than $5 or something I can’t take notes on (e.g. pens and paper) I donate it. I explained this in more detail on an old [free phones](https://jaycuthrell.com/free-phones/) post.
 
-I’m often doing the meals and entertainment thing with clients and customers. Sometimes I get invited to VIP events that are extremely valuable in terms of the ticket price. I make it widely known that someone paid my way. Typically, I’m back the next year on my own dime if it is a solid event. Also, if I am dining with industry contacts, it’s a good bet I’m the one footing the bill. Yes, that gets expensive sometimes.
+I’m often doing the meals and entertainment thing with clients and customers. Sometimes I get invited to VIP events that are extremely valuable in terms of the ticket price. I make it widely known that someone paid my way. Typically, I’m back the next year on my own dime if it is a solid event.
 
-I’m always experimenting with ways to monetize web content. I’ve used Google Adsense, Text Link Ads, Adbrite, Amazon Affiliates, etc… but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there. Currently, I am testing Amazon Affiliates for use with 404 responses on this website and other deprecated web properties that I own.
-
-While I don’t maintain a detailed spreadsheet or general ledger as such, I’ve had plenty of drinks and dinners where the check may have been picked up by a third party or sponsor.  Conspicuous examples would include SxSW social events, pizza nights with local user groups, etc… but there’s also a solid possibility I’ve also been a sponsor and/or paid some form of fee or incurred expenses to be in attendance.
-
+I’m always experimenting with ways to monetize web content. I’ve used Google Adsense, Text Link Ads, Adbrite, Amazon Affiliates, etc… but I always end up taking them down after I’m familiar with the concepts. At best I’ve made $100 or so here and there.
