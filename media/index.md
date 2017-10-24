@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Viral Videos, Writing, Events, and Interviews"
+title: "Videos, Writing, Events, and Interviews"
 image:
   feature: phonekeyboard.png
   credit: Jay Cuthrell
@@ -107,7 +107,7 @@ image:
 
 <iframe width="300" height="168" src="http://www.youtube.com/embed/YCbAh5hx31U" frameborder="0" allowfullscreen></iframe>
 
-### Viral Corporate Videos
+### Corporate Videos
 
 (Partial List)
 
