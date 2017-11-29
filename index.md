@@ -7,6 +7,14 @@ image:
   creditlink: https://jaycuthrell.com
 ---
 
+### Discussion Leader Themes
+
+* Any sufficiently advanced product is indistinguishable from marketing
+* Listen to futurists and historians before ignoring both
+* The perfect team is one to do it, one to write it down, and one to think ahead
+* Balancing innovation, governance, and computational possibilities
+* And more...
+
 ### Discussion Leader Bio
 
 Jay Cuthrell is Chief of Staff to the SVP & Chief Technology Officer of Dell EMC Converged Platforms & Solutions. He is a frequent industry discussion leader on trending and emergent impactful technology. An innovative and sought after energetic industry leader, Jay leverages his extensive experiences as a CTO, VP, and GM in high growth ICT companies as well as global infrastructure consulting roles for Fortune 500 clients to be a trusted advisor on strategic technology.
