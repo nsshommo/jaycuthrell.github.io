@@ -12,7 +12,7 @@ tags:
 - faq
 ---
 
-[
+
 
 People often ask me "why qthrul? why fudge?"
 
