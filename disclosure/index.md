@@ -31,11 +31,9 @@ I am presently Chief of Staff for the SVP & CTO of [Dell EMC](http://www.vce.com
 
 ### Startups
 
-I was an advisor to amazing startups that got funded: [Racemi](http://racemi.com)
+At present, I am no longer an advisor to any startups.
 
-I was an advisor to amazing startups that got acquired: [Packet Island](https://www.broadsoft.com/news/broadsoft-completes-acquisition-of-packet-island/)
-
-I was an advisor to amazing startups that did not survive and experienced the learning curve of failure. Feel free to ask me about them, the mistakes made, the lessons learned, and how to reach out to the leadership teams that are stronger as a result of failure.
+I was an advisor to amazing startups were funded, acqired, and ones that did not survive.
 
 With all startups I advise, the equity I have is commensurate with my involvement level.
 
