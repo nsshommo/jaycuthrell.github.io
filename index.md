@@ -13,7 +13,7 @@ image:
 * Listen to futurists and historians before ignoring both
 * The perfect team is one to do it, one to write it down, and one to think ahead
 * Balancing innovation, governance, and computational possibilities
-* And more...
+* And more... just give me a few days to prepare
 
 ### Discussion Leader Bio
 
