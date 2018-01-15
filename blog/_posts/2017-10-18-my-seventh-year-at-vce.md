@@ -19,7 +19,7 @@ As of June 20 2017, I am named in a granted patent: [9684539][2293ae92]
 
   [2293ae92]: https://patents.google.com/patent/US9684539B1/en "Methods, systems, and computer readable mediums for logically remediating infrastructure resource components"
 
-w00t!!!
+w00t!!!!
 
 Origin Stories
 ==============
