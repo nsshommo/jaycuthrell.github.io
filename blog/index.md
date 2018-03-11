@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Select blog posts
-excerpt: "An archive of blog posts sorted by date."
+title: Blog Posts by Jay Cuthrell
 image:
   feature: convergedthoughts.png
   credit: Jay Cuthrell
   creditlink: https://jaycuthrell.com
-search_omit: true
+  
 ---
 
 These posts have been through a series of imports and exports. Originally, flat files, then they became WordPress (LAMP), OctoPress (LAMP), GitHub Pages, Revue (imported), etc... not to mention the various themes blender at this point. So, please forgive any formatting issues.
