@@ -25,7 +25,7 @@ I was a guest contributor at Telecompetitor and a writer for ReadWrite in additi
 
 This is my primary personal website and other variations elsewhere on the Internet are non-authoritative and considered deprecated.
 
-I am presently Chief of Staff for the SVP of Engineering, Converged at [Dell EMC](http://www.vce.com).
+I am presently in a Chief of Staff role at [Dell EMC](http://www.vce.com).
 
 [My abreviated CV](http://www.linkedin.com/in/jaycuthrell) is exclusively availabe on LinkedIn and other variations elsewhere on the Internet are non-authoritative and considered deprecated.
 
