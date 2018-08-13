@@ -15,11 +15,10 @@ tags:
 - travel
 ---
 
-[
 
 From the US Airways mailing lists for frequent flyers (_emphasis_ mine):
 
-> _To ensure the safety and security of airline passengers, heightened security measures have been implemented at airports. As you plan your trip, please keep the following in mind:
+To ensure the safety and security of airline passengers, heightened security measures have been implemented at airports. As you plan your trip, please keep the following in mind:
 
 - Be sure to **bring proper photo identification** before you leave home. Acceptable forms of identification are a valid photo driver's license, an active passport or an employee identification from a county, state or federal agency.
 
@@ -35,8 +34,5 @@ From the US Airways mailing lists for frequent flyers (_emphasis_ mine):
 
 - There will be an **increased presence of law enforcement and security personnel** at airports, where there will also be **heightened vigilance for unattended bags**.
 
-- **No knives of any size, or made from any material, are permitted on flights**._
-
-
-
+- **No knives of any size, or made from any material are permitted on flights**.
 
