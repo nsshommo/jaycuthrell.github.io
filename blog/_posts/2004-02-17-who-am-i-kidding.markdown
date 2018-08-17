@@ -19,13 +19,13 @@ Voice over: You’ve got a great cell phone. It takes pictures. Tons of games. I
 
 Video: Man looks into camera, has a big grin, then nods affirmatively and makes a “yeah, I’m cool” face.
 
-Voice over: But the bill is.. well, hard to justify given your social life. That’s why Verizon is now offering the “Who Am I Kidding Plan”. Sure, you have a cell phone, but let’s be realistic. Nobody calls you. Really. We mean it. Nobody calls you.
+Voice over: But the bill is, well, hard to justify given your social life. That’s why Verizon is now offering the “Who Am I Kidding Plan”. Sure, you have a cell phone, but let’s be realistic. Nobody calls you. Really. We mean it. Nobody calls you.
 
 Video: Man face sinks into a depressing expression and kind of nods a sheepish affirmation.
 
 Voice over: And most likely, nobody ever will. You see, you're just not popular. In fact, we know from our own call analysis that people don’t even answer your calls. That’s right. They go straight to their voice mail. We’re excited to offer this calling plan to you and others like you. We’ll even make it so you don’t have to wait for the other person you call to let it ring into their voice mail. We’ll send your calls straight there. You’ll feel better knowing your message was left and you didn’t have to put the person you called on the spot. Nobody likes a pest and with the “Who Am I Kidding Plan” you won’t be!
 
-Video: Man looks into camera, has a big grin, then nods affirmatively and makes a “maybe I am cool” face then a “hey, wait a minute…” face
+Video: Man looks into camera, has a big grin, then nods affirmatively and makes a “maybe I am cool” face then a “hey, wait a minute……” face
 
 Voice over: That’s right! And, with our nationwide all digital network your voice mails will be crystal clear when they forward through it or don’t hit delete quickly enough to avoid hearing it!
 
