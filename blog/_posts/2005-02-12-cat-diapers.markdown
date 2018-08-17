@@ -12,9 +12,7 @@ tags:
 I was trying to figure out where cat poop goes. _Yes, this is my life._
 
 So, as I live in Raleigh I asked the waste folks (they have email) the question:
-
-
-   
+ 
 > Subject: Pet fecal matter in Raleigh garbage?
 >
 >XXXXX,
@@ -35,8 +33,7 @@ So, as I live in Raleigh I asked the waste folks (they have email) the question:
 >Jay
 
 
-
-I got a response in less than 12 hours.... and apparently, **you can put diapers on cats!**
+I got a response in less than 12 hours and apparently, **you can put diapers on cats!**
 
 
 > Subject: RE: Pet fecal matter in Raleigh garbage?
@@ -51,7 +48,7 @@ Tonight, as I go through Pet Smart I see this advertised:
 
 > "LitterLocker® gives cat lovers an odorless, hygienic, easy way to dispose of waste. Pet owners simply scoop and sift clumps in a regular litter box using the litter scoop included with the unit, open the lid and discard the waste in the LitterLocker® container."
 
-So, now I am wondering if people are secretly buying these, and discarding pet waste in their regular garbage collection in Raleigh and thereby possibly breaking the law?
+So, now I am wondering if people are secretly buying these and discarding pet waste in their regular garbage collection in Raleigh and thereby possibly breaking the law?
 
 Here's video footage that could be supplied to the authorities:
 
