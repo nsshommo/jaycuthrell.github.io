@@ -12,7 +12,6 @@ categories:
 - telecom
 ---
 
-[
 
 I was listening to TSOT on NPR this morning. This was made possible due to my new early to bed and early to rise experiment. The subject was related to productivity and Internet access in the workplace. There was a lot of anecdotal evidence and people called in to say why they felt the Internet was good or bad for productivity. The real issue, in my mind, is management techniques.
 
@@ -24,9 +23,7 @@ So, then there are quota workers that require constant supervision. Or do they? 
 
 So, back to Internet access. There is a lot of Internet access filtering/proxy/session hijack products and services out there that market themselves as tools to shape employee productivity. I say shape since I am still not convinced the word improve can be used without some amount of marketing lobotomy.
 
-Also, when there is a browser on the desktop, it is probably something default and it just leads to frustration and loss of cycles through having to get past the MSN homepage load each time, then wondering if some people use a bookmark or try to type in http:\ each time the want to go somewhere.
-
-[
+Also, when there is a browser on the desktop, it is probably something default and it just leads to frustration and loss of cycles through having to get past the MSN homepage load each time, then wondering if some people use a bookmark or try to type in http:\ each time they want to go somewhere.
 
 I’ve watched people that have never grown up around the Internet tools. It’s pretty scary to watch. They don’t want to know what is going on with the GUI. This is why phish scams work. It looks right. People click.
 
@@ -34,5 +31,5 @@ All this was going though my mind as the Internet access talk continued on the r
 
 As I drove up to the recycling bins (the real reason for my early morning trip), I saw the overflowing massive bin reserved for phone books. Yes, phone books.
 
-All that Internet access, and I wondered why there are still phone books. Perhaps, the Internet access just isn’t as productive as it could be.
+All that Internet access and I wondered why there are still phone books. Perhaps, the Internet access just isn’t as productive as it could be.
 
