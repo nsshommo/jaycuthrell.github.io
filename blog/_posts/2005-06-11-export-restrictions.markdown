@@ -37,3 +37,4 @@ So, if there was a dip ready service out there it would have to have a few featu
 If you have used Plaxo for any period of time you know that many email administrators simply block anything and everything that Plaxo tries to send on your behalf. Plaxo lets you handle bounces and some of them have very informative messages from the email administrator (well, their servers) that politely say “pound sand” and “your kind is not welcome here”.
 
 So, Plaxo might want to play well with others, but it does not mean everyone will let their children out to play with them. That makes Plaxo the kid with the really cool bike that other kids want to play with but the parents don’t trust completely.
+
